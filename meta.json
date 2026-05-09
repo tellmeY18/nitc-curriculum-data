@@ -1,0 +1,21 @@
+{
+  "institution": {
+    "name": "National Institute of Technology Calicut",
+    "short_name": "NITC",
+    "domain": "nitc.ac.in",
+    "ring_did": "",
+    "timezone": "Asia/Kolkata"
+  },
+  "academic_system": {
+    "type": "semester",
+    "semesters_per_year": 2,
+    "naming_convention": "{year}-{season}",
+    "seasons": ["monsoon", "winter"]
+  },
+  "repo": {
+    "url": "https://github.com/changala-social/nitc-curriculum-data",
+    "calendar_path": "calendar/",
+    "departments_path": "departments/",
+    "semesters_path": "semesters/"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "institution": "NITC",
+  "standing_holidays": [
+    { "date_pattern": "01-26", "name": "Republic Day" },
+    { "date_pattern": "08-15", "name": "Independence Day" },
+    { "date_pattern": "10-02", "name": "Gandhi Jayanti" },
+    { "date_pattern": "11-01", "name": "Kerala Piravi" }
+  ],
+  "notes": "Floating holidays (Onam, Eid, Diwali, Christmas, etc.) vary by year and are declared in the annual calendar file."
+}

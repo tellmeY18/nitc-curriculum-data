@@ -1,0 +1,385 @@
+{
+  "department": "ECE",
+  "elective_categories": [
+    {
+      "category": "digital_automation_technologies",
+      "courses": [
+        {
+          "code": "EC2021E",
+          "title": "Object Oriented Programming",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        },
+        {
+          "code": "EC2022E",
+          "title": "Data Structures",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        },
+        {
+          "code": "EC2023E",
+          "title": "Foundations of Data Science",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        },
+        {
+          "code": "EC2024E",
+          "title": "Hardware Modelling using HDL",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        },
+        {
+          "code": "EC2025E",
+          "title": "Introduction to C Programming",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        }
+      ]
+    },
+    {
+      "category": "devices_circuits_systems",
+      "courses": [
+        {
+          "code": "EC3021E",
+          "title": "Analog MOS Integrated Circuits",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3022E",
+          "title": "Architecture of Advanced Processors",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3023E",
+          "title": "Computer Organization",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3024E",
+          "title": "Design for Electromagnetic Compatibility",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3025E",
+          "title": "Electronic Instrumentation",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3026E",
+          "title": "Embedded Systems",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        },
+        {
+          "code": "EC3027E",
+          "title": "High Speed Digital Circuits",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3028E",
+          "title": "Internet of Things",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3029E",
+          "title": "Micro-Nano Fabrication",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3030E",
+          "title": "VLSI Testing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3031E",
+          "title": "Nanoelectronics",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3032E",
+          "title": "RF Integrated Circuits",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3033E",
+          "title": "Semiconductor Device Modelling",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3034E",
+          "title": "Sensors: Design and Fabrication",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3035E",
+          "title": "Design with OP-AMPs and Analog ICs",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3036E",
+          "title": "Compound Semiconductor Devices",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3037E",
+          "title": "Power Semiconductor Devices",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3038E",
+          "title": "Flexible Electronics",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3039E",
+          "title": "RF Computational Lab",
+          "credits": { "lecture": 1, "tutorial": 0, "practical": 3, "total": 3 }
+        },
+        {
+          "code": "EC3040E",
+          "title": "Compact Modeling for IC Design",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3041E",
+          "title": "THz Electronics",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3042E",
+          "title": "Semiconductor Memory Technologies",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3043E",
+          "title": "Spintronic Devices",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3044E",
+          "title": "IC Hardware Security",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3045E",
+          "title": "Fundamentals of Photovoltaic Devices",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3046E",
+          "title": "Data Conversion Systems",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3047E",
+          "title": "VLSI Architectures for DSP",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3048E",
+          "title": "Hardware Architectures for Deep Learning",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        }
+      ]
+    },
+    {
+      "category": "signal_processing_machine_learning",
+      "courses": [
+        {
+          "code": "EC3050E",
+          "title": "Array Signal Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3051E",
+          "title": "Artificial Intelligence",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3052E",
+          "title": "Introduction to Autonomous Intelligent Systems",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3053E",
+          "title": "Bases and Frames for Signal Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3054E",
+          "title": "Compressed Sampling: Principles and Algorithms",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3055E",
+          "title": "Computer Vision: Algorithms and Applications",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3056E",
+          "title": "Natural Language Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3057E",
+          "title": "Deep Learning for Computer Vision",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3058E",
+          "title": "Digital Image Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3059E",
+          "title": "Reinforcement Learning",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3060E",
+          "title": "Mathematics for Machine Learning",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3061E",
+          "title": "Multi-rate Systems",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3062E",
+          "title": "Neural Networks and Deep Learning",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3063E",
+          "title": "Big Data Analytics",
+          "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 }
+        },
+        {
+          "code": "EC3064E",
+          "title": "Optimization Techniques",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3065E",
+          "title": "Pattern Classification",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3066E",
+          "title": "Signal Compression",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3067E",
+          "title": "Wavelet Theory",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3068E",
+          "title": "Speech Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3069E",
+          "title": "Biomedical Signal Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3070E",
+          "title": "Inverse Problems in Imaging",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3071E",
+          "title": "Predictive AI and Generative AI",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3072E",
+          "title": "AI for Text, Image and Video Processing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3073E",
+          "title": "AI for National Urban Growth and Smart Cities",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        }
+      ]
+    },
+    {
+      "category": "communication_and_networks",
+      "courses": [
+        {
+          "code": "EC3075E",
+          "title": "Antenna Theory",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3076E",
+          "title": "Cryptography: Theory and Practice",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3077E",
+          "title": "5G-6G Technologies and Standards",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3078E",
+          "title": "Opto-electronic Communication Systems",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3079E",
+          "title": "CAD of High Frequency Circuits",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3080E",
+          "title": "Signal Estimation and Detection",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3081E",
+          "title": "Wireless Technologies and Systems",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3082E",
+          "title": "Coding Schemes for Modern Communication Systems",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3083E",
+          "title": "Network Information Theory and Coding",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3084E",
+          "title": "Wireless Networks",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3085E",
+          "title": "Topics in Multi-user Communications",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3086E",
+          "title": "Telecom Network Management",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3087E",
+          "title": "Radar Engineering",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3088E",
+          "title": "Multicarrier and MIMO Techniques",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        },
+        {
+          "code": "EC3089E",
+          "title": "Introduction to Quantum Computing",
+          "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 }
+        }
+      ]
+    }
+  ]
+}

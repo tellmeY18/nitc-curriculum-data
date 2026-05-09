@@ -1,0 +1,22 @@
+{
+  "academic_year": "2025-2026",
+  "institution": "NITC",
+  "semesters": [
+    {
+      "name": "2025-monsoon",
+      "display_name": "Monsoon Semester 2025",
+      "start_date": "",
+      "end_date": "",
+      "phases": [],
+      "important_dates": []
+    },
+    {
+      "name": "2025-winter",
+      "display_name": "Winter Semester 2025-26",
+      "start_date": "",
+      "end_date": "",
+      "phases": [],
+      "important_dates": []
+    }
+  ]
+}

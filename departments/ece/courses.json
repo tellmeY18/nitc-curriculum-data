@@ -1,0 +1,538 @@
+{
+  "department": "ECE",
+  "curriculum_version": "2023",
+  "courses": [
+    {
+      "code": "EC1002E",
+      "title": "Introduction to Programming",
+      "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 },
+      "category": "core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Computational thinking, Python basics, data types, strings, tuples, lists, dictionaries",
+        "Control flow, functions, recursion, aliasing, mutability",
+        "Exception handling, concurrency and parallelism, synchronisation",
+        "OOP: classes, objects, constructors, encapsulation, inheritance, polymorphism, abstract classes",
+        "Searching and sorting algorithms, asymptotic complexity"
+      ],
+      "textbooks": [],
+      "references": [
+        "M. Lutz, Learning Python, O'Reilly, 2013",
+        "J. V. Guttag, Introduction to Computation and Programming Using Python, MIT Press, 2016",
+        "D. Phillips, Python 3 Object-Oriented Programming, Packt, 2018"
+      ]
+    },
+    {
+      "code": "EC1003E",
+      "title": "Introduction to Electronics",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "History of electronics, modern applications",
+        "Circuit elements: resistors, inductors, capacitors, independent/dependent sources",
+        "DC circuits: Kirchhoff's laws, mesh/nodal analysis",
+        "Network theorems: Thevenin, Norton, Superposition, Maximum power transfer, Millman's",
+        "Steady state AC analysis, impedance, phasors, power factor",
+        "Diodes: characteristics, rectifiers, wave shaping, voltage regulators",
+        "BJT: operating regions, current mirrors, switch and amplifier circuits",
+        "Op-amp: inverting/non-inverting amplifiers, voltage follower, integrator, differentiator"
+      ],
+      "textbooks": [],
+      "references": [
+        "Paul Horowitz & Winfield Hill, The Art of Electronics, 3rd Edn., Cambridge, 2015",
+        "S. Sedra & K. C. Smith, Microelectronic Circuits, 7th Edn., Oxford, 2017",
+        "Anant Agarwal & Jeffrey H. Lang, Foundations of Analog and Digital Electronic Circuits, Elsevier, 2005"
+      ]
+    },
+    {
+      "code": "EC1004E",
+      "title": "Digital Circuits and Systems",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Number systems, Boolean algebra, logic gates, Karnaugh map, Quine-McCluskey method",
+        "Combinational circuits: adders, subtractors, comparators, encoders, decoders, multiplexers",
+        "Sequential circuits: latches, flip-flops (RS, JK, D, T, Master-Slave), counters, shift registers",
+        "Design of combinational circuits, hazard-free realisation",
+        "Synchronous sequential circuit design: Mealy and Moore FSMs, state assignment, state reduction"
+      ],
+      "textbooks": [],
+      "references": [
+        "M. Morris & M. Cietti, Digital Design with Verilog HDL, 5th Edn., Pearson, 2013",
+        "Roth Jr. et al., Fundamentals of Logic Design, 6th Edn., Cengage, 2020",
+        "Brown & Vranesic, Fundamentals of Digital Logic with Verilog Design, 3rd Edn., McGraw-Hill, 2014"
+      ]
+    },
+    {
+      "code": "EC1091E",
+      "title": "Practical Electronics",
+      "credits": { "lecture": 1, "tutorial": 0, "practical": 2, "total": 2 },
+      "category": "core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Basic electronic components: resistors, capacitors, inductors, diodes, transistors, ICs, LEDs, relay",
+        "Diode circuits: half-wave/full-wave rectifiers, clippers, clampers",
+        "Transistor as amplifier: biasing, gain, frequency response, power, impedance matching",
+        "Battery characteristics, charging/discharging, protection circuits",
+        "555 IC: internal structure, astable and monostable operation"
+      ],
+      "textbooks": [],
+      "references": [
+        "Paul Horowitz & Winfield Hill, The Art of Electronics, 3rd Edn., Cambridge, 2015",
+        "Data sheets of various electronic components"
+      ]
+    },
+    {
+      "code": "EC1011E",
+      "title": "Electric Circuits and Networks",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 2,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Transients: initial conditions, natural/forced response, RC and RL circuit analysis, RLC circuits",
+        "s-Domain analysis: Laplace transform, nodal/mesh analysis, network functions, poles and zeros",
+        "Frequency response, Bode plots, filter characteristics, Q factor, resonance",
+        "Two-port networks: Z, Y, H, ABCD parameters, series/parallel/cascade interconnections",
+        "Symmetrical two-port networks, image impedance, characteristic impedance"
+      ],
+      "textbooks": [],
+      "references": [
+        "K. S. Suresh Kumar, Electric Circuits and Networks, Pearson, 2015",
+        "M. E. Van Valkenburg, Network Analysis, 3rd Edn., Pearson, 2015",
+        "W. H. Hayt et al., Engineering Circuit Analysis, 9th Edn., McGraw Hill, 2020"
+      ]
+    },
+    {
+      "code": "EC1012E",
+      "title": "Semiconductor Devices",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 2, "total": 4 },
+      "category": "core",
+      "typical_semester": 2,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Quantum mechanics, Schrodinger equation, crystal structure, energy bands, E-K diagram",
+        "Semiconductors: carrier concentration, drift, diffusion, Hall effect, continuity equation",
+        "P-N junction: equilibrium, IV characteristics, junction capacitance, breakdown, Schottky diodes",
+        "MOS system: accumulation, depletion, inversion, threshold voltage, C-V characteristics",
+        "MOSFET: structure, DC characteristics, channel length modulation, short channel effects, small signal model",
+        "Simulation using SPICE/MATLAB/TCAD; hardware experiments on diodes, BJTs, MOSFETs"
+      ],
+      "textbooks": [],
+      "references": [
+        "D. A. Neamen, Semiconductor Physics and Devices, 4th Edn., McGraw Hill, 2021",
+        "S. M. Sze, Physics of Semiconductor Devices, 3rd Edn., Wiley, 2008",
+        "C. C. Hu, Modern Semiconductor Devices for Integrated Circuits, Pearson, 2010"
+      ]
+    },
+    {
+      "code": "EC1092E",
+      "title": "Digital Systems Lab",
+      "credits": { "lecture": 1, "tutorial": 0, "practical": 2, "total": 2 },
+      "category": "core",
+      "typical_semester": 2,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Introduction to Verilog: modules, ports, wires, registers, behavioural and gate-level modelling",
+        "Logic synthesis, RTL synthesis, Xilinx FPGA architectures",
+        "Implementation: combinational circuits, arithmetic circuits, flip-flops, counters, sequence detectors"
+      ],
+      "textbooks": [],
+      "references": [
+        "Roth Jr. et al., Fundamentals of Logic Design, 6th Edn., Cengage, 2020",
+        "S. Palnitkar, Verilog HDL, 2nd Edn., Prentice Hall, 2003"
+      ]
+    },
+    {
+      "code": "EC2001E",
+      "title": "Signals and Systems",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 3,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Continuous-time LTI systems, Laplace transform, impulse response, convolution, transfer function",
+        "Poles and zeros, stability, Fourier transform, frequency response, bandwidth, Fourier series",
+        "Sampling theorems (lowpass and bandpass), discrete-time sequences and systems",
+        "Linear difference equations, z-transform, stability of discrete-time systems",
+        "Discrete Fourier series, DTFT, DFT, properties of DFT matrix"
+      ],
+      "textbooks": [],
+      "references": [
+        "B. P. Lathi, Linear Systems and Signals, Oxford University Press, 2004",
+        "Oppenheim, Willsky & Nawab, Signals and Systems, 2nd Edn., PHI/Pearson, 2011",
+        "M. Vetterli et al., Foundations of Signal Processing, Cambridge, 2015"
+      ]
+    },
+    {
+      "code": "EC2002E",
+      "title": "Analog Circuits",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 3,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Amplifier types, bandwidth, two-port network models",
+        "Large signal and small signal MOSFET models, common source amplifier, current-mirror biasing, source follower",
+        "High frequency MOSFET model, frequency response, Miller effect, cascode amplifier",
+        "CMOS differential amplifiers, CMRR, instrumentation amplifier, slew rate, offset voltage",
+        "Two-stage op-amp, negative feedback, stability, phase margin, frequency compensation",
+        "Oscillators: RC phase shift, Wien bridge, PLL as negative feedback system"
+      ],
+      "textbooks": [],
+      "references": [
+        "S. Sedra & K. C. Smith, Microelectronic Circuits, 7th Edn., Oxford, 2015",
+        "D. A. Neamen, Electronic Circuit Analysis and Design, 3rd Edn., McGraw-Hill, 2006",
+        "Razavi, Fundamentals of Microelectronics, Wiley India, 2009"
+      ]
+    },
+    {
+      "code": "EC2003E",
+      "title": "Computer Architecture and Processors",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 3,
+      "prerequisites": ["A first level course in Digital Circuits"],
+      "description": "",
+      "syllabus_modules": [
+        "Computer architecture basics, system bus, RISC vs CISC, history of microprocessors",
+        "8086 architecture: execution unit, registers, memory segmentation, addressing modes, ISA",
+        "8086 instruction set: data transfer, stack, arithmetic, logical, string instructions, interrupts",
+        "8086 hardware: pin diagram, memory/IO decoding, interrupt vector table, DMA",
+        "8051 microcontroller: architecture, memory, assembly programming using Keil, port programming",
+        "8051 internal peripherals: timers, serial communication, interrupts"
+      ],
+      "textbooks": [],
+      "references": [
+        "Lyla B. Das, The x86 Microprocessors: 8086 to Pentium, 2nd Edn., Pearson, 2014",
+        "M. A. Mazidi et al., The 8051 Microcontroller and Embedded Systems, 2nd Edn., Pearson, 2008",
+        "J. L. Hennessy & D. A. Patterson, Computer Architecture, A Quantitative Approach, 5th Edn., Elsevier, 2012"
+      ]
+    },
+    {
+      "code": "EC2004E",
+      "title": "Engineering Electromagnetics",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 3,
+      "prerequisites": ["Electricity and Magnetism"],
+      "description": "",
+      "syllabus_modules": [
+        "Transmission lines: voltage/current equations, standing waves, Smith chart, impedance matching, microstrip",
+        "Plane waves: Maxwell's equations, polarization, skin depth, reflection/transmission at interfaces, Brewster's angle",
+        "Guided waves: rectangular/circular waveguides, TE/TM modes, cut-off wavelength, dominant mode",
+        "S-parameters for two-port networks",
+        "EM simulation tools: waveguides, matching networks, tees, couplers"
+      ],
+      "textbooks": [],
+      "references": [
+        "R. K. Shevgaonkar, Electromagnetic Waves, McGraw Hill, 2016",
+        "W. H. Hayt et al., Engineering Electromagnetics, McGraw Hill, 8th Edn., 2020",
+        "D. M. Pozar, Microwave Engineering, Wiley, 4th Edn., 2012"
+      ]
+    },
+    {
+      "code": "EC2091E",
+      "title": "Analog Circuits Lab",
+      "credits": { "lecture": 0, "tutorial": 0, "practical": 3, "total": 2 },
+      "category": "core",
+      "typical_semester": 3,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Op-amp voltage follower, non-inverting amplifier, gain, frequency response, integrator, differentiator",
+        "Log/antilog amplifier and applications",
+        "Op-amp as super diode",
+        "Extracting small signal model parameters of a transistor",
+        "Common drain amplifier as buffer",
+        "Common source and cascode amplifiers",
+        "Instrumentation amplifier and CMRR",
+        "Characterisation of op-amp",
+        "Oscillator/multivibrator circuits"
+      ],
+      "textbooks": [],
+      "references": []
+    },
+    {
+      "code": "EC2011E",
+      "title": "Foundations of Machine Learning",
+      "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 },
+      "category": "core",
+      "typical_semester": 4,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Linear algebra, probability, decision theory, Bayes decision rule, optimization algorithms",
+        "Gradient descent, stochastic/mini-batch gradient descent, momentum",
+        "Supervised learning design cycle: data exploration, model development, evaluation",
+        "Linear regression, logistic regression, classification, cross-validation, regularization",
+        "Decision trees, Naive Bayes, Perceptron, MLP, K-NN, MLE",
+        "Unsupervised learning: PCA, LDA, K-Means clustering"
+      ],
+      "textbooks": [],
+      "references": [
+        "M. P. Deisenroth et al., Mathematics for Machine Learning, Cambridge, 2020",
+        "G. James et al., An Introduction to Statistical Learning, Springer, 2013",
+        "Lyla B. Das et al., Artificial Intelligence and Machine Learning, I.K. International, 2023"
+      ]
+    },
+    {
+      "code": "EC2012E",
+      "title": "Communication Engineering I",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 4,
+      "prerequisites": ["Signals and Systems"],
+      "description": "",
+      "syllabus_modules": [
+        "Analog communication: AM, DSB/SC, SSB, VSB, FM, PM, methods of generation and demodulation",
+        "Noise in receivers, SNR, figure of merit for different modulation schemes",
+        "Digital baseband: PAM, TDM, quantization, PCM, DPCM, line coding, ISI, Nyquist criteria, pulse shaping",
+        "Signal space representation, matched filter, correlation receiver",
+        "Digital bandpass: ASK, PSK, FSK, QPSK, MSK, QAM, M-ary modulation, signal constellation"
+      ],
+      "textbooks": [],
+      "references": [
+        "U. Madhow, Introduction to Communication Systems, Cambridge, 2014",
+        "R. E. Zeimer & W. H. Tranter, Principles of Communications, Wiley, 7th Edn., 2014",
+        "B. P. Lathi & Z. Ding, Modern Digital and Analog Communication Systems, Oxford, 5th Edn., 2019"
+      ]
+    },
+    {
+      "code": "EC2013E",
+      "title": "VLSI Design",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 4,
+      "prerequisites": ["Digital Circuits and Systems"],
+      "description": "",
+      "syllabus_modules": [
+        "VLSI design flow, MOS transistors, MOSFET capacitances, scaling, short channel effects",
+        "CMOS inverter: DC/transient analysis, area, power, noise margin, layout",
+        "Multiple input static CMOS logic, logical effort, sizing for minimum delay",
+        "Logic styles: Pseudo-NMOS, DCVSL, pass transistor, transmission gate",
+        "Dynamic CMOS: charge sharing, domino logic, np-CMOS, sequential circuits",
+        "Timing: synchronous timing, clock skew, jitter, clock distribution",
+        "Standard cells, arithmetic blocks: adders, multipliers, barrel shifters",
+        "6T SRAM and DRAM cell design"
+      ],
+      "textbooks": [],
+      "references": [
+        "J. M. Rabaey et al., Digital Integrated Circuits, 2nd Edn., Pearson, 2016",
+        "N. H. E. Weste & D. M. Harris, CMOS VLSI Design, 4th Edn., Pearson, 2010",
+        "R. J. Baker, CMOS Circuit Design, Layout, and Simulation, 3rd Edn., Wiley-IEEE, 2019"
+      ]
+    },
+    {
+      "code": "EC2092E",
+      "title": "Microcontroller Lab",
+      "credits": { "lecture": 1, "tutorial": 0, "practical": 2, "total": 2 },
+      "category": "core",
+      "typical_semester": 4,
+      "prerequisites": ["Computer Architecture and Processors"],
+      "description": "",
+      "syllabus_modules": [
+        "Embedded C programming using Keil Microvision IDE, interfacing peripherals to 8051",
+        "MSP430: pin-out, memory map, clock generator, interrupts, interfacing peripherals",
+        "GPIO, timers, interrupts, analog signal interfacing, relay/display/motor driver interfacing",
+        "Designing complete embedded systems for specific applications"
+      ],
+      "textbooks": [],
+      "references": []
+    },
+    {
+      "code": "EC3001E",
+      "title": "Control Systems",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 5,
+      "prerequisites": ["Signals and Systems"],
+      "description": "",
+      "syllabus_modules": [
+        "Open-loop and closed-loop systems, transfer function, transient and steady state response",
+        "Mathematical modelling of electronic and electro-mechanical systems",
+        "Block diagram reduction, signal flow graph, Mason's rule, steady-state error",
+        "State space representation, eigenvalues, time domain solution",
+        "Stability: Routh-Hurwitz, root locus, Bode plots, gain margin, phase margin",
+        "Controller design: P, PI, PD, PID controllers, lag/lead compensators",
+        "State space design: pole placement, controllability, observability, case studies using MATLAB"
+      ],
+      "textbooks": [],
+      "references": [
+        "N. S. Nise, Control Systems Engineering, 8th Edn., Wiley, 2019",
+        "K. Ogata, Modern Control Engineering, 5th Edn., Prentice Hall, 2010",
+        "F. Golnaraghi & B. C. Kuo, Automatic Control Systems, 9th Edn., Wiley, 2014"
+      ]
+    },
+    {
+      "code": "EC3002E",
+      "title": "Digital Signal Processing",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 2, "total": 4 },
+      "category": "core",
+      "typical_semester": 5,
+      "prerequisites": ["Signals and Systems"],
+      "description": "",
+      "syllabus_modules": [
+        "DFT, DTFT, DFT properties, approximation of Fourier transform",
+        "FFT: Radix-2 DIT and DIF, prime factor algorithms, inverse DFT using FFT",
+        "Overlap-save and overlap-add methods",
+        "FIR filters: impulse response, linear phase, window design, frequency sampling, minimax design",
+        "IIR filters: structures, direct/cascade/parallel/lattice forms",
+        "IIR design from analog filters: Butterworth, Chebyshev, bilinear transform, impulse invariant",
+        "Finite word length effects, limit cycles",
+        "Multirate signal processing: decimation, interpolation"
+      ],
+      "textbooks": [],
+      "references": [
+        "J. G. Proakis & D. G. Manolakis, Digital Signal Processing, 4th Edn., Pearson, 2007",
+        "Oppenheim & Schafer, Digital Signal Processing, Pearson, 2015",
+        "S. K. Mitra, Digital Signal Processing: A Computer Based Approach, McGraw-Hill, 2013"
+      ]
+    },
+    {
+      "code": "EC3003E",
+      "title": "Communication Engineering II",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 5,
+      "prerequisites": ["Communication Engineering I"],
+      "description": "",
+      "syllabus_modules": [
+        "Source coding: entropy, joint entropy, Huffman codes, Shannon's source coding theorem",
+        "Signal detection: AWGN channel, MAP/ML detection, optimal correlation receiver, probability of error",
+        "Performance analysis: coherent/noncoherent binary and M-ary modulation schemes",
+        "Channel capacity: Shannon-Hartley theorem, bandwidth-energy trade-off",
+        "Channel coding: linear block codes, Hamming code, cyclic codes, convolutional codes, Viterbi decoding",
+        "Belief propagation decoding, capacity-achieving codes"
+      ],
+      "textbooks": [],
+      "references": [
+        "T. M. Cover & J. A. Thomas, Elements of Information Theory, Wiley, 2nd Edn., 2013",
+        "J. G. Proakis & M. Salehi, Communication System Engineering, Pearson, 2nd Edn., 2001",
+        "S. Lin & D. J. Costello Jr., Error Control Coding, 2nd Edn., Pearson, 2010"
+      ]
+    },
+    {
+      "code": "EC3091E",
+      "title": "Communication Engineering Lab",
+      "credits": { "lecture": 0, "tutorial": 0, "practical": 3, "total": 2 },
+      "category": "core",
+      "typical_semester": 5,
+      "prerequisites": ["Communication Engineering I"],
+      "description": "",
+      "syllabus_modules": [
+        "AM generation and envelope detection with AGC",
+        "Radio frequency amplifier/mixer",
+        "FM modulation/demodulation using VCO/PLL",
+        "PAM generation and demodulation",
+        "Pulse code modulation",
+        "Time division multiplexing",
+        "BFSK/BPSK modulation and demodulation",
+        "QPSK modulation and demodulation",
+        "ISI and pulse shaping",
+        "Microstrip patch antenna design for wireless communication",
+        "BER evaluation for BPSK, QPSK, BFSK",
+        "Linear block codes and cyclic codes: encoder and decoder",
+        "Convolutional encoder and Viterbi decoder over AWGN"
+      ],
+      "textbooks": [],
+      "references": []
+    },
+    {
+      "code": "EC3011E",
+      "title": "Wireless Communication",
+      "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 },
+      "category": "core",
+      "typical_semester": 6,
+      "prerequisites": [
+        "Communication Engineering I",
+        "Communication Engineering II"
+      ],
+      "description": "",
+      "syllabus_modules": [
+        "Cellular concept: TDMA, FDMA, CDMA, frequency reuse, co-channel interference, cell splitting",
+        "Mobile radio propagation: free space, path loss, multipath, delay spread, Doppler spread, coherence bandwidth",
+        "Diversity techniques: selective combining, maximal ratio combining, beamforming, Alamouti scheme",
+        "OFDM: cyclic prefix, PAPR, OFDMA, single carrier FDMA, LTE/5G case study"
+      ],
+      "textbooks": [],
+      "references": [
+        "T. S. Rappaport, Wireless Communications, Principles and Practice, 2nd Edn., Pearson, 2010",
+        "D. Tse & P. Viswanath, Fundamentals of Wireless Communication, Cambridge, 2005",
+        "A. Goldsmith, Wireless Communications, Cambridge, 2005"
+      ]
+    },
+    {
+      "code": "EC3012E",
+      "title": "Computer Networks",
+      "credits": { "lecture": 2, "tutorial": 0, "practical": 2, "total": 3 },
+      "category": "core",
+      "typical_semester": 6,
+      "prerequisites": ["A first level course in Programming"],
+      "description": "",
+      "syllabus_modules": [
+        "OSI and Internet architecture, layering, multiplexing, circuit/packet switching",
+        "Data link: framing, error detection, Ethernet (802.3), wireless LAN (802.11), LAN switches",
+        "Network layer: IPv4, addressing, ARP, subnetting, CIDR",
+        "Transport layer: UDP, TCP (segment format, connection management, congestion control)",
+        "QoS: queuing disciplines, weighted fair queuing"
+      ],
+      "textbooks": [],
+      "references": [
+        "L. L. Peterson & B. S. Davie, Computer Networks: A System Approach, Elsevier, 6th Edn., 2021",
+        "J. F. Kurose & K. W. Ross, Computer Networks: A Top-Down Approach, Pearson, 8th Edn., 2020"
+      ]
+    },
+    {
+      "code": "EC3092E",
+      "title": "Project",
+      "credits": { "lecture": 0, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "core",
+      "typical_semester": 6,
+      "prerequisites": [],
+      "description": "Major project culminating B.Tech. study. Can be analytical, simulation, hardware design, or a combination in ECE areas. Two-phase evaluation by department committee: mid-semester and end-semester.",
+      "syllabus_modules": [],
+      "textbooks": [],
+      "references": []
+    },
+    {
+      "code": "EC3093E",
+      "title": "Technical Seminar",
+      "credits": { "lecture": 0, "tutorial": 0, "practical": 3, "total": 2 },
+      "category": "core",
+      "typical_semester": 6,
+      "prerequisites": [],
+      "description": "Students collect materials from books/journals on a chosen topic outside the regular syllabus, organise and present both orally and as a technical report.",
+      "syllabus_modules": [],
+      "textbooks": [],
+      "references": []
+    },
+    {
+      "code": "EC4001E",
+      "title": "Summer Internship",
+      "credits": { "lecture": 0, "tutorial": 0, "practical": 0, "total": 2 },
+      "category": "core",
+      "typical_semester": 7,
+      "prerequisites": [],
+      "description": "Students integrate theoretical concepts with industrial practice, developing work culture, communication, interpersonal skills, technical documentation and presentation capabilities.",
+      "syllabus_modules": [],
+      "textbooks": [],
+      "references": []
+    }
+  ]
+}

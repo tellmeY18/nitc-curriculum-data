@@ -1,0 +1,188 @@
+{
+  "description": "Institute Core (IC) courses shared across all departments at NITC.",
+  "curriculum_version": "2023",
+  "courses": [
+    {
+      "code": "MA1001E",
+      "title": "Mathematics I",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "First order ODEs, existence and uniqueness, linear ODE, orthogonal trajectories",
+        "Second order ODEs with constant coefficients, Wronskian, undetermined coefficients, variation of parameters, Euler-Cauchy equations",
+        "Applications of first and second order ODEs, systems of linear ODEs",
+        "Functions of several variables: limit, continuity, partial derivatives, gradient, Lagrange multipliers",
+        "Parametrised curves, arc length, curvature, torsion",
+        "Sequences, series, convergence tests, power series, Taylor series",
+        "Periodic functions, Fourier series, Fourier integrals, Fourier transforms"
+      ],
+      "textbooks": [],
+      "references": [
+        "H. Anton et al., Calculus, 10th Edn., Wiley, 2015",
+        "G. B. Thomas et al., Thomas' Calculus, 12th Edn., Pearson, 2015",
+        "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+        "Apostol, Calculus Vol 1, Wiley, 2014"
+      ]
+    },
+    {
+      "code": "BT1001E",
+      "title": "Biology for Engineers",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Origin of life, Darwinian evolution, biomolecules (carbohydrates, lipids, proteins, nucleic acids), central dogma",
+        "Cell structure, bioenergetics, signal transduction, cell division, Mendelian genetics",
+        "Human organs: brain, eye, heart, lungs; brain-computer interfaces, pacemakers, ventilators, stem cells",
+        "Human diseases, biosensors, vaccines, genetic modification of crops, biodegradation, biofuels"
+      ],
+      "textbooks": [],
+      "references": [
+        "Reece et al., Campbell Biology, Vol. 9, Pearson, 2014",
+        "S. ThyagaRajan et al., Biology for Engineers, McGraw Hill, 2013",
+        "Fox, S. I., Human Physiology, 13th Edn., McGraw-Hill, 2011"
+      ]
+    },
+    {
+      "code": "EC1001E",
+      "title": "Professional Ethics",
+      "credits": { "lecture": 1, "tutorial": 0, "practical": 0, "total": 1 },
+      "category": "institute_core",
+      "typical_semester": 1,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Human values: morals, integrity, work ethic, civic virtue, honesty, empathy, self-confidence",
+        "Ethics in professional context, ethical responsibilities to consumers, safety, IP, environment",
+        "IEEE code of ethics overview, responsible behavior, avoiding harassment and discrimination",
+        "Academic integrity: honesty, trust, plagiarism, honour codes"
+      ],
+      "textbooks": [],
+      "references": [
+        "R. S. Naagarazan, Textbook on Professional Ethics and Human Values, 3rd Edn., New Age International, 2022",
+        "A. F. Bainbridge, Ethics for Engineers, CRC Press, 2021",
+        "IEEE Code of Ethics - https://www.ieee.org/about/corporate/governance/p7-8.html"
+      ]
+    },
+    {
+      "code": "MA1011E",
+      "title": "Mathematics II",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 2,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Vector fields, divergence, curl, scalar potential, line integrals, Green's theorem",
+        "Double/triple integrals, Jacobian, polar/cylindrical/spherical coordinates, mass, moments",
+        "Surface integrals, flux, Gauss' divergence theorem, Stokes' theorem",
+        "Laplace transform, inverse Laplace transform, convolution, shifting theorems",
+        "Solution of differential and integral equations using Laplace transform",
+        "System of linear equations, Gauss elimination, LU decomposition, rank, eigenvalues, eigenvectors",
+        "Cayley-Hamilton theorem, diagonalisation, quadratic forms, canonical form"
+      ],
+      "textbooks": [],
+      "references": [
+        "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+        "H. Anton et al., Calculus, 10th Edn., Wiley, 2015",
+        "V. I. Arnold, Ordinary Differential Equations, Springer, 2006",
+        "P. Dyke, Introduction to Laplace Transforms and Fourier Series, Springer, 2014"
+      ]
+    },
+    {
+      "code": "PH1003E",
+      "title": "Electricity and Magnetism",
+      "credits": { "lecture": 3, "tutorial": 0, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 2,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Electrostatics: Coulomb's law, Gauss' law, potential, Poisson/Laplace equations, conductors, dielectrics",
+        "Magnetostatics: Biot-Savart law, Ampere's law, magnetic dipoles, magnetized materials",
+        "Time-varying fields: Faraday's law, Lenz's law, mutual/self-inductance, Maxwell's equations, Poynting's theorem",
+        "Electromagnetic waves: wave equation, plane waves, propagation in dielectric medium"
+      ],
+      "textbooks": [],
+      "references": [
+        "D. J. Griffiths, Introduction to Electrodynamics, 4th Edn., PHI Learning, 2012",
+        "E. Purcell & D. Morin, Electricity and Magnetism, 3rd Edn., Cambridge, 2013",
+        "R. P. Feynman et al., Feynman Lectures on Physics Vol. II, Pearson, 2012"
+      ]
+    },
+    {
+      "code": "MS1001E",
+      "title": "Professional Communication",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 2,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Listening, reading comprehension, introductions, feedback, public speaking",
+        "Vocabulary development, critical reading, text structures",
+        "Effective writing: note-making, paragraph writing, official letters, emails, abstract writing",
+        "Communication theory, verbal/nonverbal communication, group discussions, presentations, digital communication etiquette"
+      ],
+      "textbooks": [],
+      "references": [
+        "N. Bhatnagar, Communicative English for Engineers and Professionals, Dorling Kindersley, 2010",
+        "B. A. Garner, HBR Guide to Better Business Writing, Harvard Business Review Press, 2012",
+        "S. Kumar, P. Lata, Communication Skills, Oxford University Press, 2015"
+      ]
+    },
+    {
+      "code": "MA2004E",
+      "title": "Mathematics III",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 3,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Basics of probability, axioms, conditional probability, independence",
+        "Discrete and continuous random variables, CDF, expectation, variance, MGF",
+        "Special distributions: Binomial, Geometric, Poisson, Uniform, Gamma, Exponential, Normal",
+        "Markov and Chebyshev inequalities, law of large numbers, central limit theorem",
+        "Joint probability distributions, marginal/conditional distributions, covariance, correlation",
+        "Transformation of random variables, bivariate normal distribution",
+        "Random processes: mean, autocorrelation, cross-correlation, stationarity (SSS, WSS)",
+        "Power spectral density, Wiener-Khinchine theorem, ergodicity"
+      ],
+      "textbooks": [],
+      "references": [
+        "S. M. Ross, Introduction to Probability and Statistics for Engineers, 5th Edn., Elsevier, 2014",
+        "R. A. Johnson, Miller & Freund's Probability and Statistics for Engineers, 8th Edn., PHI, 2011",
+        "V. Krishnan, Probability and Random Processes, Wiley, 2nd Edn., 2006"
+      ]
+    },
+    {
+      "code": "MA2014E",
+      "title": "Mathematics IV",
+      "credits": { "lecture": 3, "tutorial": 1, "practical": 0, "total": 3 },
+      "category": "institute_core",
+      "typical_semester": 4,
+      "prerequisites": [],
+      "description": "",
+      "syllabus_modules": [
+        "Vector spaces, subspaces, linear independence, basis, inner product spaces, orthogonality",
+        "Gram-Schmidt orthogonalization, projection, least squares, linear transformations, SVD",
+        "Real analysis: sequences, compact/connected sets, continuous mapping, differentiability",
+        "Chain rule, mean-value theorem, Taylor's theorem",
+        "Convex sets, linear programming, unconstrained optimization",
+        "Gradient descent, Newton's method, Lagrange multipliers, KKT conditions"
+      ],
+      "textbooks": [],
+      "references": [
+        "Jerrold E. Marsden & Michael J. Hoffman, Elementary Classical Analysis, Macmillan, 1993",
+        "E. Kreyszig et al., Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+        "Edwin K. P. Chong & Stanislaw K. Zak, An Introduction to Optimization, 2nd Edn., Wiley, 2005"
+      ]
+    }
+  ]
+}

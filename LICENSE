@@ -1,0 +1,38 @@
+REPOSITORY LICENSE AND COPYRIGHT NOTICE
+
+This repository contains data extracted from the official documents of the National Institute of Technology Calicut (NITC). Due to the nature of this project, the licensing is split into two distinct parts: the data structure (schema) and the data content.
+
+=======================================================================
+PART 1: SCHEMA AND STRUCTURE (CC BY-SA 4.0)
+=======================================================================
+
+The JSON schema, data structure, and formatting provided in this repository are original work and are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Copyright (c) 2026 Vysakh Premkumar 
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format
+- Adapt: remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+To view a copy of this license, visit: 
+http://creativecommons.org/licenses/by-sa/4.0/
+
+=======================================================================
+PART 2: CURRICULUM CONTENT AND DATA (NITC COPYRIGHT)
+=======================================================================
+
+The actual curriculum content, including but not limited to course codes, course names, descriptions, syllabus details, and credit structures populated within the JSON files, remains the intellectual property of the National Institute of Technology Calicut.
+
+Copyright (c) National Institute of Technology Calicut. All Rights Reserved.
+
+Data Source details:
+- Institution: National Institute of Technology Calicut (NITC)
+- Original Document: B.Tech Curriculum 2023 (applicable from 2023 admission)
+- Source URL: https://nitc.ac.in
+
+DISCLAIMER:
+The creator of this repository claims no ownership over the official curriculum content. This extracted data is provided strictly for informational, educational, and interoperability purposes. It is not an official release by NITC. For official verification, commercial use, or definitive information, please refer directly to the official NIT Calicut website and administration.
