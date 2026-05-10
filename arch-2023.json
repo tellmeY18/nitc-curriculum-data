@@ -1,0 +1,2096 @@
+{
+  "institution": "National Institute of Technology Calicut",
+  "department": "Architecture and Planning",
+  "program": "Bachelor of Architecture (B.Arch.)",
+  "applicable_from": "2023 Admission onwards",
+  "total_credits": 220,
+  "program_educational_objectives": [
+    {
+      "id": "PEO1",
+      "description": "Prepare students to apply design principles and techniques to create innovative, functional, and sustainable architectural solutions that respond to the social, cultural, economic, and environmental context."
+    },
+    {
+      "id": "PEO2",
+      "description": "Equip students to work collaboratively in interdisciplinary teams, respecting diverse perspectives and engaging in constructive dialogue to address complex architectural problems."
+    },
+    {
+      "id": "PEO3",
+      "description": "Infuse a strong analytical foundation with the ability to conduct research, use evidence-based practices to inform design decisions, and continuously learn and adapt to emerging trends and challenges."
+    },
+    {
+      "id": "PEO4",
+      "description": "Train students to demonstrate a strong work ethic, integrity, and ethical responsibility towards society and environment in their professional practice."
+    }
+  ],
+  "programme_outcomes": [
+    {
+      "id": "PO1",
+      "title": "Architectural Knowledge",
+      "description": "Apply knowledge of design development, building technology, structural systems, environmental studies, humanities and management to develop architectural design solutions."
+    },
+    {
+      "id": "PO2",
+      "title": "Problem analysis",
+      "description": "Identify, formulate, research and analyse complex architectural problems using cultural, historical and theoretical design discourses to reach substantiated inferences."
+    },
+    {
+      "id": "PO3",
+      "title": "Design/development of solutions",
+      "description": "Design solutions for complex architectural problems meeting specified needs with appropriate consideration for cultural, societal, environmental, economic and aesthetic considerations."
+    },
+    {
+      "id": "PO4",
+      "title": "Investigation of complex problems",
+      "description": "Use research-based knowledge and methods, including design of experiments, data analysis and synthesis to arrive at rational and valid conclusions."
+    },
+    {
+      "id": "PO5",
+      "title": "Modern tool usage",
+      "description": "Apply traditional and contemporary design tools and techniques to formulate and communicate creative and innovative architectural design solutions."
+    },
+    {
+      "id": "PO6",
+      "title": "Architect and the society",
+      "description": "Apply reasoning supplemented by contextual knowledge to assess societal, health, safety, legal and cultural issues relevant to the profession."
+    },
+    {
+      "id": "PO7",
+      "title": "Environment and sustainability",
+      "description": "Understand the impact of architectural solutions in societal and environmental contexts and demonstrate the need for sustainable development."
+    },
+    {
+      "id": "PO8",
+      "title": "Ethics",
+      "description": "Apply ethical principles and commitment to professional ethics, responsibilities and norms of professional practice in Architecture."
+    },
+    {
+      "id": "PO9",
+      "title": "Individual and team work",
+      "description": "Function effectively as an individual, member or leader in diverse groups and multidisciplinary settings."
+    },
+    {
+      "id": "PO10",
+      "title": "Communication",
+      "description": "Communicate effectively on architectural design solutions with the community and society, including documentation, presentations and instructions."
+    },
+    {
+      "id": "PO11",
+      "title": "Project management and finance",
+      "description": "Demonstrate knowledge of project management and finance principles and apply them to manage projects in multidisciplinary environments."
+    },
+    {
+      "id": "PO12",
+      "title": "Life-long learning",
+      "description": "Recognise the need and ability to engage in independent and life-long learning in the context of rapid changes in technology."
+    }
+  ],
+  "programme_specific_outcomes": [
+    {
+      "id": "PSO1",
+      "title": "Fine art skill",
+      "description": "Grasp fine arts (local, regional, national and international) as an influence on the quality of architectural design."
+    },
+    {
+      "id": "PSO2",
+      "title": "Legal Knowledge",
+      "description": "Knowledge of local by-laws, national and international codes and regulations related to the architectural profession."
+    },
+    {
+      "id": "PSO3",
+      "title": "Quantitative/Analytical skill",
+      "description": "Capable of quantifying and analysing complex building systems and performance."
+    },
+    {
+      "id": "PSO4",
+      "title": "Entrepreneurial skill",
+      "description": "Enable establishing an independent practice, organising and managing an office while remaining accountable to society."
+    }
+  ],
+  "credit_structure": {
+    "Institute_Core_IC": { "min_courses": 4, "min_credits": 9 },
+    "Programme_Core_and_Electives_PC_PE": {
+      "min_courses": 45,
+      "min_credits": 183
+    },
+    "Open_Electives_OE": { "min_courses": 3, "min_credits": 9 },
+    "Institute_Electives_IE": {
+      "min_courses": 5,
+      "min_credits": 15,
+      "sub_categories": {
+        "Entrepreneurship_Innovation_EI": { "min_credits": 3 },
+        "Digital_Automation_Technologies_DA": { "min_credits": 6 },
+        "Humanities_Social_Science_Management_HM": { "min_credits": 6 }
+      }
+    },
+    "Activity_Credits_AC": { "min_points": 80, "credits": 4 }
+  },
+  "effort_notation": {
+    "L": "Lecture – 50 min per unit",
+    "T": "Tutorial – 50 min per unit",
+    "P_D": "Practical/Design or Drawing – 1 hour per unit",
+    "O": "Outside class / self-study – 1 hour per unit"
+  },
+  "semester_plan": [
+    {
+      "semester": 1,
+      "total_credits": 23,
+      "courses": [
+        {
+          "code": "AP1001E",
+          "title": "Ergonomics",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP1002E",
+          "title": "Theory of Design",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 0,
+          "O": 4,
+          "credits": 2
+        },
+        {
+          "code": "AP1003E",
+          "title": "Architectural Graphics",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 3,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "AP1004E",
+          "title": "Introduction to Design - I",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 6,
+          "O": 14,
+          "credits": 6
+        },
+        {
+          "code": "MA1005E",
+          "title": "Applied Mathematics",
+          "category": "IC",
+          "L": 3,
+          "T": 1,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP1091E",
+          "title": "Visual Art Studio",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 3,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "AP1092E",
+          "title": "Workshop",
+          "category": "IC",
+          "L": 0,
+          "T": 0,
+          "P_D": 2,
+          "O": 2,
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "total_credits": 24,
+      "courses": [
+        {
+          "code": "AP1005E",
+          "title": "Applied Mechanics",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP1006E",
+          "title": "Introduction to Building Materials & Systems",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 0,
+          "O": 4,
+          "credits": 2
+        },
+        {
+          "code": "AP1007E",
+          "title": "Cultural Studies",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP1008E",
+          "title": "Introduction to Design - II",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 6,
+          "O": 14,
+          "credits": 6
+        },
+        {
+          "code": "AP1009E",
+          "title": "Introduction to Computer Graphics",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 2,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "MS1001E",
+          "title": "Professional Communication",
+          "category": "IC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP1093E",
+          "title": "Surveying and Levelling",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 2,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP1094E",
+          "title": "Material Testing Lab",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 2,
+          "O": 2,
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "total_credits": 25,
+      "courses": [
+        {
+          "code": "AP2001E",
+          "title": "History of Architecture I",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2002E",
+          "title": "Site Planning and Building Regulations",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2003E",
+          "title": "Theory of Structures I",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2004E",
+          "title": "Building Climatology and Solar Architecture",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2005E",
+          "title": "Building Construction and Materials I",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 3,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "AP2006E",
+          "title": "Architectural Design and Field Tour III",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 9,
+          "O": 18,
+          "credits": 6
+        },
+        {
+          "code": "DA_E1",
+          "title": "DA Elective - I",
+          "category": "DA",
+          "L": 1,
+          "T": 0,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "total_credits": 25,
+      "notes": "Activity Points minimum 20 required by end of Semester 4.",
+      "courses": [
+        {
+          "code": "OE1",
+          "title": "Open Elective - I",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2007E",
+          "title": "History of Architecture II",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2008E",
+          "title": "Theory of Structures II",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2009E",
+          "title": "Building Services I (Water Supply, Sanitation and Air-conditioning)",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP2010E",
+          "title": "Building Construction and Materials II",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 3,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "AP2011E",
+          "title": "Architectural Design and Field Tour IV",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 9,
+          "O": 18,
+          "credits": 6
+        },
+        {
+          "code": "DA_E2",
+          "title": "DA Elective - II",
+          "category": "DA",
+          "L": 1,
+          "T": 0,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3
+        },
+        {
+          "code": "MC1",
+          "title": "Minor Course - I",
+          "category": "MC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "total_credits": 25,
+      "courses": [
+        {
+          "code": "OE2",
+          "title": "Open Elective - II",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3001E",
+          "title": "Structural Design I",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3002E",
+          "title": "Contemporary Architecture",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3003E",
+          "title": "Building Services II (Acoustics and Illumination)",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3004E",
+          "title": "Building Construction and Materials III",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 3,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "AP3005E",
+          "title": "Landscape Architecture Studio",
+          "category": "PC",
+          "L": 1,
+          "T": 0,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3
+        },
+        {
+          "code": "AP3006E",
+          "title": "Architectural Design and Field Tour V",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 9,
+          "O": 18,
+          "credits": 6
+        },
+        {
+          "code": "MC2",
+          "title": "Minor Course - II",
+          "category": "MC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "total_credits": 23,
+      "notes": "Activity Points minimum 40 required by end of Semester 6.",
+      "courses": [
+        {
+          "code": "EI_E1",
+          "title": "EI Elective",
+          "category": "EI",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3007E",
+          "title": "Estimation, Costing, and Specifications",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3008E",
+          "title": "Structural Design II",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP3009E",
+          "title": "Building Construction and Materials IV",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P_D": 3,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "AP3010E",
+          "title": "Architectural Design and Field Tour VI",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 9,
+          "O": 18,
+          "credits": 6
+        },
+        {
+          "code": "AP3091E",
+          "title": "Building Systems and Science Lab",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 2,
+          "O": 7,
+          "credits": 4
+        },
+        {
+          "code": "MC3",
+          "title": "Minor Course - III",
+          "category": "MC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "total_credits": 23,
+      "courses": [
+        {
+          "code": "PE1",
+          "title": "Programme Elective - I",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "HM_E1",
+          "title": "HM Elective - I",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "HM_E2",
+          "title": "HM Elective - II",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP4001E",
+          "title": "Urban Design",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP4002E",
+          "title": "Interior Design",
+          "category": "PC",
+          "L": 1,
+          "T": 0,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3
+        },
+        {
+          "code": "AP4003E",
+          "title": "Working Drawing",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 3,
+          "O": 6,
+          "credits": 2
+        },
+        {
+          "code": "AP4004E",
+          "title": "Architectural Design and Field Tour VII",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 9,
+          "O": 18,
+          "credits": 6
+        },
+        {
+          "code": "MC4",
+          "title": "Minor Course - IV",
+          "category": "MC",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "total_credits": 21,
+      "courses": [
+        {
+          "code": "PE2",
+          "title": "Programme Elective - II",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "PE3",
+          "title": "Programme Elective - III",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "PE4",
+          "title": "Programme Elective - IV",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AP4005E",
+          "title": "Professional Practice and Ethics",
+          "category": "IC",
+          "L": 2,
+          "T": 0,
+          "P_D": 0,
+          "O": 4,
+          "credits": 2
+        },
+        {
+          "code": "AP4006E",
+          "title": "Research Seminar",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 3,
+          "O": 6,
+          "credits": 2
+        },
+        {
+          "code": "AP4007E",
+          "title": "Architectural Design and Field Tour VIII",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 9,
+          "O": 18,
+          "credits": 6
+        },
+        {
+          "code": "AP4091E",
+          "title": "Parametric Design/Simulation Lab",
+          "category": "PC",
+          "L": 1,
+          "T": 0,
+          "P_D": 2,
+          "O": 5,
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "semester": 9,
+      "total_credits": 11,
+      "courses": [
+        {
+          "code": "AP5001E",
+          "title": "Office Training",
+          "category": "PC",
+          "credits": 8,
+          "note": "Duration includes summer vacation preceding Monsoon Semester; per-week hours per organisation policy."
+        },
+        {
+          "code": "AP5002E",
+          "title": "Construction Site Study and Innovative Details Documentation",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 0,
+          "O": 9,
+          "credits": 2
+        },
+        {
+          "code": "AP5003E",
+          "title": "Critical Appraisal of Buildings",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "semester": 10,
+      "total_credits": 20,
+      "courses": [
+        {
+          "code": "AP5004E",
+          "title": "Thesis",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P_D": 15,
+          "O": 30,
+          "credits": 10
+        },
+        {
+          "code": "PE5",
+          "title": "Programme Elective - V",
+          "category": "PE",
+          "L": 1,
+          "T": 0,
+          "P_D": 2,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "OE3",
+          "title": "Open Elective - III",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P_D": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "AC",
+          "title": "Activity Credits",
+          "category": "AC",
+          "credits": 4,
+          "note": "Minimum 80 Activity Points required"
+        }
+      ]
+    }
+  ],
+  "courses": {
+    "institute_core": [
+      {
+        "code": "MA1005E",
+        "title": "Applied Mathematics",
+        "category": "IC",
+        "semester": 1,
+        "L": 3,
+        "T": 1,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "total_sessions": "39L + 13T",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Appreciate the role of differentiation and integration in architectural parameters like area and volume.",
+          "CO2: Associate the fundamental structure of 2D plane and 3D space with properties of different structures.",
+          "CO3: Represent lines, planes and 3D objects using different coordinate systems.",
+          "CO4: Comprehend various probability distributions.",
+          "CO5: Apply sampling and testing methods for different kinds of studies.",
+          "CO6: Perform testing of hypothesis and tests for goodness of fit."
+        ],
+        "topics": [
+          "Basic Calculus: applications of differentiation, definite integrals, volumes by cross sections, solids of revolution, arc length, surface area",
+          "Double and triple integrals, their applications",
+          "Geometry: conic sections, coordinate systems (Cartesian, Polar, Spherical, Cylindrical), vectors, lines and planes in space",
+          "Curves in space, curvature, velocity and acceleration",
+          "Probability distributions: random variables, mean, variance, MGF, Binomial, Poisson, Geometric, Normal, Uniform",
+          "Statistics: sampling distributions, point and interval estimation, hypothesis tests, chi-square test, contingency tables"
+        ],
+        "references": [
+          "G. B. Thomas & R. L. Finney, Calculus and Analytical Geometry, Addison-Wesley, 1998",
+          "R. A. Johnson, Miller and Freund's Probability and Statistics for Engineers, 8th Edn., PHI, 2011",
+          "S. M. Ross, Introduction to Probability and Statistics for Engineers, 5th Edn., Elsevier, 2014"
+        ]
+      },
+      {
+        "code": "AP1092E",
+        "title": "Workshop",
+        "category": "IC",
+        "semester": 1,
+        "L": 0,
+        "T": 0,
+        "P_D": 2,
+        "O": 2,
+        "credits": 1,
+        "total_sessions": "26P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify appropriate tools, materials and techniques used in different trades.",
+          "CO2: Explore the value of physical models as an integral part of a design process.",
+          "CO3: Gain knowledge about effective communication of design ideas through 3D visualisation and modelling.",
+          "CO4: Be imaginative and innovative in representational approaches using physical and digital fabrication skills.",
+          "CO5: Apply skills of using different media and scales creatively in architectural model making.",
+          "CO6: Demonstrate understanding of aesthetics and structural stability in building design models."
+        ],
+        "topics": [
+          "Carpentry: tools, processes, marking, cutting, planning, simple models and joints",
+          "Sheet metal: tools, gauge selection, types of joints",
+          "Foundry: tools, sand preparation, moulding, casting demonstration",
+          "Electrical wiring: tools, wiring systems, lamp wiring, ELCB and MCB selection",
+          "Plumbing: PVC pipes, accessories, fittings",
+          "Architectural model making: need, scale, block and detailed models, tools, materials, 3D printing, CNC machines"
+        ],
+        "references": [
+          "N. Burbank, House Carpentry Simplified, McGraw Hill, 1986",
+          "K. B. Raina & S. K. Bhattacharya, Electrical Design Estimating and Costing, New Age International, 2005",
+          "D. Nick, Architectural Model Making, Laurence King, 2010"
+        ]
+      },
+      {
+        "code": "MS1001E",
+        "title": "Professional Communication",
+        "category": "IC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Distinguish the role and purpose of communication at the workplace and for academic purposes.",
+          "CO2: Decide strategies and modes for effective communication in a dynamic workplace.",
+          "CO3: Combine multiple approaches for successful and ethical information exchange.",
+          "CO4: Estimate best communication practices to assist productivity and congeniality."
+        ],
+        "topics": [
+          "Listening and reading comprehension: introductions, feedback, public speaking",
+          "Vocabulary development, critical reading, text structures",
+          "Effective writing: note-making, paragraph writing, official letters, emails, abstract writing",
+          "Communication theory, verbal/nonverbal communication, group discussions, presentations, digital communication etiquette"
+        ],
+        "references": [
+          "N. Bhatnagar, Communicative English for Engineers and Professionals, Dorling Kindersley, 2010",
+          "B. A. Garner, HBR Guide to Better Business Writing, Harvard Business Review Press, 2012",
+          "S. Kumar & P. Lata, Communication Skills, Oxford University Press, 2015"
+        ]
+      },
+      {
+        "code": "AP4005E",
+        "title": "Professional Practice and Ethics",
+        "category": "IC",
+        "semester": 8,
+        "L": 2,
+        "T": 0,
+        "P_D": 0,
+        "O": 4,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Covers professional practice, legal frameworks, and ethical responsibilities of architects in professional settings."
+      }
+    ],
+    "programme_core": [
+      {
+        "code": "AP1001E",
+        "title": "Ergonomics",
+        "category": "PC",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Comprehend environmental factors and human behavioural aspects in a design process.",
+          "CO2: Assess standards and principles of accessibility in universal design.",
+          "CO3: Demonstrate knowledge of relevant design standards and their application in architecture.",
+          "CO4: Analyze and design any space for ease of use and comfort.",
+          "CO5: Apply anthropometry and rational thinking while designing for different building types.",
+          "CO6: Review the built environment for universal access and suggest improvement measures."
+        ],
+        "topics": [
+          "Human Factors: introduction to ergonomics, physical/physiological/psychological aspects, gross anatomy, posture, static and dynamic anthropometry, biomechanics",
+          "Environmental Factors: thermal, illumination, noise, vibration conditioning; occupational hazards; visual and postural stress",
+          "Design Requirements: built environment for differently abled, ramp/toilet/corridor design, wheelchair access, design for visually challenged",
+          "Design Standards: residential, institutional, cultural, health, public, commercial, transportation, recreational building types"
+        ],
+        "references": [
+          "A. R. Tilley, Henry Dreyfuss Associates, The Measure of Man & Woman, Whitney Library of Design, 2002",
+          "J. De Chiara & J. H. Callender, Time-saver Standards for Building Types, McGraw-Hill, 1983",
+          "J. E. Harrigan, Human Factors Research: Methods and Applications for Architects and Interior Designers, Elsevier, 2014"
+        ]
+      },
+      {
+        "code": "AP1002E",
+        "title": "Theory of Design",
+        "category": "PC",
+        "semester": 1,
+        "L": 2,
+        "T": 0,
+        "P_D": 0,
+        "O": 4,
+        "credits": 2,
+        "total_lecture_sessions": 26,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify theoretical grounds in design thinking.",
+          "CO2: Analyze the design process in various ways.",
+          "CO3: Apply functional concepts of design.",
+          "CO4: Critique aesthetical aspects of design.",
+          "CO5: Develop design concepts based on thorough understanding.",
+          "CO6: Demonstrate theoretical approaches in the design process and decision-making."
+        ],
+        "topics": [
+          "Perception of Design: affordance, anthropomorphic form, colour, figure-ground relationship, layering, legibility, proximity, 3D projection",
+          "Functionality of Design: accessibility, usability, confirmation, control, cost-benefit, mental model, wayfinding",
+          "Aesthetics of Design: attractive bias, cognitive dissonance, golden ratio, proportional density, symmetry, storytelling",
+          "Design Decision Making: convergence, design by committee, expectation effect, factor of safety, iteration, prototyping, redundancy"
+        ],
+        "references": [
+          "W. Lidwell, K. Holden & J. Butler, Universal Principles of Design, Rockport, 2010",
+          "M. Macnab, Design by Nature, New Riders, 2011",
+          "W. Wong, Principles of Form and Design, Wiley, 1993"
+        ]
+      },
+      {
+        "code": "AP1003E",
+        "title": "Architectural Graphics",
+        "category": "PC",
+        "semester": 1,
+        "L": 2,
+        "T": 0,
+        "P_D": 3,
+        "O": 8,
+        "credits": 4,
+        "total_sessions": "26L + 39D",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Construct lines for different purposes, do lettering and dimensioning.",
+          "CO2: Apply orthographic projection to represent lines, planes, solids and development of surfaces.",
+          "CO3: Present 3D objects using orthographic and axonometric projections.",
+          "CO4: Create different types of perspective projections of solids, buildings and interiors.",
+          "CO5: Prepare different types of presentation drawings with or without sciography."
+        ],
+        "topics": [
+          "Conventions, techniques and standards: types of lines, lettering, dimensioning, BIS code, basic geometric constructions (1 drawing exercise)",
+          "Orthographic projections: first and third angle projections, projection of points, lines, planes and solids, auxiliary projections, sections, surface development (5 exercises)",
+          "Pictorial projections: axonometric and isometric projections, perspective views of solids, buildings and interiors (5 exercises)",
+          "Presentation drawings and sciography: shades and shadows, application on pictorial views (2 exercises)"
+        ],
+        "references": [
+          "F. D. Ching, Architectural Graphics, Wiley, 2003",
+          "K. C. John & P. I. Varghese, Engineering Graphics, Jet Publications, 2004",
+          "S. Mulik, Perspectives and Sciography, Allied Publishers, 1999"
+        ]
+      },
+      {
+        "code": "AP1004E",
+        "title": "Introduction to Design - I",
+        "category": "PC",
+        "semester": 1,
+        "L": 2,
+        "T": 0,
+        "P_D": 6,
+        "O": 14,
+        "credits": 6,
+        "total_sessions": "26L + 78D",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Enhance use of freehand drawing and lettering for design communication.",
+          "CO2: Understand and analyse drawing conventions.",
+          "CO3: Interpret and apply elements and principles of design.",
+          "CO4: Interpret, evaluate and apply anthropometrics in design.",
+          "CO5: Represent 3D objects with plans, elevations, sections and views.",
+          "CO6: Apply the process of design and create a simple architectural form."
+        ],
+        "topics": [
+          "Design Process: study of an everyday object, 2D representation, fitness for purpose, materials, durability, environmental considerations, redesign",
+          "Principles of Design: emphasis, balance, contrast, repetition, proportion, movement, figure/ground, rhythm, pattern, hierarchy, unity, harmony",
+          "Anthropometry: static and functional anthropometry, Indian standards, percentile concepts, furniture documentation and analysis",
+          "Design and Representation: design generation, refinement, 3D studies, schematic development, study models, architectural drawings, rendering"
+        ],
+        "references": [
+          "F. D. Ching, Architecture: Form, Space, and Order, Wiley, 2023",
+          "E. Neufert & P. Neufert, Architects' Data, Wiley, 2012",
+          "W. Lidwell, K. Holden & J. Butler, Universal Principles of Design, Rockport, 2010"
+        ]
+      },
+      {
+        "code": "AP1091E",
+        "title": "Visual Art Studio",
+        "category": "PC",
+        "semester": 1,
+        "L": 2,
+        "T": 0,
+        "P_D": 3,
+        "O": 8,
+        "credits": 4,
+        "total_sessions": "26L + 39D",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: State design principles within different visual compositions.",
+          "CO2: Create 2D compositions with appropriate media.",
+          "CO3: Create 3D compositions in various media.",
+          "CO4: Choose suitable materials for 2D and 3D compositions.",
+          "CO5: Critique visual relationships of different compositions.",
+          "CO6: Distinguish between different genres of applied art."
+        ],
+        "topics": [
+          "Fundamentals: elements and principles of design, Gestalt principles, colour theory, exploration of media (pencil, ink, crayon, pastels, watercolours)",
+          "Art: 2D visual properties, colour theory application, rendering techniques, perspective views, Indian aesthetics",
+          "Sculpture: art in 3D, form, texture, mass and volume, casting, modelling, additive/subtractive techniques, clay, plaster, paper, wire",
+          "Applied Art: architecture, interior design, graphics, fashion design; art appreciation, aesthetics, perception, symbolism"
+        ],
+        "references": [
+          "F. D. Ching, Architectural Graphics, Wiley, 2003",
+          "F. D. Ching, Form, Space and Order, Wiley, 2007",
+          "V. S. Parmer, Design Fundamentals in Architecture, Somaiya Publications, 2010"
+        ]
+      },
+      {
+        "code": "AP1005E",
+        "title": "Applied Mechanics",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 1,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "total_sessions": "39L + 13T",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Describe fundamentals of mechanics and equivalent force systems.",
+          "CO2: Classify statically determinate and indeterminate structures.",
+          "CO3: Analyse statically determinate structures including trusses.",
+          "CO4: Compute shear force and bending moment for various loading conditions.",
+          "CO5: Compute frictional forces acting on a body.",
+          "CO6: Determine sectional properties for various sections."
+        ],
+        "topics": [
+          "Fundamentals: basic dimensions and units, vector and scalar quantities, laws of mechanics, moment of a force, couples",
+          "Equivalent force systems: translation of force, resultant of force systems, distributed force systems",
+          "Equations of equilibrium: free body diagrams, Lami's theorem, static indeterminacy",
+          "Structural mechanics: trusses, method of joints and sections",
+          "Section forces in beams: types of beams, shear force and bending moment diagrams",
+          "Friction: Coulomb friction laws; Properties of surfaces: centroid, moment of inertia, polar moment, principal axes"
+        ],
+        "references": [
+          "I. H. Shames & G. K. M. Rao, Engineering Mechanics, Pearson, 2005",
+          "F. P. Beer & E. R. Johnston, Vector Mechanics for Engineers — Statics, McGraw Hill, 2013",
+          "J. L. Meriam & L. G. Kraige, Engineering Mechanics — Statics, 6th Edn., Wiley, 2010"
+        ]
+      },
+      {
+        "code": "AP1006E",
+        "title": "Introduction to Building Materials and Systems",
+        "category": "PC",
+        "semester": 2,
+        "L": 2,
+        "T": 0,
+        "P_D": 0,
+        "O": 4,
+        "credits": 2,
+        "total_lecture_sessions": 26,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify the various building materials and systems present in a building.",
+          "CO2: Comprehend characteristics, properties and applications of various building materials.",
+          "CO3: Differentiate between structural and non-structural building systems.",
+          "CO4: Interpret the various building system functioning in a building.",
+          "CO5: Gain understanding of construction techniques related to building materials.",
+          "CO6: Suggest appropriate materials and systems for various spaces in buildings."
+        ],
+        "topics": [
+          "Building materials: bricks, tiles, stones, sand, cement, mortars, concrete — types, properties, standards",
+          "Metals: ferrous metals (cast iron, wrought iron, steel), non-ferrous metals (aluminium, zinc, copper), corrosion prevention",
+          "Structural systems: evolution, building elements, components viewed through typical section",
+          "Non-structural systems: enclosure and protection, mechanical systems, transportation systems"
+        ],
+        "references": [
+          "S. C. Rangwala, Building Construction, 34th Edn., Charotar, 2022",
+          "E. A. Allen, Fundamentals of Building Construction, Wiley, 2009",
+          "F. Ching, Building Construction Illustrated, Wiley, 2008"
+        ]
+      },
+      {
+        "code": "AP1007E",
+        "title": "Cultural Studies",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Acquire fundamental understanding of culture and its key elements.",
+          "CO2: Comprehend the impact of cultural beliefs on the built environment.",
+          "CO3: Recognise architecture as a reflection of cultural values and beliefs.",
+          "CO4: Appreciate diverse Traditional Knowledge Systems.",
+          "CO5: Grasp principles of designing culturally sensitive architecture.",
+          "CO6: Analyze cultural influences on the built environment and architectural design."
+        ],
+        "topics": [
+          "Introduction to Cultural Studies: definition, components, anthropological/sociological/semiotic perspectives",
+          "Cultural influences on society: culture-society relationship, faith, power/patronage, commerce in early and indigenous societies",
+          "Cultural influences on built environment: cosmological models, geocultural regions, traditional knowledge systems, Indian knowledge systems",
+          "Cultural sensitivity in design: promoting cultural diversity, avoiding cultural appropriation, contemporary examples"
+        ],
+        "references": [
+          "A. Rapoport, House Form & Culture, Prentice Hall, 1969",
+          "Kostof, Spiro, A History of Architecture: Settings and Rituals, Oxford University Press, 2010",
+          "L. M. Roth & A. C. R. Clark, Understanding Architecture: Its Elements, History, and Meaning, Routledge, 2018"
+        ]
+      },
+      {
+        "code": "AP1008E",
+        "title": "Introduction to Design - II",
+        "category": "PC",
+        "semester": 2,
+        "L": 2,
+        "T": 0,
+        "P_D": 6,
+        "O": 14,
+        "credits": 6,
+        "total_sessions": "26L + 78D",
+        "prerequisites": ["AP1004E"],
+        "course_outcomes": [
+          "CO1: Analysis of precedents to arrive at programmatic requirements and make design decisions.",
+          "CO2: Understand and apply human scale in design.",
+          "CO3: Analyse and apply site and contextual determinants of architecture.",
+          "CO4: Prioritise design choices from firmness, commodity and delight.",
+          "CO5: Understand and apply design process informed by behavioural needs.",
+          "CO6: Efficiently communicate design ideation, development and presentation for multifunctional spaces."
+        ],
+        "topics": [
+          "Use of precedents: elements of architecture through the immediate environment, human scale, programmatic requirements from case studies",
+          "Determinants of architecture: context, stakeholders, climate, site characteristics, behavioural needs",
+          "Weighing design choices: priorities of firmness, commodity and delight; spatial organisation, circulation, form and space",
+          "Multi-functional space design: planes, enclosure, play of light, articulation, floors, walls, roofs, fenestration, design communication"
+        ],
+        "references": [
+          "F. D. Ching, Architecture: Form, Space, and Order, Wiley, 2023",
+          "F. D. Ching, Architectural Graphics, Wiley, 2015",
+          "E. Neufert & P. Neufert, Architects' Data, Wiley, 2012"
+        ]
+      },
+      {
+        "code": "AP1009E",
+        "title": "Introduction to Computer Graphics",
+        "category": "PC",
+        "semester": 2,
+        "L": 2,
+        "T": 0,
+        "P_D": 2,
+        "O": 6,
+        "credits": 3,
+        "total_sessions": "26L + 26P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify and differentiate computer graphics formats, techniques and tools.",
+          "CO2: Create raster and vector-based graphics and page layouts for design communication.",
+          "CO3: Create 2D CAD drawings.",
+          "CO4: Create 3D models."
+        ],
+        "topics": [
+          "Essentials of computer graphics: historical development, raster/vector representation, colour models (RGB, CMYK), image formats, printing, hardware",
+          "Raster image manipulation: brushes, layers, selection tools, curves, filters (Gimp/Photoshop)",
+          "Vector image manipulation: shapes, paths, pen tool, gradients, layers (Inkscape/Illustrator)",
+          "Page layout: document setup, text styles, image manipulation, brochures, multi-page reports (Scribus/InDesign)",
+          "2D CAD: user interface, drawing commands, modification tools, layers, annotation, plotting, sheet layouts (AutoCAD/IIA CAD)",
+          "3D graphics: coordinate systems, polygon/spline/blobby modelling, rendering (scanline, ray tracing, AI-assisted), animation basics (Blender/Sketchup)"
+        ],
+        "references": [
+          "J. J. McConnell, Computer Graphics Theory into Practice, National Book Traders, 2006",
+          "G. Omura & B. C. Benton, Mastering AutoCAD 2018, Sybex/Wiley, 2017",
+          "Autodesk User Manual for CAD"
+        ]
+      },
+      {
+        "code": "AP1093E",
+        "title": "Surveying and Levelling",
+        "category": "PC",
+        "semester": 2,
+        "L": 2,
+        "T": 0,
+        "P_D": 2,
+        "O": 6,
+        "credits": 3,
+        "total_sessions": "26L + 39P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Understand principles of surveying.",
+          "CO2: Carry out distance measurements using different survey equipment.",
+          "CO3: Adopt suitable survey technique and select equipment based on required accuracy.",
+          "CO4: Carry out profiling and grid levelling for contour maps and earthworks computations.",
+          "CO5: Analyse and synthesise survey data from field notes.",
+          "CO6: Carry out field surveys for location, design and construction of buildings, working effectively in a team."
+        ],
+        "topics": [
+          "Surveying basics: plane and geodetic surveying, types of errors",
+          "Distance measurement: tape, tacheometry, EDM; systematic errors and corrections",
+          "Vertical control: levelling, height of collimation, rise and fall methods, differential and reciprocal levelling, contouring",
+          "Angle and direction measurement: bearings, azimuths, magnetic compass, theodolite, total station, traversing",
+          "Tacheometric surveying: stadia method, constants, tangential tacheometry",
+          "Computation of areas and volumes: traverse, cross sections, earthworks"
+        ],
+        "lab_topics": [
+          "Distance measurement using Total Station",
+          "Levelling using Auto Level",
+          "Measurement of horizontal and vertical angles using Micro-optic Theodolite",
+          "Contour surveying using Total Station and QGIS",
+          "Tacheometric surveying using Micro-optic Theodolite",
+          "Traversing using Total Station",
+          "Drone and DGPS Survey — demonstration"
+        ],
+        "references": [
+          "J. Anderson & E. Mikhail, Surveying: Theory and Practice, McGraw Hill, 7th Edn., 2017",
+          "R. Subramanian, Surveying and Levelling, Oxford University Press, 2nd Edn., 2012",
+          "B. C. Punmia, A. K. Jain & A. K. Jain, Surveying Vol-I, Laxmi Publications, 17th Edn., 2016"
+        ]
+      },
+      {
+        "code": "AP1094E",
+        "title": "Material Testing Laboratory",
+        "category": "PC",
+        "semester": 2,
+        "L": 0,
+        "T": 0,
+        "P_D": 2,
+        "O": 2,
+        "credits": 1,
+        "total_sessions": "28P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify the type of test depending on the material and property to be tested.",
+          "CO2: Carry out tests as per standard procedures.",
+          "CO3: Conduct standard tests on different building materials.",
+          "CO4: Determine properties of concrete and aggregate.",
+          "CO5: Determine properties of mild steel and timber.",
+          "CO6: Carry out construction of brick masonry and arches."
+        ],
+        "lab_topics": [
+          "Tests on aggregate: grain size distribution, specific gravity, density, voids, bulking, aggregate crushing value, aggregate impact value",
+          "Tests on cement: fineness, normal consistency, setting time, compressive strength",
+          "Tension test on mild steel",
+          "Test on timber beam — bending test",
+          "Tests on tiles: dimension, transverse strength, water absorption, crazing",
+          "Tests on bricks: crushing strength, water absorption, efflorescence",
+          "Workability tests for fresh concrete and compressive strength of hardened concrete",
+          "Hands-on: bar bending for lintels and beams",
+          "Hands-on: brick masonry and arches"
+        ],
+        "references": [
+          "A. M. Neville, Properties of Concrete, Prentice Hall, 2011",
+          "M. S. Shetty, Concrete Technology, S Chand, 2006",
+          "Relevant BIS Standards"
+        ]
+      },
+      {
+        "code": "AP2001E",
+        "title": "History of Architecture I",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP1007E"],
+        "course_outcomes": [],
+        "description": "Study of architectural history from ancient civilisations to medieval periods, examining the cultural, social, and technological contexts of architecture across regions."
+      },
+      {
+        "code": "AP2002E",
+        "title": "Site Planning and Building Regulations",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Principles of site planning and analysis, local and national building regulations, zoning, FAR, setbacks, and statutory requirements for architectural design."
+      },
+      {
+        "code": "AP2003E",
+        "title": "Theory of Structures I",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 1,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP1005E"],
+        "course_outcomes": [],
+        "description": "Analysis of statically determinate structures; stress and strain; bending of beams; deflection of beams; column behaviour."
+      },
+      {
+        "code": "AP2004E",
+        "title": "Building Climatology and Solar Architecture",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Climate and architecture; solar geometry; passive cooling and heating strategies; bioclimatic design; climate-responsive architectural design."
+      },
+      {
+        "code": "AP2005E",
+        "title": "Building Construction and Materials I",
+        "category": "PC",
+        "semester": 3,
+        "L": 2,
+        "T": 0,
+        "P_D": 3,
+        "O": 8,
+        "credits": 4,
+        "prerequisites": ["AP1006E"],
+        "course_outcomes": [],
+        "description": "Foundations, masonry construction, flooring, roofing, and building elements using traditional and modern materials."
+      },
+      {
+        "code": "AP2006E",
+        "title": "Architectural Design and Field Tour III",
+        "category": "PC",
+        "semester": 3,
+        "L": 0,
+        "T": 0,
+        "P_D": 9,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": ["AP1008E"],
+        "course_outcomes": [],
+        "description": "Design studio focusing on residential or community buildings. Includes field tour to study built examples and site context."
+      },
+      {
+        "code": "AP2007E",
+        "title": "History of Architecture II",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP2001E"],
+        "course_outcomes": [],
+        "description": "Continuation of architectural history: Renaissance to Modern movement, regional architecture, and critical analysis of historical styles."
+      },
+      {
+        "code": "AP2008E",
+        "title": "Theory of Structures II",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 1,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP2003E"],
+        "course_outcomes": [],
+        "description": "Analysis of statically indeterminate structures; moment distribution method; introduction to space frames and arches."
+      },
+      {
+        "code": "AP2009E",
+        "title": "Building Services I (Water Supply, Sanitation and Air-conditioning)",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Water supply systems, sanitation and drainage, plumbing design, HVAC systems, and air-conditioning principles for buildings."
+      },
+      {
+        "code": "AP2010E",
+        "title": "Building Construction and Materials II",
+        "category": "PC",
+        "semester": 4,
+        "L": 2,
+        "T": 0,
+        "P_D": 3,
+        "O": 8,
+        "credits": 4,
+        "prerequisites": ["AP2005E"],
+        "course_outcomes": [],
+        "description": "Advanced construction techniques: RCC framed structures, formwork, waterproofing, doors, windows, and finishing."
+      },
+      {
+        "code": "AP2011E",
+        "title": "Architectural Design and Field Tour IV",
+        "category": "PC",
+        "semester": 4,
+        "L": 0,
+        "T": 0,
+        "P_D": 9,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": ["AP2006E"],
+        "course_outcomes": [],
+        "description": "Design studio for institutional or public buildings with increased complexity. Field tour to study relevant building typologies."
+      },
+      {
+        "code": "AP3001E",
+        "title": "Structural Design I",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 1,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP2008E"],
+        "course_outcomes": [],
+        "description": "Limit state design of RC elements: beams, columns, slabs, and footings; IS code-based design."
+      },
+      {
+        "code": "AP3002E",
+        "title": "Contemporary Architecture",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP2007E"],
+        "course_outcomes": [],
+        "description": "Post-modern, deconstructivist, high-tech, and contemporary architectural movements; case study analysis of significant built works."
+      },
+      {
+        "code": "AP3003E",
+        "title": "Building Services II (Acoustics and Illumination)",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Principles of architectural acoustics, noise control, room acoustics design; natural and artificial illumination, daylighting strategies and lighting design."
+      },
+      {
+        "code": "AP3004E",
+        "title": "Building Construction and Materials III",
+        "category": "PC",
+        "semester": 5,
+        "L": 2,
+        "T": 0,
+        "P_D": 3,
+        "O": 8,
+        "credits": 4,
+        "prerequisites": ["AP2010E"],
+        "course_outcomes": [],
+        "description": "Steel and composite structures, prefabrication, industrial building construction, curtain walls, cladding, and special construction systems."
+      },
+      {
+        "code": "AP3005E",
+        "title": "Landscape Architecture Studio",
+        "category": "PC",
+        "semester": 5,
+        "L": 1,
+        "T": 0,
+        "P_D": 3,
+        "O": 7,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Principles of landscape design; site analysis; planting design; hardscape elements; integration of landscape with building design."
+      },
+      {
+        "code": "AP3006E",
+        "title": "Architectural Design and Field Tour V",
+        "category": "PC",
+        "semester": 5,
+        "L": 0,
+        "T": 0,
+        "P_D": 9,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": ["AP2011E"],
+        "course_outcomes": [],
+        "description": "Design studio for complex multi-use or cultural buildings. Field tour for in-depth study of precedents."
+      },
+      {
+        "code": "AP3007E",
+        "title": "Estimation, Costing, and Specifications",
+        "category": "PC",
+        "semester": 6,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Methods of estimation, rate analysis, specifications writing, tendering procedures, and project costing in architectural practice."
+      },
+      {
+        "code": "AP3008E",
+        "title": "Structural Design II",
+        "category": "PC",
+        "semester": 6,
+        "L": 3,
+        "T": 1,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": ["AP3001E"],
+        "course_outcomes": [],
+        "description": "Advanced structural design: retaining walls, staircases, pre-stressed concrete, and introduction to special structures."
+      },
+      {
+        "code": "AP3009E",
+        "title": "Building Construction and Materials IV",
+        "category": "PC",
+        "semester": 6,
+        "L": 2,
+        "T": 0,
+        "P_D": 3,
+        "O": 8,
+        "credits": 4,
+        "prerequisites": ["AP3004E"],
+        "course_outcomes": [],
+        "description": "High-performance building envelopes, sustainable materials, renovation techniques, and innovative construction detailing."
+      },
+      {
+        "code": "AP3010E",
+        "title": "Architectural Design and Field Tour VI",
+        "category": "PC",
+        "semester": 6,
+        "L": 0,
+        "T": 0,
+        "P_D": 9,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": ["AP3006E"],
+        "course_outcomes": [],
+        "description": "Design studio for large-scale or urban-context buildings integrating structural, services and landscape considerations."
+      },
+      {
+        "code": "AP3091E",
+        "title": "Building Systems and Science Lab",
+        "category": "PC",
+        "semester": 6,
+        "L": 3,
+        "T": 0,
+        "P_D": 2,
+        "O": 7,
+        "credits": 4,
+        "prerequisites": ["AP2004E", "AP3003E"],
+        "course_outcomes": [],
+        "description": "Experimental and analytical study of building environmental systems: thermal comfort measurements, acoustic tests, daylighting assessments, and energy analysis tools."
+      },
+      {
+        "code": "AP4001E",
+        "title": "Urban Design",
+        "category": "PC",
+        "semester": 7,
+        "L": 3,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Principles of urban design; public space, streetscape, and urban form analysis; urban morphology; case studies of successful urban districts."
+      },
+      {
+        "code": "AP4002E",
+        "title": "Interior Design",
+        "category": "PC",
+        "semester": 7,
+        "L": 1,
+        "T": 0,
+        "P_D": 3,
+        "O": 7,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Principles of interior design, space planning, material and furniture selection, lighting design, and preparation of interior design drawings."
+      },
+      {
+        "code": "AP4003E",
+        "title": "Working Drawing",
+        "category": "PC",
+        "semester": 7,
+        "L": 0,
+        "T": 0,
+        "P_D": 3,
+        "O": 6,
+        "credits": 2,
+        "prerequisites": ["AP3010E"],
+        "course_outcomes": [],
+        "description": "Preparation of complete working drawing sets including plans, sections, elevations, construction details, schedules, and specifications."
+      },
+      {
+        "code": "AP4004E",
+        "title": "Architectural Design and Field Tour VII",
+        "category": "PC",
+        "semester": 7,
+        "L": 0,
+        "T": 0,
+        "P_D": 9,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": ["AP3011E"],
+        "course_outcomes": [],
+        "description": "Advanced design studio exploring complex urban or institutional projects. Field tour to study contemporary built work."
+      },
+      {
+        "code": "AP4006E",
+        "title": "Research Seminar",
+        "category": "PC",
+        "semester": 8,
+        "L": 0,
+        "T": 0,
+        "P_D": 3,
+        "O": 6,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Students identify a research theme, conduct literature review, and present findings as a seminar paper, preparing for thesis work."
+      },
+      {
+        "code": "AP4007E",
+        "title": "Architectural Design and Field Tour VIII",
+        "category": "PC",
+        "semester": 8,
+        "L": 0,
+        "T": 0,
+        "P_D": 9,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": ["AP4004E"],
+        "course_outcomes": [],
+        "description": "Final pre-thesis design studio exploring a comprehensive architectural project integrating all learnings."
+      },
+      {
+        "code": "AP4091E",
+        "title": "Parametric Design/Simulation Lab",
+        "category": "PC",
+        "semester": 8,
+        "L": 1,
+        "T": 0,
+        "P_D": 2,
+        "O": 5,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Introduction to parametric and computational design tools; building performance simulation; generative design workflows."
+      },
+      {
+        "code": "AP5001E",
+        "title": "Office Training",
+        "category": "PC",
+        "semester": 9,
+        "credits": 8,
+        "prerequisites": ["AP4007E"],
+        "course_outcomes": [],
+        "description": "Practical training in an architectural firm, government body, or construction organisation. Duration includes the summer vacation preceding the Monsoon Semester. Per-week hours based on the host organisation's policy."
+      },
+      {
+        "code": "AP5002E",
+        "title": "Construction Site Study and Innovative Details Documentation",
+        "category": "PC",
+        "semester": 9,
+        "L": 0,
+        "T": 0,
+        "P_D": 0,
+        "O": 9,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Field documentation of an active construction site; study of innovative construction details; preparation of a detailed report."
+      },
+      {
+        "code": "AP5003E",
+        "title": "Critical Appraisal of Buildings",
+        "category": "PC",
+        "semester": 9,
+        "L": 0,
+        "T": 0,
+        "P_D": 0,
+        "O": 6,
+        "credits": 1,
+        "prerequisites": [],
+        "course_outcomes": [],
+        "description": "Critical evaluation of significant buildings through site visits and analysis using architectural, cultural, and technical criteria."
+      },
+      {
+        "code": "AP5004E",
+        "title": "Thesis",
+        "category": "PC",
+        "semester": 10,
+        "L": 0,
+        "T": 0,
+        "P_D": 15,
+        "O": 30,
+        "credits": 10,
+        "prerequisites": ["AP4007E"],
+        "course_outcomes": [],
+        "description": "The culminating design project of the B.Arch. programme. Students develop an independently conceived architectural design project from initial research through final design, supported by a faculty thesis guide."
+      }
+    ],
+    "programme_electives": {
+      "PE_I_to_IV": [
+        {
+          "code": "AP2051E",
+          "title": "Computer Applications in Architecture I",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        },
+        {
+          "code": "AP2052E",
+          "title": "Computer Applications in Architecture II",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        },
+        {
+          "code": "AP3051E",
+          "title": "Architectural Start-up and Entrepreneurship",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "EI"]
+        },
+        {
+          "code": "AP4051E",
+          "title": "Construction Management",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["HM"]
+        },
+        {
+          "code": "AP4052E",
+          "title": "Urban Planning",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["HM"]
+        },
+        {
+          "code": "AP4053E",
+          "title": "Architectural Journalism and Photography",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4054E",
+          "title": "Behavioural Studies in Built Environment",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4055E",
+          "title": "Vernacular Architecture",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4056E",
+          "title": "Barrier Free Design",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4057E",
+          "title": "Disaster Management and Earthquake Resistant Buildings",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4058E",
+          "title": "Housing",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4059E",
+          "title": "Industrial Architecture",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4060E",
+          "title": "Sustainable Architecture",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4061E",
+          "title": "Architectural Heritage and Tourism",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4062E",
+          "title": "Advanced Building Construction",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE"]
+        },
+        {
+          "code": "AP4071E",
+          "title": "Building Automation, Integration and Management",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4072E",
+          "title": "Climate Change and Architecture",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4073E",
+          "title": "Research Methods for Architecture",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4074E",
+          "title": "Valuation and Arbitration",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4075E",
+          "title": "Architectural Conservation",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "HM"]
+        },
+        {
+          "code": "AP4076E",
+          "title": "Building Maintenance and Retrofitting",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE"]
+        },
+        {
+          "code": "AP4077E",
+          "title": "Product Design",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE", "EI"]
+        },
+        {
+          "code": "AP4078E",
+          "title": "Advanced Building Services",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE"]
+        },
+        {
+          "code": "AP4079E",
+          "title": "Advanced Architectural Theory and Criticism",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["OE"]
+        }
+      ],
+      "PE_V": [
+        {
+          "code": "AP5051E",
+          "title": "Geographical Information System",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["OE", "DA"]
+        },
+        {
+          "code": "AP5052E",
+          "title": "Sustainability Assessment Systems",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["OE", "DA"]
+        },
+        {
+          "code": "AP5053E",
+          "title": "Photogrammetry",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["OE", "DA"]
+        },
+        {
+          "code": "AP5054E",
+          "title": "Energy Management",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["OE"]
+        },
+        {
+          "code": "AP5055E",
+          "title": "Visual Media in Architecture",
+          "L": 1,
+          "P_D": 3,
+          "O": 7,
+          "credits": 3,
+          "also_counts_as": ["OE", "DA"]
+        }
+      ]
+    }
+  },
+  "activity_credits": {
+    "total_required": 4,
+    "minimum_points": 80,
+    "milestones": [
+      { "by_end_of_semester": 4, "minimum_points": 20 },
+      { "by_end_of_semester": 6, "minimum_points": 40 },
+      { "by_end_of_semester": 10, "minimum_points": 80 }
+    ]
+  }
+}

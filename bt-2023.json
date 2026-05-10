@@ -1,0 +1,2106 @@
+{
+  "institution": "National Institute of Technology Calicut",
+  "department": "Bioscience and Engineering",
+  "program": "B.Tech. in Biotechnology",
+  "applicable_from": "2023 Admission onwards",
+  "total_credits": 150,
+  "program_educational_objectives": [
+    {
+      "id": "PEO1",
+      "description": "Achieve success in industry, technical profession and/or higher education with a strong foundation in mathematics, basic sciences, applied biology and engineering fundamentals."
+    },
+    {
+      "id": "PEO2",
+      "description": "Implement the proficient scientific knowledge in biological sciences coupled with an engineering expertise to comprehend, analyze, design and create novel products and solutions to biological problems that are technically sound, economically feasible and socially acceptable."
+    },
+    {
+      "id": "PEO3",
+      "description": "Exhibit professionalism, ethical attitude, communication skills, team work in their profession, multidisciplinary approach and excellent leadership for promoting science, technology and social development for the benefit of mankind."
+    }
+  ],
+  "programme_outcomes": [
+    {
+      "id": "PO1",
+      "title": "Engineering knowledge",
+      "description": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+      "id": "PO2",
+      "title": "Problem analysis",
+      "description": "Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+      "id": "PO3",
+      "title": "Design/development of solutions",
+      "description": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+      "id": "PO4",
+      "title": "Investigation",
+      "description": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+      "id": "PO5",
+      "title": "Modern tool usage",
+      "description": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+      "id": "PO6",
+      "title": "Engineer and society",
+      "description": "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+      "id": "PO7",
+      "title": "Environment and sustainability",
+      "description": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+      "id": "PO8",
+      "title": "Ethics",
+      "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+      "id": "PO9",
+      "title": "Individual and team work",
+      "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+      "id": "PO10",
+      "title": "Communication",
+      "description": "Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+      "id": "PO11",
+      "title": "Project management and finance",
+      "description": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+      "id": "PO12",
+      "title": "Life-long learning",
+      "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+  ],
+  "programme_specific_outcomes": [
+    {
+      "id": "PSO1",
+      "description": "Apply the knowledge to formulate, analyze and comprehend biotechnology problems which are of paramount significance in health, food processing, and agricultural sectors."
+    },
+    {
+      "id": "PSO2",
+      "description": "Conceive, Design and Manipulate biological systems to produce products that improve healthcare, medicine, agriculture, food, pharmaceuticals and the environment."
+    },
+    {
+      "id": "PSO3",
+      "description": "Develop the capacity to become independent thinker for carrying out any challenging project in the field of biotechnology."
+    }
+  ],
+  "credit_structure": {
+    "Institute_Core_IC": { "min_courses": 8, "min_credits": 22 },
+    "Programme_Core_and_Electives_PC_PE": {
+      "min_courses": 28,
+      "min_credits": 82
+    },
+    "Open_Electives_OE": { "min_courses": 8, "min_credits": 24 },
+    "Institute_Electives_IE": {
+      "min_courses": 6,
+      "min_credits": 18,
+      "sub_categories": {
+        "Entrepreneurship_Innovation_EI": { "min_credits": 3 },
+        "Digital_Automation_Technologies_DA": { "min_credits": 6 },
+        "Humanities_Social_Science_Management_HM": { "min_credits": 9 }
+      }
+    },
+    "Activity_Credits_AC": { "min_points": 80, "credits": 4 }
+  },
+  "effort_notation": {
+    "L": "Lecture – 50 min per unit",
+    "T": "Tutorial – 50 min per unit (marked * = optional, can be replaced by self-study)",
+    "P": "Practical – 1 hour per unit",
+    "O": "Outside class / self-study – 1 hour per unit"
+  },
+  "semester_plan": [
+    {
+      "semester": 1,
+      "total_credits": 19,
+      "courses": [
+        {
+          "code": "MA1001E",
+          "title": "Mathematics I",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "BT1005E",
+          "title": "Biology for Engineers",
+          "category": "IC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT1002E",
+          "title": "Unit Operations",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT1003E",
+          "title": "Microbiology",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT1004E",
+          "title": "Biochemistry",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT1091E",
+          "title": "Microbiology Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "BT1092E",
+          "title": "Biochemistry Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "total_credits": 19,
+      "courses": [
+        {
+          "code": "MA1011E",
+          "title": "Mathematics II",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CY1003E",
+          "title": "General Chemistry",
+          "category": "IC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "MS1001E",
+          "title": "Professional Communication",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "BT1011E",
+          "title": "Cell Biology and Genetics",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 2,
+          "O": 7,
+          "credits": 4
+        },
+        {
+          "code": "BT1012E",
+          "title": "Process Calculations",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT1013E",
+          "title": "Environmental Bioengineering",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "total_credits": 20,
+      "courses": [
+        {
+          "code": "MA2006E",
+          "title": "Mathematics III",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "BT2001E",
+          "title": "Professional Ethics",
+          "category": "IC",
+          "L": 1,
+          "T": 0,
+          "P": 0,
+          "O": 2,
+          "credits": 1
+        },
+        {
+          "code": "DA_E1",
+          "title": "Digital Automation Elective - 1",
+          "category": "DA",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2002E",
+          "title": "Bioprocess Engineering",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2003E",
+          "title": "Molecular Biology and Genetic Engineering",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE1",
+          "title": "Open Elective - 1",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2091E",
+          "title": "Bioprocess Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "BT2092E",
+          "title": "Molecular Biology Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "total_credits": 22,
+      "notes": "Activity Points minimum 20 required by end of Semester 4.",
+      "courses": [
+        {
+          "code": "MA2016E",
+          "title": "Mathematics IV",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "EI_E1",
+          "title": "Entrepreneurship / Innovation Elective",
+          "category": "EI",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2011E",
+          "title": "Bioinformatics",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2012E",
+          "title": "Downstream Process Engineering",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2013E",
+          "title": "Biopharmaceutical Technology",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT2093E",
+          "title": "Bioinformatics Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "BT2094E",
+          "title": "Downstream Process Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "OE2",
+          "title": "Open Elective - 2",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "MC1",
+          "title": "Minor Course - 1",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "total_credits": 20,
+      "courses": [
+        {
+          "code": "HM_E1",
+          "title": "Humanities Elective - 1",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT3001E",
+          "title": "Analytical Techniques and Instrumentation",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "DA_E2",
+          "title": "Digital Automation Elective - 2",
+          "category": "DA",
+          "L": 2,
+          "T": 0,
+          "P": 2,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "BT3002E",
+          "title": "Immunotechnology",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT3003E",
+          "title": "Biosafety and Bioethics",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT3091E",
+          "title": "Immunology Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "OE3",
+          "title": "Open Elective - 3",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "MC2",
+          "title": "Minor Course - 2",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "total_credits": 20,
+      "notes": "Activity Points minimum 40 required by end of Semester 6.",
+      "courses": [
+        {
+          "code": "HM_E2",
+          "title": "Humanities Elective - 2",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT3011E",
+          "title": "Plant Biotechnology",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT3092E",
+          "title": "Plant Biotechnology Laboratory",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "PE1",
+          "title": "Programme Elective - 1",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE4",
+          "title": "Open Elective - 4",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE5",
+          "title": "Open Elective - 5",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT3093E",
+          "title": "Project-Part-I",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 6,
+          "O": 3,
+          "credits": 3
+        },
+        {
+          "code": "MC3",
+          "title": "Minor Course - 3",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "total_credits": 20,
+      "courses": [
+        {
+          "code": "HM_E3",
+          "title": "Humanities Elective - 3",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "PE2",
+          "title": "Programme Elective - 2",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE6",
+          "title": "Open Elective - 6",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE7",
+          "title": "Open Elective - 7",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE8",
+          "title": "Open Elective - 8",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "BT4091E",
+          "title": "Internship",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 4,
+          "O": 2,
+          "credits": 2
+        },
+        {
+          "code": "BT4092E",
+          "title": "Project-Part-II",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 6,
+          "O": 3,
+          "credits": 3
+        },
+        {
+          "code": "MC4",
+          "title": "Minor Course - 4",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "total_credits": 10,
+      "notes": "Activity Points minimum 80 required by end of Semester 8.",
+      "courses": [
+        {
+          "code": "BT4093E_or_PE34",
+          "title": "Project-Part-III / Programme Elective-3 and Programme Elective-4",
+          "category": "PE",
+          "credits": 6,
+          "note": "Students choose one of: Project-Part-III (0L/0T/12P/6O, 6 credits) or two Programme Electives (6L/0T/0P, 6 credits total)"
+        },
+        {
+          "code": "AC",
+          "title": "Activity Credits",
+          "category": "AC",
+          "credits": 4,
+          "note": "Minimum 80 Activity Points required"
+        }
+      ]
+    }
+  ],
+  "courses": {
+    "institute_core": [
+      {
+        "code": "MA1001E",
+        "title": "Mathematics I",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 1,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Formulate some engineering problems as ODEs and hence solve such problems.",
+          "CO2: Solve linear ODEs with constant coefficients.",
+          "CO3: Find the limits, check for continuity and differentiability of real valued functions of two variables.",
+          "CO4: Test for the convergence of sequences and series.",
+          "CO5: Find the Fourier series representing periodic functions."
+        ],
+        "topics": [
+          "Existence and uniqueness of solution of first order ODE, methods of solutions, linear ODE, orthogonal trajectories",
+          "Linear homogeneous second order ODEs with constant coefficients, Wronskian, undetermined coefficients, variation of parameters, Euler-Cauchy equations",
+          "Applications of first and second order ODEs, systems of linear ODEs with constant coefficients",
+          "Functions of several variables: Limit, continuity, partial derivatives, gradient, Lagrange multipliers, Taylor's formula",
+          "Parameterised curves in space, arc length, curvature and torsion",
+          "Sequences, series, convergence tests, power series, Taylor series",
+          "Periodic functions and Fourier series, Fourier integral, Fourier transforms and properties"
+        ],
+        "references": [
+          "H. Anton, I. Bivens and S. Davis, Calculus, 10th Edn., John Wiley & Sons, 2015",
+          "G. B. Thomas, M. D. Weir and J. Hass, Thomas' Calculus, 12th Edn., Pearson Education, 2015",
+          "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., John Wiley & Sons, 2015",
+          "Apostol, Calculus Vol 1, 1st Edn., Wiley, 2014"
+        ]
+      },
+      {
+        "code": "MA1011E",
+        "title": "Mathematics II",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 2,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Find the parametric representation of curves and surfaces in space and evaluate integrals over curves and surfaces.",
+          "CO2: Use Laplace transform and its properties to solve differential equations and integral equations.",
+          "CO3: Test the consistency of the system of linear equations and solve it.",
+          "CO4: Diagonalise symmetric matrices and use it to find the nature of quadratic forms."
+        ],
+        "topics": [
+          "Vector field, divergence, curl, scalar potential, line integral, Green's theorem, double/triple integrals, Jacobian",
+          "Surface area and surface integral, flux, Gauss' divergence theorem, Stokes' theorem",
+          "Laplace transform, inverse Laplace transform, Dirac delta function, shifting theorems, convolution, solution of ODEs and integral equations",
+          "System of linear equations, Gauss elimination, LU decomposition, rank, eigenvalues, eigenvectors, Cayley-Hamilton theorem",
+          "Diagonalisation, quadratic form, reduction to canonical form"
+        ],
+        "references": [
+          "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+          "H. Anton, I. Bivens and S. Davis, Calculus, 10th Edn., John Wiley & Sons, 2015",
+          "V. I. Arnold, Ordinary Differential Equations, Springer, 2006",
+          "P. Dyke, An Introduction to Laplace Transforms and Fourier Series, Springer, 2014"
+        ]
+      },
+      {
+        "code": "MA2006E",
+        "title": "Mathematics III",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 3,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply the basics of probability theory in solving real life problems.",
+          "CO2: Identify the distribution and transformation of random variables.",
+          "CO3: Use techniques of statistical inference and its applications.",
+          "CO4: Apply regression and correlation for analysing real life problems."
+        ],
+        "topics": [
+          "Probability distributions: Random variables, expectation, mean, variance, MGF; Binomial, Poisson, Geometric, Hypergeometric, Normal, Uniform, Gamma, Beta, Weibull distributions",
+          "Transformation of random variables, jointly distributed random variables, marginal and conditional distributions, bivariate normal distribution",
+          "Statistical inference: sampling distributions, point estimation, MLE, method of moments, interval estimation, hypothesis testing",
+          "Analysis of variance: completely randomized designs, randomized block design",
+          "Regression and correlation: curve fitting, least squares, simple regression, correlation coefficient, curvilinear regression"
+        ],
+        "references": [
+          "S. Ross, A First Course in Probability, 9th Edn., Pearson, 2014",
+          "R. A. Johnson, Miller and Freund's Probability and Statistics for Engineers, 8th Edn., PHI, 2011",
+          "W. W. Hines et al., Probability and Statistics for Engineering, 4th Edn., John Wiley & Sons, 2003",
+          "S. M. Ross, Introduction to Probability and Statistics for Engineers and Scientists, 5th Edn., Academic Press, 2014"
+        ]
+      },
+      {
+        "code": "MA2016E",
+        "title": "Mathematics IV",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 4,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 4,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "note": "Credits listed as 4 in syllabus; semester plan total implies 3. Source document discrepancy.",
+        "course_outcomes": [
+          "CO1: Model managerial problems in industries to linear programming problems and solve them using various techniques and algorithms.",
+          "CO2: Model and solve PDEs using analytic methods.",
+          "CO3: Solve linear and nonlinear equations using numerical methods.",
+          "CO4: Evaluate definite integrals and solve ODEs using numerical methods."
+        ],
+        "topics": [
+          "Linear Programming: formulation, graphical method, Simplex method, duality theory, dual simplex method",
+          "Partial Differential Equations: Cauchy's problem, Charpit's method, wave equation, heat equation, Laplace equation",
+          "Separation of variables, Fourier series, D'Alembert's solution, Laplace transforms for PDEs",
+          "Numerical methods: fixed point iteration, Regula-Falsi, Newton-Raphson, Gauss-Jacobi, Gauss-Seidel",
+          "Numerical integration: composite trapezoidal and Simpson's methods; Euler, Runge-Kutta, Adams' methods for ODEs"
+        ],
+        "references": [
+          "G. Mohan and K. Deep, Optimization Techniques, New Age International Publishers, 2009",
+          "W. Winston, Operations Research – Applications and Algorithms, 4th Edn., Cengage Learning, 2011",
+          "D. Greenspan, Introduction to Partial Differential Equations, Dover Publications, 2000",
+          "E. Kreyszig, Advanced Engineering Mathematics, 9th Edn., John Wiley and Sons, 2012",
+          "Jain M. K., Iyengar S. R. K., Jain R. K., Numerical Methods for Scientific and Engineering Computation, 8th Edn., New Age International, 2022"
+        ]
+      },
+      {
+        "code": "BT1005E",
+        "title": "Biology for Engineers",
+        "category": "IC",
+        "sub_category": "Basic Sciences",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Explain the evolutionary basis of life and the structure-function relationship of biomolecules.",
+          "CO2: Describe the characteristics of the cellular composition, communication, and principles of genetics.",
+          "CO3: Evaluate and apply the biological principles to solve real-world problems related to food, agriculture, and environmental sciences.",
+          "CO4: Illustrate biocatalysis and the basic concepts in energy transformation."
+        ],
+        "topics": [
+          "Origin of life, Darwinian Evolution, biomolecule structure and function (carbohydrates, lipids, proteins, nucleic acids), central dogma",
+          "Cell structure and function, signal transduction, cell division, Mendelian genetics, chromosomal aberrations",
+          "Enzymes: classification, catalysis, kinetics, inhibition; basic concepts in energy transformation and photosynthesis",
+          "Human diseases, biosensors, vaccines, antibiotics, genetic modification of crops, bioremediation, biofuels"
+        ],
+        "references": [
+          "L. A. Urry et al., Campbell Biology, 11th Edn., Pearson Education, 2017",
+          "S. Thyagarajan et al., Biology for Engineers, McGraw Hill Education, 2013",
+          "W. S. Klug et al., Concepts of Genetics, Global Edn., Pearson, 2019",
+          "D. L. Nelson and M. M. Cox, Lehninger Principles of Biochemistry, Macmillan Learning, 2021",
+          "S. I. Fox, Human Physiology, 13th Edn., McGraw-Hill, 2011",
+          "A. G. Webb, Principles of Biomedical Instrumentation, Cambridge University Press, 2018",
+          "A. T. Johnson, Biology for Engineers, CRC Press, 2018"
+        ]
+      },
+      {
+        "code": "CY1003E",
+        "title": "General Chemistry",
+        "category": "IC",
+        "sub_category": "Basic Sciences",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply the concepts of acid-base chemistry to bioactive molecules.",
+          "CO2: Demonstrate the principles of stereochemistry for organic synthesis.",
+          "CO3: Construct the fundamental concepts of reaction mechanisms in synthetic chemistry.",
+          "CO4: Utilize the basic concepts of essential metal ions in biological systems."
+        ],
+        "topics": [
+          "Acid-Base Chemistry: Bronsted and Lewis acids/bases, aqueous and non-aqueous systems, acids and bases of biological interest",
+          "Stereochemistry: basic concepts, stereochemical descriptors, enantiomers, diastereomers, stereoselective and stereospecific reactions",
+          "Reaction mechanisms: electrophilic and nucleophilic substitution, carbocations, leaving group effects, steric effects",
+          "Biological reactions mediated by enzymes: group transfer, carbon-carbon double bond formation, isomerization, hydrolysis, oxidation-reduction",
+          "Heterocyclic chemistry: nomenclature, importance in medicinal chemistry",
+          "Essential and trace metal ions in biology, bio-ligands, enzyme classification and kinetics",
+          "Chemical hazards and toxic substances"
+        ],
+        "references": [
+          "E. V. Anslyn and D. A. Dougherty, Modern Physical Organic Chemistry, University Science Books, 2005",
+          "R. Chang, General Chemistry: The Essential Concepts, 5th Edn., McGraw-Hill, 2008",
+          "E. L. Eliel and S. H. Wilen, Stereochemistry of Organic Compounds, Wiley, 1994",
+          "L. G. Wade Jr., Organic Chemistry, 8th Edn., Pearson Education, 2013",
+          "J. E. Huheey et al., Inorganic Chemistry – Principles of Structure and Reactivity, Pearson India Ltd., 2009",
+          "S. J. Lippard and J. M. Berg, Principles of Bioinorganic Chemistry, University Science Books, 1994"
+        ]
+      },
+      {
+        "code": "MS1001E",
+        "title": "Professional Communication",
+        "category": "IC",
+        "sub_category": "Professional Communication and Ethics",
+        "semester": 2,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Distinguish the role and purpose of communication at the workplace and for academic purposes.",
+          "CO2: Decide strategies and modes for effective communication in a dynamic workplace.",
+          "CO3: Combine multiple approaches for successful and ethical information exchange.",
+          "CO4: Estimate best communication practices to assist productivity and congeniality at the workplace."
+        ],
+        "topics": [
+          "Listening and reading comprehension: introductions, feedback, public speaking, note-taking from lectures",
+          "Vocabulary and speaking: professional vocabulary, sentence structures, critical reading, text appreciation",
+          "Effective writing: note-making, paragraph writing, official letters, emails, abstract writing",
+          "Communication at workplace: theory, modes, verbal/nonverbal, group discussions, presentations, digital etiquette, ethical communication"
+        ],
+        "references": [
+          "N. Bhatnagar, Communicative English for Engineers and Professionals, Pearson Education India, 2010",
+          "B. A. Garner, HBR Guide to Better Business Writing, Harvard Business Review Press, 2013",
+          "S. Kumar and P. Lata, Communication Skills, Oxford University Press, 2011"
+        ]
+      },
+      {
+        "code": "BT2001E",
+        "title": "Professional Ethics",
+        "category": "IC",
+        "sub_category": "Professional Communication and Ethics",
+        "semester": 3,
+        "L": 1,
+        "T": 0,
+        "P": 0,
+        "O": 2,
+        "credits": 1,
+        "total_lecture_sessions": 13,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Develop a clear understanding of human values and use it as the basis for all the activities.",
+          "CO2: Understand and follow the ethical aspects of the engineering profession.",
+          "CO3: Align with the Code of Ethics prescribed by the Society for Biological Engineering (AIChE), Department of Biotechnology and Indian Council of Medical Research, Govt of India in all professional activities.",
+          "CO4: Assimilate the elements of academic integrity and Honour Codes, and adopt them in all relevant activities."
+        ],
+        "topics": [
+          "Human Values: morals, integrity, work ethic, civic virtue, honesty, empathy, self-confidence",
+          "Ethics in Professional Practice: ethical basis of engineering, responsibilities to consumers, safety, IP management, environmental sustainability",
+          "Code of Ethics: Society for Biological Engineering (AIChE), DBT and ICMR guidelines",
+          "Academic Integrity: honesty, trust, fairness, plagiarism, Honour Codes"
+        ],
+        "references": [
+          "R. S. Naagarazan, A Textbook on Professional Ethics and Human Values, 3rd Edn., New Age International, 2022",
+          "A. F. Bainbridge, Ethics for Engineers: A Brief Introduction, CRC Press, 2021",
+          "Handbook for Institutional Biosafety Committee, Dept. of Biotechnology, Govt of India (2017 & 2020)",
+          "National guidelines for stem cell research, DBT and ICMR, 2017",
+          "National ethical guidelines for biomedical and health research involving human participants, ICMR, 2017"
+        ]
+      }
+    ],
+    "programme_core": [
+      {
+        "code": "BT1002E",
+        "title": "Unit Operations",
+        "category": "PC",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Describe the basic concepts and equations in fluid mechanics, heat transfer and vapor liquid equilibrium.",
+          "CO2: Illustrate the design of equipment used for flow measurement, heat exchange, evaporation, distillation and mechanical operations.",
+          "CO3: Analyze and solve a variety of problems in fluid statics, fluid dynamics, heat transfer and mass transfer.",
+          "CO4: Identify the relationship between physical quantities and develop equations to solve complex problems."
+        ],
+        "topics": [
+          "Fluid mechanics: fluid classification, Newton's law of viscosity, Pascal's law, Bernoulli equation, Hagen-Poiseuille equation, dimensional analysis",
+          "Flow measurements: orifice meter, venturimeter; pumps; size reduction; sedimentation; mixing",
+          "Heat transfer: conduction (Fourier's law), convection, heat exchangers, evaporation (single and multiple effect)",
+          "Mass transfer: Fick's law, diffusion, distillation (McCabe-Thiele method), drying"
+        ],
+        "references": [
+          "W. L. McCabe, J. Smith and P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw-Hill, 2017",
+          "R. K. Rajput, A Textbook of Fluid Mechanics, S. Chand & Company, 2019",
+          "J. M. Coulson and J. F. Richardson, Chemical Engineering, Vol. IA, 7th Edn., Butterworth-Heinemann, 2017",
+          "J. P. Holman, Heat Transfer, 8th Edn., McGraw Hill, 2010"
+        ]
+      },
+      {
+        "code": "BT1003E",
+        "title": "Microbiology",
+        "category": "PC",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify the microbial diversity and apply basic knowledge to culture, enumerate, visualize, and classify different types of microorganisms.",
+          "CO2: Explain the structure, reproduction of bacteria, fungi, and viruses and demonstrate their growth control.",
+          "CO3: Describe both aerobic and anaerobic microbial metabolic processes.",
+          "CO4: Assess the beneficial and harmful effects of microbes in medical, industrial, agricultural and environmental microbiology."
+        ],
+        "topics": [
+          "General Microbiology: prokaryotes and eukaryotes, viruses, bacteria, fungi, algae, protozoa; staining techniques; microscopy; control methods",
+          "Microbial Physiology: nutritional requirements, growth curve, culture and enumeration, biochemical and molecular characterization",
+          "Microbial Genetics and Metabolism: genetics of viruses and bacteria; aerobic and anaerobic processes; photophosphorylation; secondary metabolism",
+          "Medical, Environmental, Industrial and Agricultural Microbiology: infections, antibiotic resistance, industrial and environmental applications"
+        ],
+        "references": [
+          "J. Willey, L. Sherwood and C. J. Woolverton, Prescott's Microbiology, 11th Edn., McGraw-Hill, 2021",
+          "M. J. Pelczar, E. C. S. Chan and N. R. Krieg, Microbiology, 5th Edn., McGraw-Hill, 2021",
+          "G. J. Tortora, B. R. Funke and C. L. Case, Microbiology: An Introduction, 13th Edn., Addison-Wesley, 2018",
+          "M. Madigan et al., Brock Biology of Microorganisms, 16th Edn., Pearson, 2020"
+        ]
+      },
+      {
+        "code": "BT1004E",
+        "title": "Biochemistry",
+        "category": "PC",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Describe the genetic, chemical and physical fundamentals of biochemistry.",
+          "CO2: Explain the importance of biomolecules and apply their structural basis to perceive the biological functions.",
+          "CO3: Interpret the bioenergetic principles behind the metabolism of carbohydrates, lipids, proteins, and nucleic acids.",
+          "CO4: Analyze the biosynthetic pathway for synthesis of different biological macromolecules."
+        ],
+        "topics": [
+          "Fundamentals: cellular, chemical, physical, genetic foundations; water interactions; Henderson-Hasselbalch equation",
+          "Biological Macromolecular Structures: proteins (amino acids to quaternary structure), carbohydrates, nucleotides and nucleic acids, lipids, hormones",
+          "Cellular Metabolism and Bioenergetics: glycolysis, gluconeogenesis, TCA cycle, fatty acid oxidation, urea cycle, oxidative phosphorylation",
+          "Biosynthesis of Macromolecules: carbohydrate, lipid, amino acid and nucleotide biosynthesis"
+        ],
+        "references": [
+          "D. L. Nelson and M. M. Cox, Lehninger Principles of Biochemistry, Macmillan Learning, 2021",
+          "J. M. Berg, J. L. Tymoczko and L. Stryer, Biochemistry, Macmillan, 2007",
+          "D. Voet, J. G. Voet and C. W. Pratt, Fundamentals of Biochemistry, John Wiley & Sons, 2016",
+          "V. W. Rodwell et al., Harper's Illustrated Biochemistry, McGraw-Hill, 2018"
+        ]
+      },
+      {
+        "code": "BT1091E",
+        "title": "Microbiology Laboratory",
+        "category": "PC",
+        "semester": 1,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Practice different standard Microbiology Lab practices and apply proper practices in appropriate situations.",
+          "CO2: Apply basic knowledge of preparation of different types of culture media and sterilization techniques.",
+          "CO3: Demonstrate techniques of staining, culturing, isolation, identification, enumeration, storage and preservation of microbes.",
+          "CO4: Design an experimental setup for the detection of bacterial products of industrial and agricultural importance."
+        ],
+        "lab_topics": [
+          "Sterilization techniques",
+          "Preparation of culture media (broth and agar)",
+          "Culturing of microorganisms",
+          "Isolation of pure culture (streak plate and pour plate)",
+          "Storage/preservation of microorganisms",
+          "Isolation of microbes from soil/mouth flora/water",
+          "Identification by staining, biochemical testing and antibiotic sensitivity",
+          "Bacterial enumeration (nephelometry, turbidometry, CFU)",
+          "Growth curve measurement",
+          "Isolation of microbes from milk and fermented food",
+          "Detection of microbial products – acids and enzymes",
+          "Isolation of Rhizobium leguminosarum"
+        ]
+      },
+      {
+        "code": "BT1092E",
+        "title": "Biochemistry Laboratory",
+        "category": "PC",
+        "semester": 1,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply theoretical knowledge and demonstrate proficiency to design, execute, and analyze experiments in biochemistry.",
+          "CO2: Perform a variety of biochemical assays, and analyze and interpret biochemical data.",
+          "CO3: Develop experimental skills and understand the importance of good laboratory practice in biochemistry.",
+          "CO4: Communicate scientific findings effectively through reports and presentations."
+        ],
+        "lab_topics": [
+          "Introduction to Biochemistry Laboratory: safety, spectrophotometry, pH measurements, buffer preparation",
+          "Qualitative tests for carbohydrates and amino acids",
+          "Quantitative determination of carbohydrates",
+          "Quantitative determination of proteins",
+          "Paper chromatography of amino acids",
+          "Basics of Cell Culture technique",
+          "Separation of proteins by SDS-PAGE electrophoresis"
+        ]
+      },
+      {
+        "code": "BT1011E",
+        "title": "Cell Biology and Genetics",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 2,
+        "O": 7,
+        "credits": 4,
+        "total_sessions": "39L + 26P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Describe the characteristics of the cell and composition, cell organelles structure, and function.",
+          "CO2: Illustrate the cell cycle regulation and second messengers involved in cellular signaling.",
+          "CO3: Explain the Mendelian genetics, linkage, and crossing over.",
+          "CO4: Apply the concepts of genetics to understanding the inheritance of genetic diseases and molecular tools to analyze them.",
+          "CO5: Apply the knowledge of cell biology in experiments for the visualization of stained and unstained cells and their organelles."
+        ],
+        "topics": [
+          "Cell structure and nuclear function: cell theory, prokaryotic and eukaryotic cells, membrane structure, transport mechanisms, nuclear envelope, chromosomes",
+          "Cell organelles, cell cycle and signaling: mitochondria, ER, Golgi, lysosomes; mitosis, meiosis; cyclin-CDK checkpoints; G-protein coupled receptors, PI3-kinase pathway",
+          "Mendelian genetics: monohybrid and dihybrid cross, incomplete dominance, codominance, sex-linked genes, linkage, crossing over",
+          "Genetic technology and population genetics: transposable elements, gene therapy, transgenic organisms, Hardy-Weinberg principle, developmental genetics"
+        ],
+        "lab_topics": [
+          "Principles and handling of microscopes",
+          "Light microscope sample preparation techniques",
+          "Demonstration of mitosis in cells",
+          "Isolation of cell organelles",
+          "Enumeration of cell count using a hemocytometer",
+          "Preparation of blood smear and differential WBC count",
+          "Histology of tissues",
+          "Histochemical staining and immunohistochemistry",
+          "Osmotic fragility test",
+          "Staining and observation of Barr's body",
+          "Pedigree analysis in human genetics",
+          "Chromosome preparation and visualization by staining",
+          "Problems in genetics and calculations"
+        ],
+        "references": [
+          "P. Snustad and M. J. Simmons, Principles of Genetics, 7th Edn., 2015",
+          "M. R. Cummings et al., Concepts of Genetics, 12th Global Edn., 2019",
+          "J. E. Krebs et al., Lewin's GENES XII, 12th Edn., Jones and Bartlett, 2018",
+          "A. Alberts et al., Molecular Biology of the Cell, 5th Edn., Garland Science, 2008",
+          "H. Lodish et al., Molecular Cell Biology, 9th Edn., W. H. Freeman, 2021"
+        ]
+      },
+      {
+        "code": "BT1012E",
+        "title": "Process Calculations",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Perform unit conversion involved in bioprocesses and know the expression of the concentration of dilute solutions.",
+          "CO2: Solve the material balance problems in unit operations.",
+          "CO3: Analyze the stoichiometry of cell growth and product formation.",
+          "CO4: Solve the energy balance problems in fermentation processes."
+        ],
+        "topics": [
+          "Stoichiometric Principles: unit conversion, dimensional consistency, mole concept, concentration, graphical differentiation and integration",
+          "Material Balance: general equation for steady and unsteady state, element balance, material balance in crystallization, drying, distillation, recycle, bypass and purge calculations",
+          "Stoichiometry of Bioprocesses: cell growth and product formation, elemental balances, yield coefficients, maintenance coefficients, oxygen consumption",
+          "Energy Balance: heat capacity, enthalpy calculations, heat of combustion, energy balance for fermentation"
+        ],
+        "references": [
+          "K. V. Narayanan and B. Lakshmikuttyamma, Stoichiometry & Process Calculations, Prentice Hall, 2006",
+          "B. I. Bhatt and S. M. Vora, Stoichiometry, 4th Edn., Tata McGraw-Hill, 2001",
+          "M. L. Shuler and F. Kargi, Bioprocess Engineering – Basic Concepts, 2nd Edn., Prentice Hall, 2004",
+          "P. M. Doran, Bioprocess Engineering Principles, 2nd Edn., Academic Press, 2005"
+        ]
+      },
+      {
+        "code": "BT1013E",
+        "title": "Environmental Bioengineering",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify the fundamental concepts and principles of ecology and ecosystems.",
+          "CO2: Analyze the impact of air and noise pollution on the environment and human health.",
+          "CO3: Evaluate sources and classification of water pollutants and sewage/wastewater treatment.",
+          "CO4: Apply biotechnological methods to assess pollution control: biodegradation, bioremediation, phytoremediation, waste management."
+        ],
+        "topics": [
+          "Ecology and Ecosystem: ecosystem balance, diversity indices, thermodynamics, food energy chains",
+          "Air and Noise Pollution: sources, monitoring, control, Ambient Air Quality, Air Act 1981, decibel, noise measurement",
+          "Water Pollution: classification of pollutants, sewage treatment, activated sludge, nitrification-denitrification, waste stabilization ponds",
+          "Biotechnological Methods: biodegradation, bioremediation, phytoremediation, E-waste management"
+        ],
+        "references": [
+          "E. P. Odum, Fundamentals of Ecology, 5th Edn., Brooks/Cole, 2004",
+          "G. Tchobanoglous, F. Burton and Stensel, Wastewater Engineering, 4th Edn., Tata McGraw Hill, 2008",
+          "C. S. Rao, Environmental Pollution Control Engineering, New Age International, 2021",
+          "B. C. Bhattacharyya and R. Banerjee, Environmental Biotechnology, Oxford University Press, 2007"
+        ]
+      },
+      {
+        "code": "BT2002E",
+        "title": "Bioprocess Engineering",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Design a fermentation process in a bioreactor.",
+          "CO2: Analyze the cell growth and product formation in different cultivation systems.",
+          "CO3: Design batch and continuous sterilization.",
+          "CO4: Perform modeling and simulation of bioprocess."
+        ],
+        "topics": [
+          "Fermentation and Bioreactor: fermentation types, media design and optimization, bioreactor configuration, control of pH/temperature/DO",
+          "Cultivation Systems and Oxygen Transfer: Monod model, batch/continuous/fed-batch cultivation, mass transfer, Kla",
+          "Design of Sterilization: thermal death kinetics, batch and continuous sterilization, filter and air sterilization, effluent treatment",
+          "Modeling and Simulation: structured and non-structured models, dynamic simulation, immobilized enzyme reactors"
+        ],
+        "references": [
+          "J. E. Bailey and D. F. Ollis, Biochemical Engineering Fundamentals, 2nd Edn., McGraw Hill, 2017",
+          "M. L. Shuler and F. Kargi, Bioprocess Engineering – Basic Concepts, 2nd Edn., Prentice Hall, 2015",
+          "P. M. Doran, Bioprocess Engineering Principles, 2nd Edn., Academic Press, 2005",
+          "P. F. Stanbury, S. J. Hall and A. Whitaker, Principles of Fermentation Technology, 3rd Edn., Elsevier, 2016"
+        ]
+      },
+      {
+        "code": "BT2003E",
+        "title": "Molecular Biology and Genetic Engineering",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Comprehend the concepts of DNA as genetic material, genes and associated phenotypes.",
+          "CO2: Analyze central dogma of transmission of genetic information.",
+          "CO3: Develop the concept of gene regulation and genetic recombination.",
+          "CO4: Evaluate and analyze cloning of DNA fragments and its modifications.",
+          "CO5: Generate synthetic DNA molecules, construct and evaluate synthetic organisms."
+        ],
+        "topics": [
+          "DNA as genetic material, epigenetics, central dogma, DNA replication in prokaryotes and eukaryotes",
+          "Transcription and post-transcriptional processing; translation and post-translational modifications",
+          "Gene regulation: operon model (lac, gal, trp); DNA damage and repair; transposons; retroviruses; homologous recombination",
+          "Recombinant DNA technology: restriction enzymes, plasmids, cosmids, cloning vectors, expression vectors, hybridization",
+          "DNA sequencing, PCR variants, DNA fingerprinting, site-directed mutagenesis, RFLP, CRISPR"
+        ],
+        "references": [
+          "R. Weaver, Molecular Biology, 5th Edn., McGraw-Hill, 2018",
+          "J. D. Watson et al., Molecular Biology of the Gene, 7th Edn., Pearson, 2013",
+          "J. E. Krebs et al., Lewin's GENES XII, 12th Edn., Jones and Bartlett, 2017",
+          "D. S. T. Nicholl, An Introduction to Genetic Engineering, 4th Edn., Cambridge University Press, 2023"
+        ]
+      },
+      {
+        "code": "BT2091E",
+        "title": "Bioprocess Laboratory",
+        "category": "PC",
+        "semester": 3,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Perform the kinetics of fermentation processes.",
+          "CO2: Design and optimize medium components for biomass production.",
+          "CO3: Analyze the oxygen transfer rate in fermentation processes.",
+          "CO4: Execute small scale and pilot scale study for fermentation of biological products."
+        ],
+        "lab_topics": [
+          "Growth curve of bacteria – specific growth rate, yield coefficient, product formation kinetics",
+          "Control of pH and temperature in a bioprocess",
+          "Control of flow rates and pressure",
+          "Enzyme kinetics – Michaelis-Menten parameters",
+          "Enzyme immobilization and whole cell immobilization",
+          "Kinetics of immobilized enzyme reactions",
+          "Determination of Kla by static gassing out and sulphite oxidation",
+          "Residence Time Distribution (RTD) of CSTR",
+          "Mixing time in stirred tank reactor with Newtonian and Non-Newtonian fluids",
+          "Thermal death kinetics",
+          "Fermentation of biomolecules",
+          "Measurement of ethanol production in a fermentor"
+        ]
+      },
+      {
+        "code": "BT2092E",
+        "title": "Molecular Biology Laboratory",
+        "category": "PC",
+        "semester": 3,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Prepare DNA and RNA from any biological sources.",
+          "CO2: Generate and analyze the restriction pattern of DNA molecules.",
+          "CO3: Transform yeast and bacteria with plasmid DNA for phenotypic analysis.",
+          "CO4: Amplify DNA fragment and evaluate.",
+          "CO5: Design, comprehend and assess any DNA molecules."
+        ],
+        "lab_topics": [
+          "Isolation of plasmid from E. coli",
+          "Transformation of E. coli and yeast",
+          "Selection of recombinants (blue-white screening)",
+          "Restriction mapping of plasmids/vectors",
+          "Isolation of genomic DNA from eukaryotes",
+          "PCR of a gene from genomic DNA",
+          "Cloning PCR product into a vector",
+          "Restriction mapping of a cloned DNA fragment",
+          "Isolation of DNA fragments by restriction digestion and gel elution",
+          "Cloning of isolated DNA fragment into a plasmid",
+          "Isolation of mRNA and cDNA synthesis",
+          "Gene expression analysis using Real-Time PCR",
+          "Site directed mutagenesis of a cloned gene",
+          "Southern hybridization",
+          "Separation of chromosomes using CHEF"
+        ]
+      },
+      {
+        "code": "BT2011E",
+        "title": "Bioinformatics",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Utilize the available online biological databases to retrieve and analyze sequences.",
+          "CO2: Analyze the basic algorithms for sequence analysis of proteins and nucleic acids.",
+          "CO3: Develop an idea about predictive methods for structure and function of nucleic acid and protein sequences.",
+          "CO4: Apply bioinformatics approaches to solve biological problems such as gene annotation, molecular evolution and drug designing.",
+          "CO5: Critically evaluate the results of bioinformatics analyses and their biological significance."
+        ],
+        "topics": [
+          "Introduction to Bioinformatics and Biological Databases: Genbank, NCBI, DDBJ, Pubmed, UniProt, PROSITE, SCOP, RCSB-PDB, EMBL-EBI, STRING, TCGA",
+          "Sequence Alignment: substitution matrices (PAM, BLOSUM), gap penalties, Needleman-Wunsch, Smith-Waterman, FASTA, BLAST, CLUSTALX, HMM",
+          "Phylogenetic Analysis: substitution models, evaluating phylogenetic trees",
+          "Structure Prediction and Analysis: protein homology modeling, drug discovery, protein-protein interactions",
+          "Data Analysis: NGS, SNP detection, gene prediction, microarray data analysis"
+        ],
+        "references": [
+          "A. K. Lesk, Introduction to Bioinformatics, 5th Edn., Oxford University Press, 2019",
+          "J. Pevsner, Bioinformatics and Functional Genomics, 3rd Edn., Wiley-Blackwell, 2015",
+          "D. W. Mount, Bioinformatics: Sequence and Genome Analysis, 2nd Edn., Cold Spring Harbor Laboratory Press, 2004"
+        ]
+      },
+      {
+        "code": "BT2012E",
+        "title": "Downstream Process Engineering",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Recognize the basis for various steps in downstream processing and their economics, to design a purification strategy.",
+          "CO2: Apply basic laws governing downstream processing unit operations to solve practical problems.",
+          "CO3: Assess techniques such as precipitation, membrane separation and chromatography for purification.",
+          "CO4: Propose a technique to give final polishing to the isolated product."
+        ],
+        "topics": [
+          "Introduction to downstream processing: economics, cost-cutting strategies, process design for different classes of bioproducts",
+          "Primary Separation and Recovery: cell disruption, centrifugation, filtration, flocculation, sedimentation",
+          "Enrichment Operations: extraction, aqueous two-phase extraction, adsorption, precipitation, ultrafiltration, microfiltration, dialysis",
+          "Fractionation and Polishing: chromatographic techniques (adsorption, ion exchange, affinity, gel filtration, HPLC), crystallization, drying"
+        ],
+        "references": [
+          "N. K. Prasad, Downstream Process Technology, PHI, 2012",
+          "M. R. Ladisch, Bioseparations Engineering, Wiley Interscience, 2001",
+          "J. D. Seader and E. J. Henley, Separation Process Principles, 3rd Edn., Wiley, 2010",
+          "P. A. Belter, E. L. Cussler and W. S. Hu, Bioseparation: Downstream Processing for Biotechnology, 2nd Edn., Wiley, 1994"
+        ]
+      },
+      {
+        "code": "BT2013E",
+        "title": "Biopharmaceutical Technology",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Examine the growth of biopharmaceutical industries and recent pharmaceutical molecules.",
+          "CO2: Analyze the evolution of biopharmaceutical product development and identify key sources of biopharmaceuticals.",
+          "CO3: Apply the principles of drug formulation, pharmacokinetics and pharmacodynamics for designing and developing new drugs.",
+          "CO4: Evaluate and design novel steps involved in industrial production and purification of biopharmaceuticals."
+        ],
+        "topics": [
+          "Introduction to Biopharmaceutical Industries: small molecules, biologics, biogenerics, biosimilars; world and Indian scenario",
+          "Drug Discovery and Development: ADME, pharmacodynamics, clinical trials, GMP, regulatory approvals (USFDA, CDSCO)",
+          "Pharmacokinetics and Pharmacodynamics: compartment models, bioavailability, drug-receptor interactions, dose-response relationships",
+          "Case Studies: cytokines, hormones, monoclonal antibodies, cell therapy (CAR-T, stem cell), gene therapy, vaccines"
+        ],
+        "references": [
+          "M. E. Aulton and K. Taylor (Eds.), Aulton's Pharmaceutics, Elsevier Health Sciences, 2013",
+          "T. N. Tozer and M. Rowland, Essentials of Pharmacokinetics and Pharmacodynamics, Wolters Kluwer, 2016",
+          "I. Ramzan (Ed.), Biologics, Biosimilars, and Biobetters, John Wiley & Sons, 2020"
+        ]
+      },
+      {
+        "code": "BT2093E",
+        "title": "Bioinformatics Laboratory",
+        "category": "PC",
+        "semester": 4,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Utilize online databases and basic algorithms for nucleic acid and protein sequence analysis.",
+          "CO2: Demonstrate predictive methods for protein structure, function, and phylogenetic relatedness.",
+          "CO3: Analyze and compare nucleic acid and protein sequences.",
+          "CO4: Apply protein-protein interactions and microarray data analysis for experimental design.",
+          "CO5: Develop hypotheses based on bioinformatics data and design experiments to test them."
+        ],
+        "lab_topics": [
+          "Basics of sequence analysis, retrieving nucleic acid/protein sequences",
+          "Pairwise comparison using dynamic programming",
+          "Pairwise comparison using BLAST",
+          "Multiple sequence alignment",
+          "Phylogenetic analysis",
+          "Secondary and tertiary structure prediction of proteins",
+          "Identification of functional sites in genes and genomes",
+          "Restriction mapping of DNA sequences",
+          "Protein-ligand interactions",
+          "Comparison of two genomes",
+          "Primer design",
+          "Protein-protein interaction analysis",
+          "Microarray data analysis"
+        ]
+      },
+      {
+        "code": "BT2094E",
+        "title": "Downstream Process Laboratory",
+        "category": "PC",
+        "semester": 4,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply principles of cell disruption, filtration, concentration, extraction and drying and analyze efficiency.",
+          "CO2: Plan and evaluate downstream processing steps for expression and purification of a recombinant protein.",
+          "CO3: Design experimental setups to isolate proteins/enzymes and small molecules using precipitation and chromatography."
+        ],
+        "lab_topics": [
+          "Solid-liquid separation by filtration, sedimentation and flocculation",
+          "Separation of small molecules from macromolecules by ultrafiltration and dialysis",
+          "Estimation and separation of proteins",
+          "Bacterial cell disruption (physical, chemical, enzymatic)",
+          "Aqueous two-phase extraction and batch extraction",
+          "Separation of carbohydrates/amino acids by TLC",
+          "Downstream processing of a recombinant protein from a bacterial system",
+          "Ammonium sulphate precipitation of recombinant protein",
+          "Affinity chromatography purification",
+          "Downstream processing of lysozyme by ion exchange chromatography",
+          "Gel filtration chromatography for salt removal",
+          "Downstream processing of citric acid (Aspergillus spp.)",
+          "Downstream processing of caffeine from tea dust",
+          "Crystallization experiments",
+          "Product polishing by lyophilisation and drying"
+        ]
+      },
+      {
+        "code": "BT3001E",
+        "title": "Analytical Techniques and Instrumentation",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Analyse and identify suitable analytical techniques for quantification of biological macromolecules.",
+          "CO2: Apply the working principles of electrophoretic, spectroscopic, chromatographic and microscopic techniques for molecular characterisation.",
+          "CO3: Interpret data procured from molecular characterization and provide structural and functional details.",
+          "CO4: Design series of experiments involving various techniques for purification and analysis of proteins, lipids, DNA and carbohydrates."
+        ],
+        "topics": [
+          "Electrophoretic Techniques: gel electrophoresis (DNA and proteins), isoelectric focusing, 2D-PAGE, PFGE, Western/Southern blot",
+          "Spectroscopic Techniques: UV-Vis, fluorescence/phosphorescence, atomic absorption, FTIR, Raman spectroscopy",
+          "Chromatography and Structure Analysis: GC, HPLC, flow cytometry, mass spectrometry (LC/MS, GC/MS), XRD, NMR, circular dichroism",
+          "Microscopic Techniques: phase contrast, fluorescence, electron (SEM, TEM, Cryo-EM), confocal, super-resolution, AFM"
+        ],
+        "references": [
+          "K. Wilson et al. (Eds.), Wilson and Walker's Principles and Techniques of Biochemistry and Molecular Biology, Cambridge University Press, 2018",
+          "W. W. Parson and C. Burda, Modern Optical Spectroscopy, Springer, 2022",
+          "V. Ramesh (Ed.), Biomolecular and Bioanalytical Techniques, John Wiley & Sons, 2019"
+        ]
+      },
+      {
+        "code": "BT3002E",
+        "title": "Immunotechnology",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Explain different molecules, cells and tissues of the vertebrate immune system and the cooperation between innate and adaptive immunity.",
+          "CO2: Discuss and compare the innate and adaptive immune response mechanisms in physiological and pathological states.",
+          "CO3: Apply the knowledge of antigen-antibody interactions for the development of novel immunodiagnostic techniques.",
+          "CO4: Develop novel therapy for human diseases by applying biotechnological principles in immunology."
+        ],
+        "topics": [
+          "Cellular and Molecular Components: innate and acquired immunity, antibody structure, MHC, complement system",
+          "Immune Response Mechanisms: B and T lymphocyte maturation, humoral and cell-mediated responses, cytokines, ADCC",
+          "Immune System Dysfunction and Immunodiagnostics: hypersensitivity, autoimmunity, immunodeficiency; RIA, ELISA, immunoblotting, flow cytometry",
+          "Immunotherapeutics: hybridoma technology, monoclonal antibodies, vaccines (mRNA, vector, subunit), immunosuppressive therapies"
+        ],
+        "references": [
+          "J. Punt et al., Kuby Immunology, 8th Edn., W. H. Freeman, 2018",
+          "K. M. Murphy et al., Janeway's Immunobiology, 10th Edn., W. W. Norton, 2022",
+          "A. K. Abbas et al., Cellular and Molecular Immunology, 10th Edn., Elsevier, 2021"
+        ]
+      },
+      {
+        "code": "BT3003E",
+        "title": "Biosafety and Bioethics",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Define ethical values in scientific research and ethical violations.",
+          "CO2: Analyze the biological, chemical, physical, and radioactive laboratory hazards and their prevention and safety measures.",
+          "CO3: Apply the concepts and ethical guidelines to carry out research in genetic engineering, animal, human, and stem cell research.",
+          "CO4: Summarize the national and international guidelines and policies for good laboratory practices and biosafety."
+        ],
+        "topics": [
+          "Responsible Conduct of Science: values in science, misconduct, plagiarism, IP rights, authorship, research with humans/animals/stem cells",
+          "Laboratory Safety: biohazards, biosafety cabinets, biosafety levels 1-4, chemical/radiation/electrical/fire safety, bio-waste segregation",
+          "Guidelines for Stem Cells and GMOs: Institutional Biosafety Committee compliance, containment and storage of GMOs",
+          "Ethics in Animal and Human Research: CCSEA guidelines, ICMR guidelines, institutional ethics committee responsibilities"
+        ],
+        "references": [
+          "Handbook for Institutional Biosafety Committee, Dept. of Biotechnology, Govt of India (2017 & 2020)",
+          "Laboratory Biosafety Manual, 4th Edn., World Health Organization, 2020",
+          "National guidelines for stem cell research, DBT and ICMR, 2017",
+          "National ethical guidelines for biomedical and health research, ICMR, 2017"
+        ]
+      },
+      {
+        "code": "BT3091E",
+        "title": "Immunology Laboratory",
+        "category": "PC",
+        "semester": 5,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Investigate antigen-antibody interactions and apply the knowledge to diagnostic immunology.",
+          "CO2: Explain the methods of studying immune reactions.",
+          "CO3: Apply the principle of western blotting and demonstrate the presence of specific protein molecules."
+        ],
+        "lab_topics": [
+          "Lymphocytes isolation and staining",
+          "Purification of immunoglobulins",
+          "Dot ELISA",
+          "Antibody Capture ELISA",
+          "Sandwich ELISA",
+          "Western blotting",
+          "Identification of blood group",
+          "Ouchterlony double diffusion",
+          "Countercurrent immunoelectrophoresis",
+          "Latex agglutination",
+          "Immunoprecipitation",
+          "Quantitative precipitin assay",
+          "Phagocytosis assay",
+          "Complement fixation assay",
+          "qRT-PCR based immune cell gene expression assay",
+          "Enumeration of bacterial infection load"
+        ]
+      },
+      {
+        "code": "BT3011E",
+        "title": "Plant Biotechnology",
+        "category": "PC",
+        "semester": 6,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Describe the basic concepts and principles of plant tissue culture and its application.",
+          "CO2: Evaluate different methods of plant transformation.",
+          "CO3: Assess the state-of-the-art techniques used in plant biotechnology.",
+          "CO4: Identify the biotechnological applications and metabolic pathways in plants."
+        ],
+        "topics": [
+          "Plant Tissue Culture: media composition, sterilization, totipotency, micropropagation, somatic embryogenesis, protoplast culture, cryopreservation",
+          "Tissue Culture Applications: haploid production, germplasm conservation, secondary metabolites, bioreactor systems",
+          "Plant Transformation Technology: Agrobacterium-mediated gene transfer, Ti/Ri plasmids, binary vectors, biolistics, transgene silencing",
+          "Secondary Metabolite Pathways and Applications: shikimate, phenylpropanoid, terpenoid pathways; biopesticides, biofuels, nutraceuticals, GMO commercialization"
+        ],
+        "references": [
+          "C. N. Stewart Jr, Plant Biotechnology and Genetics, John Wiley & Sons, 2016",
+          "S. Umesha, Plant Biotechnology, 2nd Edn., CRC Press, 2019",
+          "A. Slater, N. Scott and M. R. Fowler, Plant Biotechnology: The Genetic Manipulation of Plants, 2nd Edn., Oxford University Press, 2008"
+        ]
+      },
+      {
+        "code": "BT3092E",
+        "title": "Plant Biotechnology Laboratory",
+        "category": "PC",
+        "semester": 6,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Acquire hands-on experience in various plant tissue culture techniques.",
+          "CO2: Demonstrate the plant regeneration processes including regeneration from seeds, vegetative multiplication and callus induction.",
+          "CO3: Demonstrate essential molecular biology techniques applicable to plant biotechnology."
+        ],
+        "lab_topics": [
+          "Requirements for Plant Tissue Culture Laboratory",
+          "Techniques in plant tissue culture",
+          "Media components and preparations",
+          "Sterilization technique and inoculation of various explants",
+          "Aseptic culture establishment",
+          "Regeneration from seed",
+          "Callus induction and plant regeneration",
+          "Vegetative multiplication from axillary buds",
+          "Micropropagation of Banana and Rose",
+          "Embryo and endosperm culture",
+          "Protoplast isolation",
+          "Genomic DNA isolation from plant sample",
+          "Plasmid DNA isolation from Agrobacterium"
+        ]
+      },
+      {
+        "code": "BT3093E",
+        "title": "Project-Part-I",
+        "category": "PC",
+        "semester": 6,
+        "L": 0,
+        "T": 0,
+        "P": 6,
+        "O": 3,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply the principles of natural science, mathematics and engineering for designing experiments to solve complex problems.",
+          "CO2: Develop skills to use modern tools and equipment as an individual or team with professional and ethical commitments.",
+          "CO3: Disseminate information gained through written reports and presentations.",
+          "CO4: Plan and execute project objectives in a timely manner with appropriate financial management.",
+          "CO5: Demonstrate the ability to adapt and self-learn new techniques."
+        ],
+        "description": "Students form groups of up to four members and propose projects in consultation with faculty. Evaluated by mid-semester and end-semester committee presentations and a detailed project report."
+      },
+      {
+        "code": "BT4091E",
+        "title": "Internship",
+        "category": "PC",
+        "semester": 7,
+        "L": 0,
+        "T": 0,
+        "P": 4,
+        "O": 2,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify the layout, machinery, organizational structure and production processes in industry/research laboratory.",
+          "CO2: Implement the industrial practices and work culture as an individual, team member or leader.",
+          "CO3: Evaluate the impact of engineering solutions in a global, economic, environmental and societal context.",
+          "CO4: Communicate effectively through technical report and presentation."
+        ],
+        "description": "Students undergo training individually in reputed firms/research institutes/laboratories for 2 months. A detailed report is submitted within ten days of the commencement of the next semester."
+      },
+      {
+        "code": "BT4092E",
+        "title": "Project-Part-II",
+        "category": "PC",
+        "semester": 7,
+        "L": 0,
+        "T": 0,
+        "P": 6,
+        "O": 3,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply the principles of natural science, mathematics and engineering for designing experiments to solve complex problems.",
+          "CO2: Develop skills to use modern tools and equipment as an individual or team with professional and ethical commitments.",
+          "CO3: Disseminate information gained through written reports and presentations.",
+          "CO4: Plan and execute project objectives in a timely manner with appropriate financial management.",
+          "CO5: Demonstrate the ability to adapt and self-learn new techniques."
+        ],
+        "description": "Continuation of Project-Part-I. Students form groups of up to four members and present to an evaluation committee."
+      }
+    ],
+    "programme_electives": {
+      "biosciences_and_technology": [
+        {
+          "code": "BT2026E",
+          "title": "Advanced Cytogenetics",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3022E",
+          "title": "Structural Biology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3025E",
+          "title": "Marine Biotechnology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3028E",
+          "title": "Animal Biotechnology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4021E",
+          "title": "Synthetic Biology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4024E",
+          "title": "Cancer Biology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4025E",
+          "title": "Infection Biology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4026E",
+          "title": "Agricultural Biotechnology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4093E",
+          "title": "Project-Part-III",
+          "L": 0,
+          "P": 12,
+          "credits": 6,
+          "also_counts_as": ["PE"]
+        }
+      ],
+      "computational_biotechnology": [
+        {
+          "code": "BT2071E",
+          "title": "Python for Biologists",
+          "L": 2,
+          "P": 2,
+          "credits": 3,
+          "also_counts_as": ["PE", "DA"]
+        },
+        {
+          "code": "BT3024E",
+          "title": "Drug Discovery and Development",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3030E",
+          "title": "Systems Biology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3032E",
+          "title": "Genomics and Proteomics",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3071E",
+          "title": "Artificial Intelligence and Machine Learning in Life Sciences",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE", "DA"]
+        },
+        {
+          "code": "BT4029E",
+          "title": "Programming for Biologists",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        },
+        {
+          "code": "BT4030E",
+          "title": "Artificial Intelligence in Computational Biology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        }
+      ],
+      "bioengineering": [
+        {
+          "code": "BT2021E",
+          "title": "Enzyme Kinetics and Technology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT2022E",
+          "title": "Biophysics",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3023E",
+          "title": "Biomechanics",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3027E",
+          "title": "Metabolic Engineering",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3029E",
+          "title": "Nanobioengineering",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3033E",
+          "title": "Biosensors and Diagnostics",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3034E",
+          "title": "Biomaterials and Artificial Organs",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4022E",
+          "title": "Biochemical Thermodynamics",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4023E",
+          "title": "Tissue Engineering",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        }
+      ],
+      "industrial_biotechnology": [
+        {
+          "code": "BT2023E",
+          "title": "Bioenergy and Biofuels",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT2024E",
+          "title": "Food Process Technology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT2025E",
+          "title": "Integrated Physiology and Pharmacology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3021E",
+          "title": "Bioreactor Design and Analysis",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3026E",
+          "title": "Bioconjugate Technology and Applications",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT3031E",
+          "title": "Pharmacology and Toxicology",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4027E",
+          "title": "Herbs and Nutraceuticals",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        },
+        {
+          "code": "BT4028E",
+          "title": "Blood Substitutes",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["PE"]
+        }
+      ],
+      "humanities_management_entrepreneurship": [
+        {
+          "code": "BT2061E",
+          "title": "Innovation Entrepreneurship and IPR",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["EI"]
+        },
+        {
+          "code": "BT3081E",
+          "title": "Mastering Scientific Communication: Effective Writing and Presentation Skills",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["HM"]
+        },
+        {
+          "code": "BT3082E",
+          "title": "Economics for STEM",
+          "L": 3,
+          "P": 0,
+          "credits": 3,
+          "also_counts_as": ["HM"]
+        }
+      ]
+    }
+  },
+  "activity_credits": {
+    "total_required": 4,
+    "minimum_points": 80,
+    "milestones": [
+      { "by_end_of_semester": 4, "minimum_points": 20 },
+      { "by_end_of_semester": 6, "minimum_points": 40 },
+      { "by_end_of_semester": 8, "minimum_points": 80 }
+    ]
+  }
+}

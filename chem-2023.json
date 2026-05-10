@@ -1,0 +1,2188 @@
+{
+  "institution": "National Institute of Technology Calicut",
+  "department": "Chemical Engineering",
+  "program": "B.Tech. in Chemical Engineering",
+  "applicable_from": "2023 Admission onwards",
+  "total_credits": 150,
+  "program_educational_objectives": [
+    {
+      "id": "PEO1",
+      "description": "Practice chemical engineering in traditional and emerging fields."
+    },
+    {
+      "id": "PEO2",
+      "description": "Excel in advanced studies with a strong foundation laid in undergraduate education."
+    },
+    {
+      "id": "PEO3",
+      "description": "Exhibit leadership, ethical attitude, communication skills, teamwork in their profession and multidisciplinary skills."
+    },
+    {
+      "id": "PEO4",
+      "description": "Engage in lifelong learning and continuous professional development."
+    }
+  ],
+  "programme_outcomes": [
+    {
+      "id": "PO1",
+      "title": "Engineering knowledge",
+      "description": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+      "id": "PO2",
+      "title": "Problem analysis",
+      "description": "Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+      "id": "PO3",
+      "title": "Design/development of solutions",
+      "description": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations."
+    },
+    {
+      "id": "PO4",
+      "title": "Investigation of complex problems",
+      "description": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+      "id": "PO5",
+      "title": "Modern tool usage",
+      "description": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of their limitations."
+    },
+    {
+      "id": "PO6",
+      "title": "Engineer and society",
+      "description": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to professional engineering practice."
+    },
+    {
+      "id": "PO7",
+      "title": "Environment and sustainability",
+      "description": "Understand the impact of professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for, sustainable development."
+    },
+    {
+      "id": "PO8",
+      "title": "Ethics",
+      "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+      "id": "PO9",
+      "title": "Individual and team work",
+      "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+      "id": "PO10",
+      "title": "Communication",
+      "description": "Communicate effectively on complex engineering activities with the engineering community and with society at large, including writing effective reports, making effective presentations, and giving and receiving clear instructions."
+    },
+    {
+      "id": "PO11",
+      "title": "Project management and finance",
+      "description": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects in multidisciplinary environments."
+    },
+    {
+      "id": "PO12",
+      "title": "Life-long learning",
+      "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+  ],
+  "programme_specific_outcomes": [
+    {
+      "id": "PSO1",
+      "description": "Apply the principles of chemical engineering to design, analyze, optimize and control chemical processes and systems in various industries."
+    },
+    {
+      "id": "PSO2",
+      "description": "Develop solutions for complex engineering problems using conventional, modern tools and techniques."
+    },
+    {
+      "id": "PSO3",
+      "description": "Think individually, communicate effectively, work in teams and assume positions as leaders."
+    }
+  ],
+  "credit_structure": {
+    "Institute_Core_IC": { "min_courses": 8, "min_credits": 22 },
+    "Programme_Core_and_Electives_PC_PE": {
+      "min_courses": 27,
+      "min_credits": 82
+    },
+    "Open_Electives_OE": { "min_courses": 8, "min_credits": 24 },
+    "Institute_Electives_IE": {
+      "min_courses": 6,
+      "min_credits": 18,
+      "sub_categories": {
+        "Entrepreneurship_Innovation_EI": { "min_credits": 3 },
+        "Digital_Automation_Technologies_DA": { "min_credits": 6 },
+        "Humanities_Social_Science_Management_HM": { "min_credits": 9 }
+      }
+    },
+    "Activity_Credits_AC": { "min_points": 80, "credits": 4 }
+  },
+  "effort_notation": {
+    "L": "Lecture – 50 min per unit",
+    "T": "Tutorial – 50 min per unit (marked * = optional, can be replaced by self-study)",
+    "P": "Practical – 1 hour per unit",
+    "O": "Outside class / self-study – 1 hour per unit"
+  },
+  "semester_plan": [
+    {
+      "semester": 1,
+      "total_credits": 18,
+      "courses": [
+        {
+          "code": "MA1001E",
+          "title": "Mathematics I",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CY1005E",
+          "title": "Chemistry I",
+          "category": "IC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "PH1001E",
+          "title": "Physics of Materials",
+          "category": "IC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH1001E",
+          "title": "Professional Ethics",
+          "category": "IC",
+          "L": 1,
+          "T": 0,
+          "P": 0,
+          "O": 2,
+          "credits": 1
+        },
+        {
+          "code": "CH1002E",
+          "title": "Material and Energy Balance",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH1003E",
+          "title": "Elements of Biotechnology",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH1091E",
+          "title": "Chemical Analysis Lab",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 3,
+          "O": 3,
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "semester": 2,
+      "total_credits": 18,
+      "courses": [
+        {
+          "code": "MA1011E",
+          "title": "Mathematics II",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "MS1001E",
+          "title": "Professional Communication",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CY1006E",
+          "title": "Chemistry II",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH1004E",
+          "title": "Introduction to Computing",
+          "category": "PC",
+          "L": 2,
+          "T": 0,
+          "P": 2,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CH1005E",
+          "title": "Process Fluid Mechanics",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH1006E",
+          "title": "Mechanical Operations",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "semester": 3,
+      "total_credits": 20,
+      "courses": [
+        {
+          "code": "MA2005E",
+          "title": "Mathematics III",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CH2001E",
+          "title": "Process Heat Transfer",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2002E",
+          "title": "Materials Science",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2003E",
+          "title": "Chemical Engineering Thermodynamics",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "HM_E1",
+          "title": "HM Elective - 1",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE1",
+          "title": "Open Elective - 1",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2091E",
+          "title": "Fluid and Particle Mechanics Lab",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 3,
+          "O": 3,
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "semester": 4,
+      "total_credits": 21,
+      "notes": "Activity Points minimum 20 required by end of Semester 4.",
+      "courses": [
+        {
+          "code": "MA2015E",
+          "title": "Mathematics IV",
+          "category": "IC",
+          "L": 3,
+          "T": "1*",
+          "P": 0,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CH2004E",
+          "title": "Chemical Reaction Engineering",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2005E",
+          "title": "Mass Transfer Operations",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P": 0,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "PE1",
+          "title": "Programme Elective - 1",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "DA_E1",
+          "title": "Digital Automation Elective - 1",
+          "category": "DA",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "EI_E1",
+          "title": "Entrepreneurship/Innovation Elective",
+          "category": "EI",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2092E",
+          "title": "Heat and Mass Transfer Lab",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 3,
+          "O": 3,
+          "credits": 2
+        },
+        {
+          "code": "MC1",
+          "title": "Minor Course - 1",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 5,
+      "total_credits": 21,
+      "courses": [
+        {
+          "code": "CH3001E",
+          "title": "Process Instrumentation and Control",
+          "category": "PC",
+          "L": 3,
+          "T": 1,
+          "P": 0,
+          "O": 8,
+          "credits": 4
+        },
+        {
+          "code": "CH3002E",
+          "title": "Chemical Technology",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE2",
+          "title": "Open Elective - 2",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "PE2",
+          "title": "Programme Elective - 2",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "HM_E2",
+          "title": "HM Elective - 2",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3091E",
+          "title": "Reaction Engineering and Process Control Lab",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 3,
+          "O": 3,
+          "credits": 2
+        },
+        {
+          "code": "LAB_PE",
+          "title": "Lab Elective (Simulation / Energy / Instrumentation)",
+          "category": "PE",
+          "L": 1,
+          "T": 0,
+          "P": 3,
+          "O": 5,
+          "credits": 3,
+          "options": [
+            "CH3092E Simulation Lab",
+            "CH3093E Energy Lab",
+            "CH3094E Instrumentation Lab"
+          ]
+        },
+        {
+          "code": "MC2",
+          "title": "Minor Course - 2",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 6,
+      "total_credits": 22,
+      "notes": "Activity Points minimum 40 required by end of Semester 6.",
+      "courses": [
+        {
+          "code": "CH3003E",
+          "title": "Chemical Process Equipment Design",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 2,
+          "O": 7,
+          "credits": 4
+        },
+        {
+          "code": "CH3004E",
+          "title": "Transport Phenomena",
+          "category": "PC",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "PE3",
+          "title": "Programme Elective - 3",
+          "category": "PE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE3",
+          "title": "Open Elective - 3",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "DA_E2",
+          "title": "Digital Automation Elective - 2",
+          "category": "DA",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "HM_E3",
+          "title": "HM Elective - 3",
+          "category": "HM",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3095E",
+          "title": "Project Part I",
+          "category": "PC",
+          "L": 0,
+          "T": 0,
+          "P": 0,
+          "O": 9,
+          "credits": 3
+        },
+        {
+          "code": "MC3",
+          "title": "Minor Course - 3",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 7,
+      "total_credits": 20,
+      "courses": [
+        {
+          "code": "OE4",
+          "title": "Open Elective - 4",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE5",
+          "title": "Open Elective - 5",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE6",
+          "title": "Open Elective - 6",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE7",
+          "title": "Open Elective - 7",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "OE8",
+          "title": "Open Elective - 8",
+          "category": "OE",
+          "L": 3,
+          "T": 0,
+          "P": 0,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4091E",
+          "title": "Summer Internship",
+          "category": "PC",
+          "credits": 2,
+          "note": "Duration decided by the host organisation; minimum 8 weeks during summer vacation of 3rd year"
+        },
+        {
+          "code": "S7_PE",
+          "title": "Project Part II / Internship / Programme Elective",
+          "category": "PE",
+          "credits": 3,
+          "O": 9,
+          "note": "Students choose one: CH4094E Project Part II, CH4092E Internship, or a Programme Elective"
+        },
+        {
+          "code": "MC4",
+          "title": "Minor Course - 4",
+          "category": "MC",
+          "credits": 3,
+          "note": "Optional Minor"
+        }
+      ]
+    },
+    {
+      "semester": 8,
+      "total_credits": 10,
+      "courses": [
+        {
+          "code": "S8_PE",
+          "title": "Project Part III / Internship / Programme Electives",
+          "category": "PE",
+          "credits": 6,
+          "O": 18,
+          "note": "Students choose one: CH4095E Project Part III, CH4093E Internship, or Programme Electives. Project Part III preferably done as Internship / Product development / Entrepreneurship / Research project."
+        },
+        {
+          "code": "CH4096E",
+          "title": "Activity Credits",
+          "category": "AC",
+          "credits": 4,
+          "note": "Minimum 80 Activity Points required"
+        }
+      ]
+    }
+  ],
+  "courses": {
+    "institute_core": [
+      {
+        "code": "MA1001E",
+        "title": "Mathematics I",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 1,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Formulate engineering problems as ODEs and solve them.",
+          "CO2: Solve linear ODEs with constant coefficients.",
+          "CO3: Find limits, check continuity and differentiability of real valued functions of two variables.",
+          "CO4: Test for the convergence of sequences and series.",
+          "CO5: Find the Fourier series representing periodic functions."
+        ],
+        "topics": [
+          "First order ODEs: existence and uniqueness, methods of solution, orthogonal trajectories",
+          "Second order ODEs with constant coefficients: Wronskian, undetermined coefficients, variation of parameters, Euler-Cauchy equations",
+          "Applications of first and second order ODEs, systems of linear ODEs",
+          "Functions of several variables: limit, continuity, partial derivatives, gradient, Lagrange multipliers, Taylor's formula",
+          "Parametrised curves in space, arc length, curvature, torsion",
+          "Sequences, Cauchy sequence, series, convergence tests, power series, Taylor series",
+          "Periodic functions, Fourier series, Fourier integrals, Fourier transforms"
+        ],
+        "references": [
+          "H. Anton, I. Bivens & S. Davis, Calculus, 10th Edn., Wiley, 2015",
+          "G. B. Thomas et al., Thomas' Calculus, 12th Edn., Pearson, 2015",
+          "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+          "Apostol, Calculus Vol 1, Wiley, 2014"
+        ]
+      },
+      {
+        "code": "MA1011E",
+        "title": "Mathematics II",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 2,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Find parametric representation of curves and surfaces and evaluate integrals over them.",
+          "CO2: Use Laplace transform to solve differential and integral equations.",
+          "CO3: Test consistency of linear equations and solve them.",
+          "CO4: Diagonalise symmetric matrices and find the nature of quadratic forms."
+        ],
+        "topics": [
+          "Vector fields, divergence, curl, scalar potential, line integrals, Green's theorem",
+          "Double and triple integrals, Jacobian, polar/cylindrical/spherical coordinates",
+          "Surface integrals, flux, Gauss' divergence theorem, Stokes' theorem",
+          "Laplace transform, Dirac delta function, convolution, shifting theorems, solving ODEs and integral equations",
+          "System of linear equations, Gauss elimination, LU decomposition, rank, eigenvalues, eigenvectors",
+          "Cayley-Hamilton theorem, diagonalisation, quadratic forms, reduction to canonical form"
+        ],
+        "references": [
+          "E. Kreyszig, Advanced Engineering Mathematics, 10th Edn., Wiley, 2015",
+          "H. Anton et al., Calculus, 10th Edn., Wiley, 2015",
+          "P. Dyke, Introduction to Laplace Transforms and Fourier Series, Springer"
+        ]
+      },
+      {
+        "code": "MA2005E",
+        "title": "Mathematics III",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 3,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Understand series solutions for ordinary differential equations.",
+          "CO2: Model physical phenomena through PDEs and apply solution techniques.",
+          "CO3: Solve linear and non-linear algebraic equations numerically.",
+          "CO4: Understand numerical differentiation and integration."
+        ],
+        "topics": [
+          "ODE series solutions: Frobenius method, Legendre equation, Bessel's equation, Sturm-Liouville problems",
+          "PDEs of first order: Cauchy problem, Lagrange and Charpit methods",
+          "Modelling through PDEs: heat, wave and Laplace equations; Fourier method and integral techniques",
+          "Classification of second-order PDEs",
+          "Numerical methods: root-finding, iterative methods for linear systems, numerical differentiation and integration",
+          "Numerical ODE solutions: initial value problems (Runge-Kutta), boundary value problems (shooting methods)"
+        ],
+        "references": [
+          "E. Kreyszig, Advanced Engineering Mathematics, Wiley, 9th Edn., 2012",
+          "M. D. Raisinghania, Ordinary and Partial Differential Equations, S. Chand, 20th Edn., 2020",
+          "M. K. Jain et al., Numerical Methods for Scientific and Engineering Computation, 8th Edn., New Age International, 2022"
+        ]
+      },
+      {
+        "code": "MA2015E",
+        "title": "Mathematics IV",
+        "category": "IC",
+        "sub_category": "Mathematics",
+        "semester": 4,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Understand basic concepts of one- and two-dimensional random variables and apply them in engineering.",
+          "CO2: Use techniques of statistical inference and their applications.",
+          "CO3: Apply regression and correlation for analysing real-life problems.",
+          "CO4: Understand sampling distributions and statistical techniques used in engineering and management."
+        ],
+        "topics": [
+          "Probability distributions: discrete and continuous random variables, Chebyshev's inequality",
+          "Normal, Student's t, Chi-Square and F distributions, transformation of random variables",
+          "Jointly distributed random variables, marginal and conditional distributions, bivariate normal distribution",
+          "Statistical inference: point and interval estimates, hypothesis testing (means, variances, proportions)",
+          "Chi-square test for goodness of fit, contingency tables",
+          "Regression: curve fitting, least squares, simple regression, correlation coefficient",
+          "Analysis of Variance (ANOVA) for single factor experiments"
+        ],
+        "references": [
+          "S. Ross, A First Course in Probability, 9th Edn., Pearson, 2014",
+          "R. A. Johnson, Miller and Freund's Probability and Statistics for Engineers, 8th Edn., PHI, 2011",
+          "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers, 7th Edn., 2019"
+        ]
+      },
+      {
+        "code": "CY1005E",
+        "title": "Chemistry I",
+        "category": "IC",
+        "sub_category": "Basic Sciences",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply fundamentals of thermodynamics and photochemistry to real-life engineering problems.",
+          "CO2: Utilise principles of inorganic chemistry for innovative applications.",
+          "CO3: Apply basics of electrochemistry to advanced technologies."
+        ],
+        "topics": [
+          "Thermodynamics: Helmholtz and Gibbs free energy, entropy, Maxwell relations, Van't Hoff equation, chemical potential",
+          "Phase diagrams of mixtures: volatile liquids, liquid-liquid, liquid-solid, reaction equilibria",
+          "Photochemistry: quantum yield, actinometry, photosensitisation, photodegradation, photocatalysts",
+          "Molecular orbital theory: bonding in diatomic molecules, coordination chemistry, crystal field theory",
+          "Metal ions in living systems: haemoglobin, myoglobin; organometallics and catalysis",
+          "Electrochemistry: ion-solvent and ion-ion interactions, electrolytic conductivity, galvanic cells, electrical double layer",
+          "Electroanalytical techniques: potentiometry, polarography, voltammetry, coulometry, amperometry, impedance spectroscopy"
+        ],
+        "references": [
+          "P. Atkins & J. Paula, Physical Chemistry, 8th Edn., Freeman, 2006",
+          "J. E. Huheey et al., Inorganic Chemistry, Pearson India, 2009",
+          "J. Bard & L. R. Faulkner, Electrochemical Methods, 2nd Edn., Wiley, 2001"
+        ]
+      },
+      {
+        "code": "PH1001E",
+        "title": "Physics of Materials",
+        "category": "IC",
+        "sub_category": "Basic Sciences",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Explain fundamentals of quantum mechanics.",
+          "CO2: Apply quantum mechanics to electrons in crystals and study band formation in solids.",
+          "CO3: Apply quantum mechanics to study electrical properties of solids.",
+          "CO4: Explain conductivity in semiconducting materials and influence of dopants."
+        ],
+        "topics": [
+          "Quantum mechanics: wave-particle duality, de Broglie waves, uncertainty principle, Schrodinger's wave equation",
+          "Applications to free particle and particle in a box",
+          "Band theory of solids: Bloch theorem, Kronig-Penney model, E-k diagram, band gap",
+          "Electrical conductivity: classical electron theory, Fermi energy and Fermi surface, density of states, effective mass",
+          "Semiconductors: intrinsic and extrinsic, carrier concentration, Fermi level, temperature dependence of conductivity"
+        ],
+        "references": [
+          "Beiser, Concepts of Modern Physics, 6th Edn., McGraw-Hill, 2009",
+          "K. Krane, Modern Physics, 4th Indian Edn., Wiley, 2021",
+          "M. A. Wahab, Solid State Physics, 3rd Edn., Narosa, 2015"
+        ]
+      },
+      {
+        "code": "CH1001E",
+        "title": "Professional Ethics",
+        "category": "IC",
+        "sub_category": "Professional Communication and Ethics",
+        "semester": 1,
+        "L": 1,
+        "T": 0,
+        "P": 0,
+        "O": 2,
+        "credits": 1,
+        "total_lecture_sessions": 13,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Develop a clear understanding of human values and use it as the basis for all activities.",
+          "CO2: Understand and follow the ethical aspects of the engineering profession.",
+          "CO3: Align with the AIChE Code of Ethics in all professional activities.",
+          "CO4: Assimilate the elements of Academic Integrity and Honour Codes."
+        ],
+        "topics": [
+          "Human values: morals, integrity, work ethic, civic virtue, honesty, commitment, empathy, self-confidence",
+          "Ethics in professional context: ethical responsibilities to consumers, safety and risk, IP management, environmental sustainability",
+          "AIChE Code of Ethics, academic integrity: honesty, trust, fairness, respect, responsibility, plagiarism",
+          "Honour codes and expected ethical standards from stakeholders"
+        ],
+        "references": [
+          "R. S. Naagarazan, Textbook on Professional Ethics and Human Values, 3rd Edn., New Age International, 2022",
+          "A. F. Bainbridge, Ethics for Engineers, CRC Press, 2021",
+          "C. E. Harris Jr. et al., Engineering Ethics: Concepts and Cases, Cengage, 6th Edn., 2019",
+          "AIChE Code of Ethics, American Institute of Chemical Engineers, New York"
+        ]
+      },
+      {
+        "code": "MS1001E",
+        "title": "Professional Communication",
+        "category": "IC",
+        "sub_category": "Professional Communication and Ethics",
+        "semester": 2,
+        "L": 3,
+        "T": "1*",
+        "P": 0,
+        "O": 5,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Distinguish the role and purpose of communication at the workplace and for academic purposes.",
+          "CO2: Decide strategies and modes for effective communication in a dynamic workplace.",
+          "CO3: Combine multiple approaches for successful and ethical information exchange.",
+          "CO4: Estimate best communication practices to assist productivity and congeniality."
+        ],
+        "topics": [
+          "Listening and reading comprehension: introductions, feedback, public speaking",
+          "Vocabulary development, critical reading, understanding text structures",
+          "Effective writing: note-making, paragraph writing, official letters, emails, abstract writing",
+          "Communication theory, verbal/nonverbal communication, group discussions, presentations, digital communication etiquette"
+        ],
+        "references": [
+          "N. Bhatnagar, Communicative English for Engineers and Professionals, Dorling Kindersley, 2010",
+          "B. A. Garner, HBR Guide to Better Business Writing, Harvard Business Review Press, 2012",
+          "S. Kumar & P. Lata, Communication Skills, Oxford University Press, 2015"
+        ]
+      }
+    ],
+    "programme_core": [
+      {
+        "code": "CH1002E",
+        "title": "Material and Energy Balance",
+        "category": "PC",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify areas where Chemical Engineering plays a major role.",
+          "CO2: Understand units of measurement and conversions between systems.",
+          "CO3: Quantify mass in moles and vice versa.",
+          "CO4: Apply equations of state to characterise gas mixtures and humidity.",
+          "CO5: Formulate and solve material balance equations for steady-state processes with and without reactions.",
+          "CO6: Formulate energy balance in closed and open systems and calculate heat of chemical reactions."
+        ],
+        "topics": [
+          "Introduction: chemical engineering applications, unit operations and processes, units and dimensions, mole and concentration concepts",
+          "Ideal and real gases, vapour pressure, vapour-liquid equilibrium, humidity and saturation",
+          "Material balance: general equation, steady-state processes, recycle, bypass and purge calculations",
+          "Material balance with reactions: limiting/excess reactants, fractional and percentage conversion, yield",
+          "Energy balance: heat capacity, enthalpy changes, phase transitions, thermochemistry, Hess's law",
+          "Orsat analysis, ultimate and proximate analysis of coal, theoretical flame temperature"
+        ],
+        "references": [
+          "K. V. Narayanan & B. Lakshmikuttyamma, Stoichiometry & Process Calculations, 2nd Edn., PHI, 2016",
+          "D. H. Himmelblau, Basic Principles and Calculations in Chemical Engineering, 8th Edn., PHI, 2014",
+          "R. M. Felder & R. W. Rousseau, Elementary Principles of Chemical Processes, 3rd Edn., Wiley, 2008"
+        ]
+      },
+      {
+        "code": "CH1003E",
+        "title": "Elements of Biotechnology",
+        "category": "PC",
+        "semester": 1,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Illustrate the scope, significance and types of Biotechnology.",
+          "CO2: Describe organisation of living cells and their function.",
+          "CO3: Review essentials of biomolecules, molecular biology and genetic engineering.",
+          "CO4: Demonstrate applications of biotechnology for energy, environment and value-added products."
+        ],
+        "topics": [
+          "Introduction: history, scope, ethics, types (microbial, agricultural, food, medical), metabolic processes",
+          "Biochemistry: biomolecules (carbohydrates, proteins, lipids, nucleic acids), central dogma, recombinant DNA technology",
+          "Bioproducts: baker's yeast, algae, amino acids, organic acids, antibiotics, bioplastics, enzymes, biosensors, vaccines",
+          "Biofuels: bioethanol, biogas; bioremediation for petroleum spills and wastewater treatment"
+        ],
+        "references": [
+          "C. Ratledge & B. Kristiansen, Basic Biotechnology, 3rd Edn., Cambridge, 2006",
+          "W. J. Thieman & M. A. Palladino, Introduction to Biotechnology, 4th Edn., Pearson, 2021",
+          "S. C. Bhatia, Textbook of Biotechnology, Atlantic Publishers, 2005"
+        ]
+      },
+      {
+        "code": "CH1091E",
+        "title": "Chemical Analysis Lab",
+        "category": "PC",
+        "semester": 1,
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "O": 3,
+        "credits": 2,
+        "total_sessions": "39P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Analyse oil properties.",
+          "CO2: Estimate the quality of sugar, soap and soil.",
+          "CO3: Evaluate water pollutants quantitatively and qualitatively."
+        ],
+        "lab_topics": [
+          "Sugar analysis",
+          "Determination of saponification value",
+          "Determination of flash, fire and smoke points",
+          "Soap analysis",
+          "Determination of iodine value",
+          "Determination of acidity and alkalinity",
+          "Determination of total organic carbon content",
+          "Separation using paper chromatography and TLC",
+          "Determination of boiling point range of oils using distillation apparatus",
+          "Moisture analysis of oils using Karl Fischer Titrator"
+        ],
+        "references": [
+          "R. Gopalan et al., Textbook of Engineering Chemistry, 4th Edn., Vikas, 2013",
+          "G. H. Jeffery et al., Vogel's Textbook of Quantitative Chemical Analysis, 5th Edn., Longman, 1989",
+          "R. B. Baird, Standard Methods for the Examination of Water and Wastewater, 23rd Edn., APHA, 2017"
+        ]
+      },
+      {
+        "code": "CY1006E",
+        "title": "Chemistry II",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Choose suitable separation strategies for identification of molecules.",
+          "CO2: Identify appropriate characterisation techniques for molecules and materials.",
+          "CO3: Examine fundamental concepts of reaction mechanisms in synthetic chemistry."
+        ],
+        "topics": [
+          "Separation techniques: chromatography, retention and separation factors, theoretical plates",
+          "Mass spectrometry: ionisation methods, ESI-MS, high-resolution MS, fragmentation processes",
+          "Spectroscopic techniques: IR, UV/Vis, NMR (1H and 13C), chemical shifts, Woodward-Fieser rules",
+          "X-ray diffraction; structure elucidation of organic molecules",
+          "Reaction mechanisms: kinetic vs thermodynamic control, Curtin-Hammett principle",
+          "Synthesis of fine chemicals: hydroboration, dihydroxylation, epoxidation, oxidative cleavage",
+          "Polymerisation methods: cationic, anionic, radical chain; cross-linking; stereochemistry of polymers"
+        ],
+        "references": [
+          "C. N. Banwell & E. M. McCash, Fundamentals of Molecular Spectroscopy, 5th Edn., McGraw Hill, 2013",
+          "R. M. Silverstein et al., Spectrometric Identification of Organic Compounds, 7th Edn., Wiley, 2005",
+          "F. A. Carey & R. J. Sundberg, Advanced Organic Chemistry Parts A & B, 5th Edn., Springer, 2008"
+        ]
+      },
+      {
+        "code": "CH1004E",
+        "title": "Introduction to Computing",
+        "category": "PC",
+        "semester": 2,
+        "L": 2,
+        "T": 0,
+        "P": 2,
+        "O": 5,
+        "credits": 3,
+        "total_sessions": "26L + 26P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Understand basic programming principles needed for engineers.",
+          "CO2: Create algorithms and flowcharts for a computer program.",
+          "CO3: Compile and run programs in computers with accuracy.",
+          "CO4: Apply programming skills to solve numerical schemes used in Chemical Engineering."
+        ],
+        "topics": [
+          "Basic computer fundamentals: CPU, ALU, registers, memory, number systems, fixed and floating-point numbers",
+          "C++ basics: algorithms, flowcharts, input/output, operators, control structures, file I/O, preprocessor directives",
+          "Arrays and functions: void and value-returning functions, recursion, function overloading, pointers, dynamic arrays",
+          "Object-oriented programming: classes, objects",
+          "Numerical methods: Gaussian elimination, Thomas algorithm, Jacobi/Gauss-Seidel methods, bisection, Newton-Raphson",
+          "Numerical interpolation, differentiation and integration: difference tables, trapezoidal rule, Simpson's rule"
+        ],
+        "references": [
+          "E. Balaguruswamy, Object Oriented Programming with C++, 8th Edn., Tata McGraw Hill, 2020",
+          "S. S. Sastry, Introductory Methods of Numerical Analysis, 5th Edn., PHI, 2012",
+          "H. M. Dietel & P. J. Dietel, C++ How to Program, 10th Edn., Prentice Hall, 2016"
+        ]
+      },
+      {
+        "code": "CH1005E",
+        "title": "Process Fluid Mechanics",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Understand the basic laws and equations governing fluid flows.",
+          "CO2: Calculate head losses in pipe flows and chemical engineering systems.",
+          "CO3: Choose the right fluid measurement devices and pumps for required applications."
+        ],
+        "topics": [
+          "Fluid concepts: Newtonian/non-Newtonian fluids, fluid kinematics, vorticity, Reynolds transport theorem",
+          "Continuity equation, Navier-Stokes equations, momentum and energy balance",
+          "Internal and external flow: boundary layer theory, Bernoulli's equation, pipe flow, head losses",
+          "Flow past immersed bodies, packed beds, fluidisation",
+          "Fluid machinery: dimensional analysis, flow meters (venturi, orifice, pitot), positive displacement, centrifugal pumps, NPSH"
+        ],
+        "references": [
+          "W. L. McCabe, J. C. Smith & P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw-Hill, 2017",
+          "Y. A. Cengel & J. M. Cimbala, Fluid Mechanics, 4th Edn., McGraw-Hill, 2019",
+          "N. H. De Nevers, Fluid Mechanics for Chemical Engineers, 3rd Edn., McGraw-Hill, 2004"
+        ]
+      },
+      {
+        "code": "CH1006E",
+        "title": "Mechanical Operations",
+        "category": "PC",
+        "semester": 2,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply basic principles of particle characterisation in processes involving solids.",
+          "CO2: Evaluate crushing efficiency of different size reduction equipment using crushing laws.",
+          "CO3: Analyse various mixing processes and calculate power requirements.",
+          "CO4: Select appropriate equipment for particle separation."
+        ],
+        "topics": [
+          "Particle characterisation: screen series, particle size analysis, properties of particulate masses",
+          "Size reduction: Rittinger's, Kick's and Bond's laws; crushers, grinders, ultrafine grinders; screening",
+          "Filtration: cake filtration theory, constant pressure/rate filtration, centrifugal filtration",
+          "Sedimentation: gravity settling, batch sedimentation, centrifugal settling, cyclone separation",
+          "Other separations: magnetic, electrostatic, froth flotation, jigging",
+          "Mixing: agitation equipment, power consumption in agitated vessels, solid/paste mixing",
+          "Conveying and storage: bins, silos, hoppers"
+        ],
+        "references": [
+          "W. L. McCabe, J. C. Smith & P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw-Hill, 2022",
+          "J. M. Coulson & J. F. Richardson, Chemical Engineering Vol. II, 5th Edn., Butterworth-Heinemann, 2002",
+          "L. Svarovsky, Solid-Liquid Separation, 4th Edn., Butterworth-Heinemann, 2000"
+        ]
+      },
+      {
+        "code": "CH2001E",
+        "title": "Process Heat Transfer",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Identify different modes of heat transfer and calculate the rate of heat transfer.",
+          "CO2: Apply concepts of 1D steady and unsteady state conduction heat transfer.",
+          "CO3: Distinguish between forced and free convection and calculate heat transfer coefficients.",
+          "CO4: Understand phase change mechanisms in boiling and condensation.",
+          "CO5: Calculate area, number of tubes, heat duty of heat exchangers and evaporators.",
+          "CO6: Calculate radiation heat transfer between surfaces and understand view factors."
+        ],
+        "topics": [
+          "Conduction: Fourier's law, steady-state through walls, cylinders, spheres, extended surfaces, unsteady state",
+          "Convection: thermal boundary layers, dimensional analysis, Reynolds/Prandtl/Colburn analogies, heat transfer coefficients",
+          "Boiling and condensation: Nusselt equations for film condensation, pool boiling, critical flux",
+          "Heat exchangers: LMTD, overall heat transfer coefficient, single/multi-pass, plate heat exchangers, design",
+          "Evaporation: single and multiple effect evaporators",
+          "Radiation: emissive power, Stefan-Boltzmann law, view factors, radiation between surfaces"
+        ],
+        "references": [
+          "J. M. Coulson & J. F. Richardson, Chemical Engineering Vol. 1, 6th Edn., Butterworth-Heinemann, 1999",
+          "D. Q. Kern, Process Heat Transfer, McGraw Hill, 2001",
+          "F. P. Incropera et al., Incropera's Principles of Heat and Mass Transfer, 8th Edn., Wiley, 2017"
+        ]
+      },
+      {
+        "code": "CH2002E",
+        "title": "Materials Science",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Classify atomic structures and bonding in materials.",
+          "CO2: Interpret characterisation techniques and imperfections in crystalline materials.",
+          "CO3: Identify phases, properties and understand phase diagrams of metals.",
+          "CO4: Demonstrate different failure mechanisms (deformation, dislocation, fracture) of materials.",
+          "CO5: Choose materials, properties, and processing techniques for engineering applications."
+        ],
+        "topics": [
+          "Structure of materials: bonding in metals/polymers/ceramics, XRD theory and application, imperfections",
+          "Mechanical properties: elastic/plastic deformation, dislocation mechanisms, fatigue, creep",
+          "Binary phase diagrams and phase transformations",
+          "Composites, corrosion, electronic/thermal/magnetic/optical material properties",
+          "Engineering design of materials and material selection"
+        ],
+        "references": [
+          "Callister, Materials Science and Engineering: An Introduction, 10th Edn., Wiley, 2020",
+          "J. F. Shackelford, Introduction to Materials Science for Engineers, 8th Edn., Pearson, 2015",
+          "V. Raghavan, Material Science and Engineering, 6th Edn., PHI, 1996"
+        ]
+      },
+      {
+        "code": "CH2003E",
+        "title": "Chemical Engineering Thermodynamics",
+        "category": "PC",
+        "semester": 3,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply laws of thermodynamics to various systems and thermodynamic cycles.",
+          "CO2: Calculate thermodynamic properties of pure and multi-component systems.",
+          "CO3: Analyse phase equilibria of various thermodynamic systems.",
+          "CO4: Interpret chemical reaction equilibria for homogeneous and heterogeneous systems."
+        ],
+        "topics": [
+          "Laws of thermodynamics: first, second and third law; Carnot, Rankine and refrigeration cycles; entropy balance",
+          "PVT behaviour of pure fluids: equations of state, generalized correlations",
+          "Solution thermodynamics: chemical potential, fugacity, activity coefficient models, excess properties",
+          "Mixing processes: property changes and heat effects of mixing",
+          "Phase equilibrium: VLE (Raoult's law, modified Raoult's law, Henry's law), LLE, SLE, VLLE",
+          "Chemical reaction equilibria: equilibrium constant, effect of temperature and composition, multireaction equilibria"
+        ],
+        "references": [
+          "J. M. Smith, H. C. Van Ness & M. M. Abbott, Introduction to Chemical Engineering Thermodynamics, 8th Edn., McGraw Hill, 2018",
+          "S. I. Sandler, Chemical, Biochemical and Engineering Thermodynamics, 5th Edn., Wiley India, 2017",
+          "Y. A. Cengel & M. A. Boles, Thermodynamics: An Engineering Approach, 8th Edn., McGraw Hill, 2015"
+        ]
+      },
+      {
+        "code": "CH2091E",
+        "title": "Fluid and Particle Mechanics Lab",
+        "category": "PC",
+        "semester": 3,
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "O": 3,
+        "credits": 2,
+        "total_sessions": "39P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply scientific knowledge in carrying out experiments, collecting data and handling equipment.",
+          "CO2: Analyse data, perform calculations and interpret results.",
+          "CO3: Work in groups and communicate effectively.",
+          "CO4: Demonstrate classical experiments in fluid mechanics and hydraulic machinery.",
+          "CO5: Analyse performance of size reduction equipment and separation techniques."
+        ],
+        "lab_topics": [
+          "Venturi and orifice meter apparatus",
+          "Packed bed and fluidised bed setup",
+          "Discharge over notches",
+          "Impact of jet apparatus",
+          "Pitot tube setup",
+          "Major and minor losses in pipe fittings and pipelines",
+          "Bernoulli's theorem apparatus",
+          "Reynolds apparatus",
+          "Centrifugal pump test rig",
+          "Size reduction equipment: jaw crusher, ball mill, roll crusher, pulveriser",
+          "Cyclone separator",
+          "Settling characteristics",
+          "Filtration equipment: leaf filter, plate and frame filter press"
+        ]
+      },
+      {
+        "code": "CH2004E",
+        "title": "Chemical Reaction Engineering",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Predict the mechanism of homogeneous reactions and calculate rate and temperature dependency.",
+          "CO2: Design ideal flow reactors for single reactions under isothermal conditions.",
+          "CO3: Design ideal flow reactors for multiple reactions under isothermal conditions.",
+          "CO4: Design ideal flow reactors under non-isothermal conditions.",
+          "CO5: Determine RTDs for non-ideal flow."
+        ],
+        "topics": [
+          "Kinetics of homogeneous reactions: elementary and non-elementary reactions, Arrhenius law, collision and transition state theories",
+          "Batch reactor data analysis: integral and differential methods, half-lives",
+          "Isothermal reactor design: batch, CSTR and PFR design equations, multiple reactor systems, recycle and autocatalytic reactions",
+          "Design for multiple reactions: series and parallel",
+          "Non-isothermal reactor design: energy conservation, batch and CSTR, tubular reactors, optimum temperature profiles",
+          "Non-ideal flow: residence time distribution (RTD), C, E, F and I curves"
+        ],
+        "references": [
+          "H. S. Fogler, Elements of Chemical Reaction Engineering, 5th Edn., PHI, 2016",
+          "O. Levenspiel, Chemical Reaction Engineering, 3rd Edn., Wiley, 1996",
+          "G. F. Froment & K. B. Bischoff, Chemical Reactor Analysis and Design, 3rd Edn., Wiley, 2010"
+        ]
+      },
+      {
+        "code": "CH2005E",
+        "title": "Mass Transfer Operations",
+        "category": "PC",
+        "semester": 4,
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "O": 8,
+        "credits": 4,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply fundamentals of mass transfer to determine diffusion coefficient, mass transfer coefficient and rates.",
+          "CO2: Apply thermodynamic equilibrium and operating lines to solve absorption, distillation, extraction and drying problems.",
+          "CO3: Design absorption, distillation, extraction and drying equipment."
+        ],
+        "topics": [
+          "Molecular diffusion in gases, liquids and solids; diffusivity measurement and prediction; eddy diffusion",
+          "Mass transfer theories, mass transfer coefficients, interphase mass transfer, overall coefficients",
+          "Gas-liquid operations: co-current, counter-current and crosscurrent processes, cascade and stage efficiencies",
+          "Gas absorption: absorption factor, tray and packed tower absorbers, HETP, HTU, NTU calculations",
+          "Distillation: batch, flash, differential, steam, continuous fractionation; McCabe-Thiele and Ponchon-Savarit methods",
+          "Liquid-liquid extraction: single and multistage, triangular and Ponchon-Savarit methods",
+          "Drying: theory, drying curves, batch and continuous dryer design"
+        ],
+        "references": [
+          "C. J. Geankoplis et al., Transport Processes and Separation Process Principles, 5th Edn., PHI, 2018",
+          "W. L. McCabe, J. C. Smith & P. Harriott, Unit Operations of Chemical Engineering, 7th Edn., McGraw Hill, 2017",
+          "R. E. Treybal, Mass Transfer Operations, 3rd Edn., McGraw Hill, 2017"
+        ]
+      },
+      {
+        "code": "CH2092E",
+        "title": "Heat and Mass Transfer Lab",
+        "category": "PC",
+        "semester": 4,
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "O": 3,
+        "credits": 2,
+        "total_sessions": "39P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Design and conduct experiments on heat and mass transfer equipment.",
+          "CO2: Collect and analyse experimental data using statistical principles.",
+          "CO3: Identify safety concerns related to experimental processes.",
+          "CO4: Write effective reports.",
+          "CO5: Work as a member of a team."
+        ],
+        "lab_topics": [
+          "Heat conduction",
+          "Combined convection",
+          "Thermal radiation — determination of emissivity",
+          "Double pipe heat exchanger",
+          "Shell and tube heat exchanger",
+          "Horizontal and vertical condenser",
+          "Dropwise and filmwise condensation",
+          "Pool boiling",
+          "Stefan-Boltzmann apparatus",
+          "Distillation",
+          "Diffusivity coefficient determination",
+          "Extraction",
+          "VLE data",
+          "Adsorption",
+          "Cooling tower",
+          "Leaching",
+          "Batch drying"
+        ]
+      },
+      {
+        "code": "CH3001E",
+        "title": "Process Instrumentation and Control",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 1,
+        "P": 0,
+        "O": 8,
+        "credits": 4,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Explain specifications, design and selection of measuring sensors.",
+          "CO2: Analyse process dynamics and derive system response to various input disturbances.",
+          "CO3: Describe feedback control and analyse open and closed-loop responses and stability.",
+          "CO4: Design P, PI and PID type control systems.",
+          "CO5: Enhance feedback control with cascade, feed-forward and ratio control strategies."
+        ],
+        "topics": [
+          "Process instrumentation: static and dynamic characteristics, calibration, pressure/temperature/flow measurement",
+          "Control valves: construction, sizing, inherent and effective characteristics",
+          "Process dynamics: Laplace transforms, transfer functions, block diagrams, linearisation",
+          "First and second order system responses: step, impulse, sinusoidal; transportation lag",
+          "Control system design: P, PI, PID and on-off controllers, stability, Bode and Nyquist plots",
+          "Gain and phase margins, Ziegler-Nichols and Cohen-Coon tuning rules",
+          "Advanced strategies: cascade control, feed-forward control, ratio control"
+        ],
+        "references": [
+          "D. R. Coughanowr & S. E. LeBlanc, Process System Analysis and Control, 3rd Edn., McGraw Hill, 2017",
+          "D. E. Seborg et al., Process Dynamics and Control, 4th Edn., Wiley, 2016",
+          "B. W. Bequette, Process Control: Modelling, Design and Simulation, 2nd Edn., Pearson, 2023"
+        ]
+      },
+      {
+        "code": "CH3002E",
+        "title": "Chemical Technology",
+        "category": "PC",
+        "semester": 5,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Differentiate unit operations and unit processes of chemical process industries.",
+          "CO2: Acquire production process knowledge of chemical and allied process industries.",
+          "CO3: Identify product yields, by-products, waste generation and engineering problems.",
+          "CO4: Implement new technologies, improve process yields, and minimise waste."
+        ],
+        "topics": [
+          "Basic chemical industries: chloro-alkali (caustic soda, chlorine, HCl, bleaching powder, soda ash), sulphuric acid (SCSA, DCDA), cement, paints",
+          "Nitrogen, fertilizer, soap and oil industries: ammonia, urea, nitric acid, NPK fertilisers, soaps, detergents, oils/fats processing",
+          "Natural industries: pulp, paper, fermentation, industrial alcohol",
+          "Fuel and petrochemical industry: industrial gases, methanol, isopropanol, phenol, polyethylene, polypropylene, nylon",
+          "Pharmaceutical industry: tablet formulation, granulation, packaging"
+        ],
+        "references": [
+          "G. T. Austin, Shreve's Chemical Process Industries, 5th Edn., McGraw Hill, 1985",
+          "R. G. Rao & M. Sittig, Dryden's Outlines of Chemical Technology, 3rd Edn., Affiliated East-West Publishers, 1997",
+          "J. R. Wagner, A Handbook of Chemical Technology, Legare Street Press, 2022"
+        ]
+      },
+      {
+        "code": "CH3091E",
+        "title": "Reaction Engineering and Process Control Lab",
+        "category": "PC",
+        "semester": 5,
+        "L": 0,
+        "T": 0,
+        "P": 3,
+        "O": 3,
+        "credits": 2,
+        "total_sessions": "39P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Determine kinetic parameters of a reaction in various ideal reactors.",
+          "CO2: Assess parameters characterising non-ideal reactors.",
+          "CO3: Determine dynamic response of first and second order systems to different forcing functions.",
+          "CO4: Determine and compare response of different controller types and their tuning.",
+          "CO5: Apply advanced control strategies like cascade control."
+        ],
+        "lab_topics": [
+          "Batch reactor: constant volume, isothermal, adiabatic, semi-batch kinetics",
+          "Continuous stirred tank reactor (CSTR) kinetics",
+          "Plug flow reactor (PFR) kinetics",
+          "Combined flow reactor kinetics",
+          "Residence time distribution in packed bed reactor",
+          "Step response of first and second order systems",
+          "Step response of non-interacting and interacting first order systems",
+          "Level control trainer and cascade control trainer",
+          "Programmable logic controller (PLC)",
+          "Heat exchanger control",
+          "Control valve characteristics"
+        ]
+      },
+      {
+        "code": "CH3003E",
+        "title": "Chemical Process Equipment Design",
+        "category": "PC",
+        "semester": 6,
+        "L": 3,
+        "T": 0,
+        "P": 2,
+        "O": 7,
+        "credits": 4,
+        "total_sessions": "39L + 26P",
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply chemical engineering knowledge in design of process equipment.",
+          "CO2: Design mechanical aspects of process equipment.",
+          "CO3: Design heat and mass transfer equipment for process industries.",
+          "CO4: Design reactors and storage vessels."
+        ],
+        "topics": [
+          "Mechanical design of vessels: pressure vessels, tall vessels, heads/closures, flange design, supports (skirt, lug, saddle)",
+          "Process design of heat transfer equipment: double pipe and shell-and-tube heat exchangers, condensers, evaporators",
+          "Storage, agitated and reaction vessel design",
+          "Process design of mass transfer equipment: tray and packed distillation/absorption columns",
+          "Combined mass and heat transfer equipment: dryers and cooling towers"
+        ],
+        "references": [
+          "B. C. Bhattacharya, Introduction to Chemical Equipment Design — Mechanical Aspects, CBS Publishers, 1985",
+          "L. E. Brownell & E. H. Young, Process Equipment Design, Wiley Eastern, 1968",
+          "R. H. Perry & D. W. Green, Chemical Engineers Handbook, 8th Edn., McGraw Hill, 2007"
+        ]
+      },
+      {
+        "code": "CH3004E",
+        "title": "Transport Phenomena",
+        "category": "PC",
+        "semester": 6,
+        "L": 3,
+        "T": 0,
+        "P": 0,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Apply shell balance and Navier-Stokes equation for 1D momentum transport problems.",
+          "CO2: Apply shell energy balance and equations of change for non-isothermal energy transport.",
+          "CO3: Apply shell mass balance and equations of change for multicomponent mass transport."
+        ],
+        "topics": [
+          "Momentum transport: shell momentum balance, velocity profiles, Navier-Stokes equations, dimensional analysis, non-Newtonian fluids, boundary layer concepts",
+          "Energy transport: thermal conductivity, shell energy balance, temperature profiles, equations of change for non-isothermal systems, transient conduction",
+          "Mass transport: diffusivity, shell mass balance, concentration profiles, equations of change for multicomponent systems",
+          "Analogies between heat, mass and momentum transfer, similarity parameters, coupled transport problems"
+        ],
+        "references": [
+          "R. B. Bird, W. E. Stewart & E. W. Lightfoot, Transport Phenomena, 2nd Edn., Wiley, 2018",
+          "J. R. Wilty et al., Fundamentals of Momentum, Heat and Mass Transfer, 5th Edn., Wiley, 2010",
+          "C. J. Geankoplis, Transport Processes and Separation Processes Principles, 4th Edn., Pearson, 2018"
+        ]
+      },
+      {
+        "code": "CH3095E",
+        "title": "Project Part I",
+        "category": "PC",
+        "semester": 6,
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "O": 9,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Work in a team and identify a problem for project work.",
+          "CO2: Review and evaluate the available literature on the chosen problem.",
+          "CO3: Formulate the methodology to solve the identified problem.",
+          "CO4: Apply the principles, tools and techniques to solve the problem.",
+          "CO5: Demonstrate written and oral presentation skills."
+        ],
+        "description": "Design, experiment or computation-based group project (3–4 students) on any Chemical Engineering topic. Assessed twice per semester (mid-semester and end-semester) by a faculty committee. Groups submit a final signed report kept in the departmental library."
+      },
+      {
+        "code": "CH4091E",
+        "title": "Summer Internship",
+        "category": "PC",
+        "semester": 7,
+        "credits": 2,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Provide real-world experience and enable correlation of classroom learning with industrial applications.",
+          "CO2: Develop practical engineering skills.",
+          "CO3: Help students discover their own interests in Chemical Engineering.",
+          "CO4: Inculcate research attitude among students."
+        ],
+        "description": "Minimum 8-week industrial training/internship during the summer vacation of B.Tech. 3rd year. Academic internship at IISc/IITs/NITs/CSIR Labs or reputed universities abroad is also allowed. Students submit a comprehensive report and present to a Summer Internship Evaluation Committee. Duration decided by the host organisation."
+      },
+      {
+        "code": "CH4092E",
+        "title": "Project Part II",
+        "category": "PC",
+        "semester": 7,
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "O": 9,
+        "credits": 3,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Work in a team and select a problem for project work.",
+          "CO2: Review and evaluate the available literature on the chosen problem.",
+          "CO3: Formulate the methodology to solve the identified problem.",
+          "CO4: Apply the principles, tools and techniques to solve the problem.",
+          "CO5: Develop concept of technical and thesis writing."
+        ],
+        "description": "Continuation of Project Part I (Semester VI) or a new topic. Individual or team work. Assessed twice per semester by a faculty committee. Groups submit a completed signed project report."
+      },
+      {
+        "code": "CH4095E",
+        "title": "Project Part III",
+        "category": "PE",
+        "semester": 8,
+        "L": 0,
+        "T": 0,
+        "P": 0,
+        "O": 18,
+        "credits": 6,
+        "prerequisites": [],
+        "course_outcomes": [
+          "CO1: Work in a team and select a problem for project work.",
+          "CO2: Review and evaluate available literature on the chosen problem.",
+          "CO3: Formulate the methodology to solve the identified problem.",
+          "CO4: Apply principles, tools and techniques to solve the problem.",
+          "CO5: Develop concept of technical and thesis writing."
+        ],
+        "description": "Continuation of Project Part II. Preferably done as Internship / Product development / Entrepreneurship / Research project. Students complete the work, present before the committee, and are expected to submit and communicate scientific papers to national/international conferences or journals."
+      }
+    ],
+    "programme_electives": {
+      "energy_and_environmental_engineering": [
+        {
+          "code": "CH2021E",
+          "title": "Energy Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2026E",
+          "title": "Waste to Energy Conversion",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3022E",
+          "title": "Petroleum Refining Operations and Processes",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3027E",
+          "title": "Natural Gas Engineering",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3032E",
+          "title": "Fuel Cells",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3033E",
+          "title": "Hydrogen Production and Storage",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4023E",
+          "title": "Environment Impact Assessment and Clean Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4027E",
+          "title": "Membrane Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4034E",
+          "title": "Battery Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4035E",
+          "title": "Sustainable Engineering: Theory and Practice",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        }
+      ],
+      "process_systems_engineering": [
+        {
+          "code": "CH2027E",
+          "title": "Mathematical Methods in Chemical Engineering",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2028E",
+          "title": "Computational Fluid Dynamics",
+          "L": 2,
+          "P": 2,
+          "O": 5,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        },
+        {
+          "code": "CH3030E",
+          "title": "Data Analytics for Process Systems",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        },
+        {
+          "code": "CH4024E",
+          "title": "Process Automation",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["DA"]
+        },
+        {
+          "code": "CH4032E",
+          "title": "Process Optimization",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4036E",
+          "title": "Process Intensification",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4037E",
+          "title": "Chemical Process Simulation",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4038E",
+          "title": "Multivariable Process Control",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        }
+      ],
+      "chemical_process_technology": [
+        {
+          "code": "CH2023E",
+          "title": "Ceramic Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH2024E",
+          "title": "Fertilizer Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3023E",
+          "title": "Corrosion Engineering",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3024E",
+          "title": "Food Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3025E",
+          "title": "Colloid and Interface Science",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3026E",
+          "title": "Drugs and Pharmaceutical Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3029E",
+          "title": "Mineral Processing Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3034E",
+          "title": "Catalysis",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4021E",
+          "title": "Biochemical Engineering",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4022E",
+          "title": "Electrochemical Engineering",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4033E",
+          "title": "Semiconductor Processing",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        }
+      ],
+      "materials_science_and_engineering": [
+        {
+          "code": "CH2022E",
+          "title": "Polymer Technology",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3028E",
+          "title": "Rheology of Complex Fluids",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3031E",
+          "title": "Polymer Alloys",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4026E",
+          "title": "Speciality Polymers",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4030E",
+          "title": "Composite Materials",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        }
+      ],
+      "management_and_entrepreneurship": [
+        {
+          "code": "CH2025E",
+          "title": "Human Resource Management",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH3021E",
+          "title": "Operations Research",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4025E",
+          "title": "New Enterprises Creation and Management",
+          "L": 3,
+          "O": 6,
+          "credits": 3,
+          "also_counts_as": ["EI"]
+        },
+        {
+          "code": "CH4028E",
+          "title": "Risk Analysis and HAZOP",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4029E",
+          "title": "Project Engineering",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        },
+        {
+          "code": "CH4031E",
+          "title": "Safety in Chemical Industries",
+          "L": 3,
+          "O": 6,
+          "credits": 3
+        }
+      ],
+      "lab_electives": [
+        {
+          "code": "CH3092E",
+          "title": "Simulation Lab",
+          "L": 1,
+          "P": 3,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CH3093E",
+          "title": "Energy Lab",
+          "L": 1,
+          "P": 3,
+          "O": 5,
+          "credits": 3
+        },
+        {
+          "code": "CH3094E",
+          "title": "Instrumentation Lab",
+          "L": 1,
+          "P": 3,
+          "O": 5,
+          "credits": 3
+        }
+      ]
+    },
+    "selected_elective_syllabi": [
+      {
+        "code": "CH2021E",
+        "title": "Energy Technology",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Understand present and future energy challenges in society.",
+          "CO2: Describe principles and technologies for harnessing energy from renewable sources.",
+          "CO3: Perform energy audits and process integration of unit operations.",
+          "CO4: Compare efficiencies of various conventional power plants.",
+          "CO5: Classify energy storage and conversion devices."
+        ],
+        "topics": [
+          "Conventional energy resources: world and Indian energy consumption, thermal, hydel and nuclear power plants, fluidised bed combustion",
+          "Energy conservation: energy audit, pinch technology, process integration",
+          "Solar energy: flat plate and focusing collectors, water heating, cooling, distillation, solar ponds, solar thermal power",
+          "Wind energy: types of windmills, rotors, wind electric power generation",
+          "Ocean and geothermal energy: wave, thermal and tidal energy conversion",
+          "Biomass energy: combustion, gasification, pyrolysis, biogas, ethanol",
+          "Fuel cells: alkaline, phosphoric acid, molten carbonate, solid oxide, solid polymer electrolyte types",
+          "Energy storage: thermal, chemical, mechanical and electrical storage"
+        ],
+        "references": [
+          "John Twidell & Tony Weir, Renewable Energy Resources, 4th Edn., Taylor & Francis, 2021",
+          "Robin Smith, Chemical Process Design and Integration, Wiley, 2005",
+          "Aldo V. da Rosa, Fundamentals of Renewable Energy Processes, 4th Edn., Elsevier, 2021"
+        ]
+      },
+      {
+        "code": "CH2022E",
+        "title": "Polymer Technology",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Understand basic classifications of polymers, types and kinetics of polymerisation.",
+          "CO2: Explain uses and preparations of various polymers.",
+          "CO3: Analyse various polymerisation techniques.",
+          "CO4: Explain polymer flow properties.",
+          "CO5: Illustrate techniques to determine molecular weight of polymers.",
+          "CO6: Describe polymer processing techniques and additives."
+        ],
+        "topics": [
+          "Polymer chemistry: addition, step and copolymerisation; kinetics; bulk, solution, suspension and emulsion polymerisation techniques",
+          "Industrial polymers: thermoplastics (PE, PP, PVC, PS, PMMA, polycarbonates), thermosets (PF, UF, polyester, epoxy, polyurethane)",
+          "Molecular weight: number average, weight average, viscosity average; determination by osmometry, light scattering, viscometry, GPC",
+          "Rheology: viscous flow, rubber elasticity, viscoelasticity, Maxwell and Voigt elements, stress relaxation, creep, melt flow index",
+          "Polymer additives: plasticisers, colourants, heat stabilisers, antioxidants, flame retardants",
+          "Processing methods: injection moulding, compression moulding, calendaring, blow moulding, extrusion, thermoforming, spinning"
+        ],
+        "references": [
+          "J. R. Fried, Polymer Science and Technology, PHI Eastern Economy Edition, 2000",
+          "F. W. Billmeyer, Textbook of Polymer Science, Wiley Interscience, 1984",
+          "V. R. Gowarikar et al., Polymer Science, Wiley Eastern, 1988"
+        ]
+      },
+      {
+        "code": "CH2023E",
+        "title": "Ceramic Technology",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Illustrate importance, properties and applications of ceramic materials.",
+          "CO2: Understand synthesis and characterisation of ceramic materials.",
+          "CO3: Familiarise with process techniques based on reactions.",
+          "CO4: Explain the importance of glass, refractories, cement and concrete."
+        ],
+        "topics": [
+          "Introduction to ceramics: classification (traditional, advanced, glass, refractories, cements), mechanical/thermal/optical/magnetic/electrical properties",
+          "Processing: size reduction, filtration, mixing, sintering, hot pressing, tape casting, sol-gel, CVD, PECVD, SHS",
+          "Property testing: porosity, hardness, density, thermal conductivity, creep",
+          "Glass: formation, structure, raw materials, annealing, glass ceramics",
+          "Refractories: classification, properties, uses in glass/ceramic industries, special refractories (cermets, ceramic fibres)",
+          "Cement and concrete: composition, manufacturing, testing and quality control"
+        ],
+        "references": [
+          "K. K. Chawla, Ceramic Matrix Composites, 2nd Edn., Kluwer, 2003",
+          "B. S. Mitchell, Introduction to Materials Engineering and Science, Wiley, 2004",
+          "L. H. Van Vlack, Elements of Material Science and Engineering, 6th Edn., Addison Wesley, 1989"
+        ]
+      },
+      {
+        "code": "CH2024E",
+        "title": "Fertilizer Technology",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Classify fertilisers based on their mechanism to improve soil productivity.",
+          "CO2: Describe production methods and applications of nitrogenous, potash and combination fertilisers.",
+          "CO3: Explain significance and production of biofertilisers.",
+          "CO4: Identify engineering and sustainability issues associated with fertiliser manufacturing."
+        ],
+        "topics": [
+          "Introduction: soil nutrients (primary, secondary, micronutrients), classification of fertilisers, liming, soil acidity and salinity",
+          "Nitrogen: soil organic nitrogen, biological nitrogen fixation, ammonia and urea production, N use efficiency",
+          "Phosphorus: phosphate fixation, triple superphosphate production",
+          "Potassium: potassium chloride and sulphate production",
+          "Mixed fertilisers: MAP, DAP, nitrophosphate, NPK; environmental impact",
+          "Biofertilisers: microbial biofertilisers, compost, organic farming, humus, integrated nutrient management"
+        ],
+        "references": [
+          "J. F. Power & R. Prasad, Soil Fertility Management for Sustainable Agriculture, CRC Press, 1997",
+          "S. G. Borkar, Microbes as Biofertilizers and their Production Technology, Woodhead Publishing, 2015",
+          "Havlin et al., Soil Fertility and Fertilizers, 8th Edn., Pearson Education India, 2016"
+        ]
+      },
+      {
+        "code": "CH2025E",
+        "title": "Human Resource Management",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Identify key terms, theories and practices within HRM.",
+          "CO2: Develop employability skills for personnel management.",
+          "CO3: Analyse, manage and problem-solve challenges in collective bargaining.",
+          "CO4: Solve human resource challenges and industrial conflict resolution."
+        ],
+        "topics": [
+          "HR development: manpower planning, recruitment, selection, induction, training, career planning",
+          "Job design and motivation: job description, analysis, evaluation, performance appraisal, compensation planning",
+          "Laws and rules governing employee benefits and welfare",
+          "Industrial relations: discipline, retrenchment, grievance handling, trade unionism, collective bargaining, industrial democracy"
+        ],
+        "references": [
+          "K. Aswathappa & S. Dash, Human Resource Management, 9th Edn., McGraw Hill, 2021",
+          "T. V. Rao & D. F. Pereira, Recent Experiences in Human Resources Development, Oxford & IBH, 1989",
+          "P. C. Tripathi, Personnel Management and Industrial Relations, S. Chand, 2013"
+        ]
+      },
+      {
+        "code": "CH2026E",
+        "title": "Waste to Energy Conversion",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Classify and characterise waste based on composition and describe government regulations.",
+          "CO2: Apply concepts of conversion technologies for zero waste and energy production.",
+          "CO3: Apply concepts of refinery for production of value-added chemicals from waste."
+        ],
+        "topics": [
+          "Waste availability and characterisation: MSW, plastic waste, biomass, process industry waste; barriers in conversion",
+          "Thermochemical conversion: incineration, pyrolysis, gasification; products (pyrolysis oil, biochar, syngas); optimisation",
+          "Latest processes: microbial conversion, solar thermal, plasma technology",
+          "Biochemical conversion: anaerobic digestion, fermentation, biogas, energy efficiency improvement",
+          "Integrated refinery: techno-economic evaluation, life-cycle assessment"
+        ],
+        "references": [
+          "N. Klinghoffer & M. Castaldi, Waste to Energy Conversion Technology, Woodhead, 2013",
+          "C. M. Hussain et al., Waste-to-Energy Approaches Towards Zero Waste, Elsevier, 2021",
+          "L. Branchini, Waste-to-Energy: Advanced Cycles and New Design Concepts, Springer, 2015"
+        ]
+      },
+      {
+        "code": "CH2027E",
+        "title": "Mathematical Methods in Chemical Engineering",
+        "L": 3,
+        "O": 6,
+        "credits": 3,
+        "total_lecture_sessions": 39,
+        "course_outcomes": [
+          "CO1: Develop skills to numerically solve linear and non-linear algebraic equations.",
+          "CO2: Apply appropriate numerical methods to solve ODEs.",
+          "CO3: Implement appropriate numerical methods to solve PDEs.",
+          "CO4: Select appropriate numerical techniques and solve chemical engineering problems using coding languages."
+        ],
+        "topics": [
+          "Linear systems: Cramer's rule, Gaussian elimination, LU decomposition, sparse systems, Jacobi/Gauss-Seidel/relaxation methods",
+          "Non-linear equations: bisection, Regula-Falsi, Newton-Raphson, Quasi-Newton for single and multi-variable problems",
+          "ODE solution: explicit/implicit/predictor-corrector methods, Runge-Kutta, stiffness, shooting methods, finite differences, finite elements",
+          "PDE solution: classification, method of lines, Crank-Nicolson, Galerkin FEM, orthogonal collocation; solved using MATLAB"
+        ],
+        "references": [
+          "S. C. Chapra & R. P. Canale, Numerical Methods for Engineers, 7th Edn., McGraw-Hill, 2015",
+          "S. Pushpavanam, Mathematical Methods in Chemical Engineering, PHI, 2004",
+          "R. G. Rice & D. D. Do, Applied Mathematics and Modelling for Chemical Engineers, Wiley, 1995"
+        ]
+      }
+    ]
+  },
+  "activity_credits": {
+    "total_required": 4,
+    "minimum_points": 80,
+    "milestones": [
+      { "by_end_of_semester": 4, "minimum_points": 20 },
+      { "by_end_of_semester": 6, "minimum_points": 40 },
+      { "by_end_of_semester": 8, "minimum_points": 80 }
+    ]
+  }
+}
