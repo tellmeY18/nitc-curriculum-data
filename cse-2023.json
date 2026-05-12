@@ -1,0 +1,1979 @@
+{
+    "institution": "National Institute of Technology Calicut",
+    "department": "Computer Science and Engineering",
+    "program": "B.Tech. in Computer Science and Engineering",
+    "applicable_from": "2023 Admissions Onwards",
+    "total_credits": 150,
+    "program_educational_objectives": [
+        {
+            "id": "PEO1",
+            "description": "Graduates shall have sound knowledge regarding the fundamental principles and techniques in the discipline of Computer Science and Engineering."
+        },
+        {
+            "id": "PEO2",
+            "description": "Graduates shall have the ability to specify, design, develop and maintain reliable and efficient software."
+        },
+        {
+            "id": "PEO3",
+            "description": "Graduates shall have the necessary communication and management skills and ethical values to become competent professionals."
+        }
+    ],
+    "programme_outcomes": [
+        {
+            "id": "PO1",
+            "title": "Engineering Knowledge",
+            "description": "Apply mathematics, science, engineering fundamentals, and CSE specialization to solve complex engineering problems."
+        },
+        {
+            "id": "PO2",
+            "title": "Problem Analysis",
+            "description": "Identify, formulate, research literature, and analyze complex engineering problems using mathematics and engineering sciences."
+        },
+        {
+            "id": "PO3",
+            "title": "Design / Development of Solutions",
+            "description": "Design solutions and develop software systems considering safety and societal factors."
+        },
+        {
+            "id": "PO4",
+            "title": "Investigation of Complex Problems",
+            "description": "Use research-based knowledge, experiments, data analysis, and synthesis to provide valid conclusions."
+        },
+        {
+            "id": "PO5",
+            "title": "Modern Tool Usage",
+            "description": "Create, select, and apply modern engineering and IT tools effectively."
+        },
+        {
+            "id": "PO6",
+            "title": "Engineer and Society",
+            "description": "Assess societal, health, safety, legal, and cultural issues relevant to engineering practice."
+        },
+        {
+            "id": "PO7",
+            "title": "Environment and Sustainability",
+            "description": "Understand environmental impact and sustainable development needs."
+        },
+        {
+            "id": "PO8",
+            "title": "Ethics",
+            "description": "Apply ethical principles and professional responsibilities."
+        },
+        {
+            "id": "PO9",
+            "title": "Individual and Team Work",
+            "description": "Function effectively as an individual and in multidisciplinary teams."
+        },
+        {
+            "id": "PO10",
+            "title": "Communication",
+            "description": "Communicate effectively through reports, presentations, and instructions."
+        },
+        {
+            "id": "PO11",
+            "title": "Project Management and Finance",
+            "description": "Apply engineering and management principles in multidisciplinary environments."
+        },
+        {
+            "id": "PO12",
+            "title": "Life-long Learning",
+            "description": "Engage in independent and lifelong learning with technological advancement."
+        }
+    ],
+    "programme_specific_outcomes": [
+        {
+            "id": "PSO1",
+            "description": "Analyze computational problems and design efficient algorithmic solutions."
+        },
+        {
+            "id": "PSO2",
+            "description": "Write effective code and use modern software tools for efficient systems."
+        },
+        {
+            "id": "PSO3",
+            "description": "Apply core CSE concepts to solve real-world multidisciplinary problems."
+        }
+    ],
+    "credit_structure": {
+        "IC": {
+            "min_courses": 8,
+            "min_credits": 22
+        },
+        "PC_PE": {
+            "min_courses": "24-25",
+            "min_credits": 82
+        },
+        "OE": {
+            "min_courses": 8,
+            "min_credits": 24
+        },
+        "IE": {
+            "min_courses": 6,
+            "min_credits": 18,
+            "sub_categories": {
+                "EI": {
+                    "min_credits": 3
+                },
+                "DA": {
+                    "min_credits": 6
+                },
+                "HM": {
+                    "min_credits": 9
+                }
+            }
+        },
+        "AC": {
+            "min_points": 80,
+            "credits": 4
+        }
+    },
+    "effort_notation": {
+        "L": "Lecture – 50 min/unit",
+        "T": "Tutorial – 50 min/unit (* optional/self-study)",
+        "P": "Practical – 1 hour/unit",
+        "O": "Outside class/self-study – 1 hour/unit"
+    },
+    "semester_plan": [
+        {
+            "semester": 1,
+            "total_credits": 17,
+            "courses": [
+                {
+                    "code": "MA1002E",
+                    "title": "Mathematics I",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": "1*",
+                    "P": 0,
+                    "O": 5,
+                    "credits": 3
+                },
+                {
+                    "code": "MS1001E",
+                    "title": "Professional Communication",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1001E",
+                    "title": "Computer Programming",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1002E",
+                    "title": "Introduction to Computing Science",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1003E",
+                    "title": "Discrete Structures I",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1091E",
+                    "title": "Programming Laboratory",
+                    "cat": "PC",
+                    "L": 0,
+                    "T": 0,
+                    "P": 3,
+                    "O": 3,
+                    "credits": 2
+                }
+            ]
+        },
+        {
+            "semester": 2,
+            "total_credits": 21,
+            "courses": [
+                {
+                    "code": "MA1012E",
+                    "title": "Mathematics II",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": "1*",
+                    "P": 0,
+                    "O": 5,
+                    "credits": 3
+                },
+                {
+                    "code": "PH1001E",
+                    "title": "Physics of Materials",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "BT1001E",
+                    "title": "Biology for Engineers",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1011E",
+                    "title": "Program Design",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1012E",
+                    "title": "Logic Design",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1013E",
+                    "title": "Discrete Structures II",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS1092E",
+                    "title": "Program Design Laboratory",
+                    "cat": "PC",
+                    "L": 1,
+                    "T": 0,
+                    "P": 3,
+                    "O": 5,
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "semester": 3,
+            "total_credits": 20,
+            "courses": [
+                {
+                    "code": "MA2002E",
+                    "title": "Mathematics III",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": "1*",
+                    "P": 0,
+                    "O": 5,
+                    "credits": 3
+                },
+                {
+                    "code": "CS2001E",
+                    "title": "Data Structures and Algorithms",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "CS2002E",
+                    "title": "Computer Organization",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "EI",
+                    "title": "Elective",
+                    "cat": "EI",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS2091E",
+                    "title": "DSA Laboratory",
+                    "cat": "PC",
+                    "L": 1,
+                    "T": 0,
+                    "P": 3,
+                    "O": 5,
+                    "credits": 3
+                },
+                {
+                    "code": "CS2092E",
+                    "title": "Hardware Laboratory",
+                    "cat": "PC",
+                    "L": 1,
+                    "T": 0,
+                    "P": 3,
+                    "O": 5,
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "semester": 4,
+            "total_credits": 18,
+            "courses": [
+                {
+                    "code": "MA2012E",
+                    "title": "Mathematics IV",
+                    "cat": "IC",
+                    "L": 3,
+                    "T": "1*",
+                    "P": 0,
+                    "O": 5,
+                    "credits": 3
+                },
+                {
+                    "code": "CS2011E",
+                    "title": "Database Management Systems",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "CS2012E",
+                    "title": "Operating Systems",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "CS2013E",
+                    "title": "Theory of Computation",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS2019E",
+                    "title": "Professional Ethics",
+                    "cat": "IC",
+                    "L": 1,
+                    "T": 0,
+                    "P": 0,
+                    "O": 2,
+                    "credits": 1
+                },
+                {
+                    "code": "DA1",
+                    "title": "DA Elective - 1",
+                    "cat": "DA",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "semester": 5,
+            "total_credits": 18,
+            "courses": [
+                {
+                    "code": "CS3001E",
+                    "title": "Computer Networks",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "CS3002E",
+                    "title": "Compiler Design",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "CS3003E",
+                    "title": "Design and Analysis of Algorithms",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "HM1",
+                    "title": "Humanities Elective - 1",
+                    "cat": "HM",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "DA2",
+                    "title": "DA Elective - 2",
+                    "cat": "DA",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "semester": 6,
+            "total_credits": 20,
+            "courses": [
+                {
+                    "code": "CS3011E",
+                    "title": "Software Engineering",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "CS3012E",
+                    "title": "Artificial Intelligence",
+                    "cat": "PC",
+                    "L": 3,
+                    "T": 1,
+                    "P": 2,
+                    "O": 6,
+                    "credits": 4
+                },
+                {
+                    "code": "HM2",
+                    "title": "Humanities Elective - 2",
+                    "cat": "HM",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE1",
+                    "title": "Open Elective - 1",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE2",
+                    "title": "Open Elective - 2",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS3099E",
+                    "title": "Project",
+                    "cat": "PC",
+                    "L": 0,
+                    "T": 0,
+                    "P": 0,
+                    "O": 9,
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "semester": 7,
+            "total_credits": 20,
+            "courses": [
+                {
+                    "code": "HM3",
+                    "title": "Humanities Elective - 3",
+                    "cat": "HM",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE3",
+                    "title": "Open Elective - 3",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE4",
+                    "title": "Open Elective - 4",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE5",
+                    "title": "Open Elective - 5",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE6",
+                    "title": "Open Elective - 6",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS4097E",
+                    "title": "Summer Internship",
+                    "cat": "PC",
+                    "L": 0,
+                    "T": 0,
+                    "P": 0,
+                    "O": "*",
+                    "credits": 2
+                },
+                {
+                    "code": "PE1",
+                    "title": "Programme Elective / Project",
+                    "cat": "PE",
+                    "credits": 3
+                }
+            ]
+        },
+        {
+            "semester": 8,
+            "total_credits": 16,
+            "courses": [
+                {
+                    "code": "PE2",
+                    "title": "Programme Elective / Project",
+                    "cat": "PE",
+                    "credits": 6
+                },
+                {
+                    "code": "OE7",
+                    "title": "Open Elective - 7",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "OE8",
+                    "title": "Open Elective - 8",
+                    "cat": "OE",
+                    "L": 3,
+                    "T": 0,
+                    "P": 0,
+                    "O": 6,
+                    "credits": 3
+                },
+                {
+                    "code": "CS4096E",
+                    "title": "Activity Credits",
+                    "cat": "AC",
+                    "credits": 4
+                }
+            ]
+        }
+    ],
+    "courses": {
+        "institute_core": [
+            {
+                "code": "MA1002E",
+                "title": "Mathematics I",
+                "category": "IC",
+                "semester": 1,
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Find limits, continuity and differentiability of functions of one variable.",
+                    "CO2: Analyze functions of several variables using partial derivatives and optimization techniques.",
+                    "CO3: Evaluate definite, improper, double and triple integrals and apply them to geometrical and physical problems.",
+                    "CO4: Apply vector calculus concepts including line integrals, surface integrals and integral theorems."
+                ],
+                "topics": [
+                    "Functions of one variable, limits, continuity, differentiability, mean value theorems, Taylor theorem, maxima and minima",
+                    "Integration, improper integrals, Beta and Gamma functions, curves in space, curvature and torsion",
+                    "Functions of several variables, partial derivatives, directional derivatives, gradient, Hessian matrix, Lagrange multipliers",
+                    "Double and triple integrals, Jacobians, polar/cylindrical/spherical coordinates, center of gravity and moments of inertia",
+                    "Vector fields, divergence, curl, line integrals, Green’s theorem, Gauss divergence theorem and Stokes theorem"
+                ],
+                "references": [
+                    "H. Anton, I. Bivens and S. Davis, Calculus, 10th Edition, Wiley, 2015",
+                    "G. B. Thomas, M.D. Weir and J. Hass, Thomas’ Calculus, 12th Edition, Pearson, 2015",
+                    "E. Kreyszig, Advanced Engineering Mathematics, 10th Edition, Wiley, 2015",
+                    "T. M. Apostol, Calculus Vol. 1, Wiley, 2014"
+                ]
+            },
+            {
+                "code": "MA1002E",
+                "title": "Mathematics I",
+                "category": "IC",
+                "semester": 1,
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Find limits, continuity and differentiability of functions of one variable.",
+                    "CO2: Analyze functions of several variables using partial derivatives and optimization techniques.",
+                    "CO3: Evaluate definite, improper, double and triple integrals and apply them to geometrical and physical problems.",
+                    "CO4: Apply vector calculus concepts including line integrals, surface integrals and integral theorems."
+                ],
+                "topics": [
+                    "Functions of one variable, limits, continuity, differentiability, mean value theorems, Taylor theorem, maxima and minima",
+                    "Integration, improper integrals, Beta and Gamma functions, curves in space, curvature and torsion",
+                    "Functions of several variables, partial derivatives, directional derivatives, gradient, Hessian matrix, Lagrange multipliers",
+                    "Double and triple integrals, Jacobians, polar/cylindrical/spherical coordinates, center of gravity and moments of inertia",
+                    "Vector fields, divergence, curl, line integrals, Green’s theorem, Gauss divergence theorem and Stokes theorem"
+                ],
+                "references": [
+                    "H. Anton, I. Bivens and S. Davis, Calculus, 10th Edition, Wiley, 2015",
+                    "G. B. Thomas, M.D. Weir and J. Hass, Thomas’ Calculus, 12th Edition, Pearson, 2015",
+                    "E. Kreyszig, Advanced Engineering Mathematics, 10th Edition, Wiley, 2015",
+                    "T. M. Apostol, Calculus Vol. 1, Wiley, 2014"
+                ]
+            },
+            {
+                "code": "MA2002E",
+                "title": "Mathematics III",
+                "category": "IC",
+                "semester": 3,
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [
+                    "MA1002E",
+                    "MA1012E"
+                ],
+                "course_outcomes": [
+                    "CO1: Apply vector space concepts and linear transformations in engineering problems.",
+                    "CO2: Solve problems involving complex variables and analytic functions.",
+                    "CO3: Evaluate contour integrals using complex integration techniques.",
+                    "CO4: Apply numerical methods for solving algebraic and differential equations."
+                ],
+                "topics": [
+                    "Vector spaces, subspaces, basis, dimension, linear transformations and inner product spaces",
+                    "Complex numbers, analytic functions, Cauchy-Riemann equations and harmonic functions",
+                    "Complex integration, Cauchy’s integral theorem, Cauchy’s integral formula and residue theorem",
+                    "Numerical solutions of algebraic and transcendental equations using bisection, Newton-Raphson and iterative methods",
+                    "Numerical differentiation, numerical integration and numerical solutions of ordinary differential equations"
+                ],
+                "references": [
+                    "E. Kreyszig, Advanced Engineering Mathematics, 10th Edition, Wiley, 2015",
+                    "J. W. Brown and R. V. Churchill, Complex Variables and Applications, McGraw Hill, 2014",
+                    "S. S. Sastry, Introductory Methods of Numerical Analysis, PHI, 2012",
+                    "B. S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 2018"
+                ]
+            },
+            {
+                "code": "MA2012E",
+                "title": "Mathematics IV",
+                "category": "IC",
+                "semester": 4,
+                "L": 3,
+                "T": 1,
+                "P": 0,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [
+                    "MA2002E"
+                ],
+                "course_outcomes": [
+                    "CO1: Apply probability theory and random variables in engineering analysis.",
+                    "CO2: Analyze probability distributions and statistical measures.",
+                    "CO3: Apply sampling theory and hypothesis testing techniques.",
+                    "CO4: Use stochastic processes and statistical methods in engineering applications."
+                ],
+                "topics": [
+                    "Probability theory, conditional probability, Bayes theorem and random variables",
+                    "Discrete and continuous probability distributions, expectation, variance and moments",
+                    "Joint distributions, correlation, covariance and regression analysis",
+                    "Sampling distributions, estimation, hypothesis testing and confidence intervals",
+                    "Stochastic processes, Markov chains, Poisson process and applications in engineering"
+                ],
+                "references": [
+                    "S. Ross, A First Course in Probability, Pearson, 2019",
+                    "W. Feller, An Introduction to Probability Theory and Its Applications, Wiley, 2008",
+                    "E. Kreyszig, Advanced Engineering Mathematics, Wiley, 2015",
+                    "B. S. Grewal, Higher Engineering Mathematics, Khanna Publishers, 2018"
+                ]
+            },
+            {
+                "code": "PH1001E",
+                "title": "Physics of Materials",
+                "category": "IC",
+                "semester": 2,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Understand crystal structures and properties of materials.",
+                    "CO2: Apply quantum mechanics concepts to material behavior.",
+                    "CO3: Analyze electrical, magnetic and optical properties of materials.",
+                    "CO4: Understand modern engineering materials and their applications."
+                ],
+                "topics": [
+                    "Crystal structure, crystal systems, Miller indices, X-ray diffraction and defects in crystals",
+                    "Quantum mechanics, wave function, Schrodinger equation and free electron theory",
+                    "Electrical properties of materials, semiconductors, superconductors and dielectric materials",
+                    "Magnetic properties, ferromagnetism, ferrimagnetism and magnetic materials",
+                    "Optical properties, lasers, optical fibers, nanomaterials and advanced engineering materials"
+                ],
+                "references": [
+                    "Charles Kittel, Introduction to Solid State Physics, Wiley, 2018",
+                    "A. J. Dekker, Solid State Physics, Macmillan, 2005",
+                    "M. A. Wahab, Solid State Physics, Narosa Publishing, 2011",
+                    "S. O. Pillai, Solid State Physics, New Age International, 2010"
+                ]
+            },
+            {
+                "code": "BT1001E",
+                "title": "Biology for Engineers",
+                "category": "IC",
+                "semester": 2,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Understand fundamental biological concepts relevant to engineering.",
+                    "CO2: Analyze biomolecules, cell structure and cellular processes.",
+                    "CO3: Understand genetics, biotechnology and bioengineering principles.",
+                    "CO4: Apply biological principles in interdisciplinary engineering applications."
+                ],
+                "topics": [
+                    "Introduction to biology, biomolecules, carbohydrates, proteins, lipids and nucleic acids",
+                    "Cell structure and function, cell membrane, transport mechanisms and cell division",
+                    "Genetics, DNA replication, transcription, translation and genetic engineering",
+                    "Microbiology, biotechnology, enzymes and industrial biological applications",
+                    "Bioengineering applications, biomedical engineering, biosensors and environmental biotechnology"
+                ],
+                "references": [
+                    "Campbell and Reece, Biology, Pearson, 2014",
+                    "Arthur T. Johnson, Biology for Engineers, CRC Press, 2011",
+                    "B. D. Singh, Biotechnology, Kalyani Publishers, 2018",
+                    "U. Satyanarayana, Biotechnology, Books and Allied, 2017"
+                ]
+            },
+            {
+                "code": "MS1001E",
+                "title": "Professional Communication",
+                "category": "IC",
+                "semester": 1,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Develop effective oral and written communication skills.",
+                    "CO2: Improve listening, reading and presentation abilities in professional contexts.",
+                    "CO3: Apply technical and professional writing skills for reports and documentation.",
+                    "CO4: Demonstrate interpersonal and team communication skills."
+                ],
+                "topics": [
+                    "Fundamentals of communication, verbal and non-verbal communication, barriers to communication",
+                    "Listening, speaking, reading and writing skills for professional communication",
+                    "Technical writing, reports, resumes, emails and business correspondence",
+                    "Presentation skills, group discussion, interviews and interpersonal communication",
+                    "Professional ethics, workplace communication and team collaboration"
+                ],
+                "references": [
+                    "Meenakshi Raman and Sangeeta Sharma, Technical Communication, Oxford University Press, 2015",
+                    "Ashraf Rizvi, Effective Technical Communication, McGraw Hill, 2017",
+                    "M. Ashraf Rizvi, Effective Technical Communication, Tata McGraw Hill, 2005",
+                    "Raymond Murphy, Essential English Grammar, Cambridge University Press, 2019"
+                ]
+            },
+            {
+                "code": "CS2019E",
+                "title": "Professional Ethics",
+                "category": "IC",
+                "semester": 4,
+                "L": 1,
+                "T": 0,
+                "P": 0,
+                "O": 2,
+                "credits": 1,
+                "total_sessions": "13L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Understand ethical principles and professional responsibilities in engineering practice.",
+                    "CO2: Analyze ethical issues related to computing and technology.",
+                    "CO3: Apply ethical decision-making in professional and societal contexts.",
+                    "CO4: Recognize legal, social and environmental responsibilities of engineers."
+                ],
+                "topics": [
+                    "Engineering ethics, professional responsibility and ethical theories",
+                    "Computer ethics, cyber ethics, intellectual property rights and privacy issues",
+                    "Professional conduct, accountability, safety and risk management",
+                    "Social, legal and environmental issues in engineering and technology",
+                    "Case studies on ethical dilemmas in engineering practice"
+                ],
+                "references": [
+                    "Charles E. Harris, Engineering Ethics: Concepts and Cases, Cengage Learning, 2018",
+                    "Mike W. Martin and Roland Schinzinger, Ethics in Engineering, McGraw Hill, 2014",
+                    "Deborah G. Johnson, Computer Ethics, Pearson, 2009",
+                    "Charles B. Fleddermann, Engineering Ethics, Pearson, 2012"
+                ]
+            }
+        ],
+        "program_core": [
+            {
+                "code": "CS1001E",
+                "title": "Computer Programming",
+                "category": "PC",
+                "semester": 1,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Understand fundamental programming concepts and constructs.",
+                    "CO2: Develop algorithms and write code for basic programming problems.",
+                    "CO3: Apply programming skills to solve engineering problems.",
+                    "CO4: Use programming tools and environments effectively."
+                ],
+                "topics": [
+                    "Introduction to programming, data types, variables, operators and expressions",
+                    "Control structures, loops, functions and modular programming",
+                    "Arrays, strings, pointers and dynamic memory allocation",
+                    "File handling, error handling and debugging techniques",
+                    "Programming tools, IDEs, version control and best coding practices"
+                ],
+                "references": [
+                    "Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Prentice Hall, 1988",
+                    "Harold Abelson and Gerald Jay Sussman, Structure and Interpretation of Computer Programs, MIT Press, 1996",
+                    "K. N. King, C Programming: A Modern Approach, W. W. Norton & Company, 2008",
+                    "Yashavant Kanetkar, Let Us C, BPB Publications, 2015"
+                ]
+            },
+            {
+                "code": "CS1002E",
+                "title": "Introduction to Computing Science",
+                "category": "PC",
+                "semester": 1,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Understand the fundamentals of computing systems and computational thinking.",
+                    "CO2: Analyze basic algorithms and problem solving techniques.",
+                    "CO3: Understand computer hardware, software and operating system concepts.",
+                    "CO4: Apply computing concepts in real-world applications."
+                ],
+                "topics": [
+                    "Introduction to computing systems, history and evolution of computers",
+                    "Data representation, number systems, Boolean logic and digital fundamentals",
+                    "Computer hardware, memory, processors, input-output devices and storage",
+                    "Operating systems, programming languages, translators and software systems",
+                    "Algorithms, flowcharts, computational thinking and applications of computing"
+                ],
+                "references": [
+                    "Glenn Brookshear, Computer Science: An Overview, Pearson, 2018",
+                    "J. Glenn Brookshear and Dennis Brylow, Computer Science: An Overview, Pearson, 2020",
+                    "Peter Norton, Introduction to Computers, McGraw Hill, 2017",
+                    "V. Rajaraman, Fundamentals of Computers, PHI, 2014"
+                ]
+            },
+            {
+                "code": "CS1003E",
+                "title": "Discrete Structures I",
+                "category": "PC",
+                "semester": 1,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Apply logic and proof techniques in computer science problems.",
+                    "CO2: Analyze sets, relations and functions.",
+                    "CO3: Solve problems involving combinatorics and counting principles.",
+                    "CO4: Apply graph and tree concepts in computational problems."
+                ],
+                "topics": [
+                    "Propositional logic, predicates, logical equivalence and proof techniques",
+                    "Sets, relations, functions, equivalence relations and partial orderings",
+                    "Principles of counting, permutations, combinations and recurrence relations",
+                    "Graphs, trees, connectivity and traversal techniques",
+                    "Applications of discrete mathematics in computer science"
+                ],
+                "references": [
+                    "Kenneth H. Rosen, Discrete Mathematics and Its Applications, McGraw Hill, 2019",
+                    "Ralph P. Grimaldi, Discrete and Combinatorial Mathematics, Pearson, 2018",
+                    "J. P. Tremblay and R. Manohar, Discrete Mathematical Structures, McGraw Hill, 2017",
+                    "Narsingh Deo, Graph Theory with Applications to Engineering and Computer Science, PHI, 2016"
+                ]
+            },
+            {
+                "code": "CS1091E",
+                "title": "Programming Laboratory",
+                "category": "PC",
+                "semester": 1,
+                "L": 0,
+                "T": 0,
+                "P": 3,
+                "O": 3,
+                "credits": 2,
+                "total_sessions": "39P",
+                "prerequisites": [
+                    "CS1001E"
+                ],
+                "course_outcomes": [
+                    "CO1: Implement basic C programs using control structures and functions.",
+                    "CO2: Develop programs using arrays, strings and pointers.",
+                    "CO3: Apply file handling and dynamic memory allocation concepts.",
+                    "CO4: Debug and test programs effectively."
+                ],
+                "topics": [
+                    "Basic C programming exercises and problem solving",
+                    "Programs using conditional and looping statements",
+                    "Functions, recursion, arrays and strings",
+                    "Pointers, structures, unions and dynamic memory allocation",
+                    "File handling, debugging and mini programming exercises"
+                ],
+                "references": [
+                    "Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Pearson, 2015",
+                    "E. Balagurusamy, Programming in ANSI C, McGraw Hill, 2019",
+                    "Yashavant Kanetkar, Let Us C, BPB Publications, 2020"
+                ]
+            },
+            {
+                "code": "CS1011E",
+                "title": "Program Design",
+                "category": "PC",
+                "semester": 2,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [
+                    "CS1001E"
+                ],
+                "course_outcomes": [
+                    "CO1: Apply structured programming concepts in software development.",
+                    "CO2: Design algorithms for solving computational problems.",
+                    "CO3: Analyze program efficiency and modularity.",
+                    "CO4: Develop reliable and maintainable software solutions."
+                ],
+                "topics": [
+                    "Problem solving methodologies and algorithm design",
+                    "Structured programming concepts and modular programming",
+                    "Recursion, abstract data types and program correctness",
+                    "Complexity analysis and efficient coding practices",
+                    "Software testing, debugging and documentation"
+                ],
+                "references": [
+                    "Robert L. Kruse and Clovis L. Tondo, Data Structures and Program Design in C, Pearson, 2017",
+                    "Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Pearson, 2015",
+                    "E. Balagurusamy, Programming in ANSI C, McGraw Hill, 2019"
+                ]
+            },
+            {
+                "code": "CS1012E",
+                "title": "Logic Design",
+                "category": "PC",
+                "semester": 2,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Understand Boolean algebra and digital logic fundamentals.",
+                    "CO2: Design and simplify combinational logic circuits.",
+                    "CO3: Analyze sequential logic circuits and finite state machines.",
+                    "CO4: Apply logic design concepts in digital systems."
+                ],
+                "topics": [
+                    "Number systems, Boolean algebra and logic gates",
+                    "Boolean function minimization using Karnaugh maps and Quine-McCluskey method",
+                    "Combinational circuits including adders, multiplexers, decoders and encoders",
+                    "Sequential circuits, flip-flops, counters, registers and finite state machines",
+                    "Memory elements, programmable logic devices and digital system applications"
+                ],
+                "references": [
+                    "M. Morris Mano and Michael D. Ciletti, Digital Design, Pearson, 2018",
+                    "R. P. Jain, Modern Digital Electronics, McGraw Hill, 2017",
+                    "Thomas L. Floyd, Digital Fundamentals, Pearson, 2015"
+                ]
+            },
+            {
+                "code": "CS1013E",
+                "title": "Discrete Structures II",
+                "category": "PC",
+                "semester": 2,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [
+                    "CS1003E"
+                ],
+                "course_outcomes": [
+                    "CO1: Apply advanced graph theory concepts in computational problems.",
+                    "CO2: Analyze algebraic structures and lattices.",
+                    "CO3: Solve problems involving formal languages and automata.",
+                    "CO4: Apply discrete mathematical concepts in computer science applications."
+                ],
+                "topics": [
+                    "Advanced graph theory, trees, spanning trees and graph algorithms",
+                    "Algebraic structures including groups, rings and fields",
+                    "Lattices, Boolean algebra and switching theory",
+                    "Formal languages, grammars and finite automata",
+                    "Applications of discrete structures in computer science"
+                ],
+                "references": [
+                    "Kenneth H. Rosen, Discrete Mathematics and Its Applications, McGraw Hill, 2019",
+                    "J. P. Tremblay and R. Manohar, Discrete Mathematical Structures, McGraw Hill, 2017",
+                    "Narsingh Deo, Graph Theory with Applications to Engineering and Computer Science, PHI, 2016"
+                ]
+            },
+            {
+                "code": "CS1092E",
+                "title": "Program Design Laboratory",
+                "category": "PC",
+                "semester": 2,
+                "L": 1,
+                "T": 0,
+                "P": 3,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "13L + 39P",
+                "prerequisites": [
+                    "CS1011E"
+                ],
+                "course_outcomes": [
+                    "CO1: Implement structured and modular programs effectively.",
+                    "CO2: Develop programs using recursion and abstract data types.",
+                    "CO3: Analyze and debug programs efficiently.",
+                    "CO4: Design mini software applications using programming concepts."
+                ],
+                "topics": [
+                    "Structured programming and modular programming exercises",
+                    "Programs using recursion, arrays, strings and pointers",
+                    "Implementation of abstract data types and problem solving exercises",
+                    "Debugging, testing and software documentation",
+                    "Mini projects and programming assignments"
+                ],
+                "references": [
+                    "Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language, Pearson, 2015",
+                    "E. Balagurusamy, Programming in ANSI C, McGraw Hill, 2019",
+                    "Yashavant Kanetkar, Let Us C, BPB Publications, 2020"
+                ]
+            },
+            {
+                "code": "CS2001E",
+                "title": "Data Structures and Algorithms",
+                "category": "PC",
+                "semester": 3,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS1011E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand fundamental data structures and their operations.",
+                    "CO2: Analyze algorithm efficiency using asymptotic notations.",
+                    "CO3: Design and implement algorithms using appropriate data structures.",
+                    "CO4: Solve computational problems efficiently using algorithmic techniques."
+                ],
+                "topics": [
+                    "Algorithm analysis, asymptotic notations and recurrence relations",
+                    "Arrays, linked lists, stacks, queues and recursion",
+                    "Trees, binary search trees, heaps and hashing",
+                    "Graphs, graph traversal algorithms and shortest path algorithms",
+                    "Sorting, searching and algorithm design techniques"
+                ],
+                "references": [
+                    "Mark Allen Weiss, Data Structures and Algorithm Analysis in C, Pearson, 2017",
+                    "Thomas H. Cormen et al., Introduction to Algorithms, MIT Press, 2022",
+                    "Seymour Lipschutz, Data Structures, McGraw Hill, 2014"
+                ]
+            },
+            {
+                "code": "CS2002E",
+                "title": "Computer Organization",
+                "category": "PC",
+                "semester": 3,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS1012E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand computer architecture and instruction set design.",
+                    "CO2: Analyze arithmetic and logical operations in processors.",
+                    "CO3: Understand memory organization and input-output systems.",
+                    "CO4: Apply pipelining and parallelism concepts in computer systems."
+                ],
+                "topics": [
+                    "Basic computer organization, instruction formats and addressing modes",
+                    "Arithmetic and logic unit design, fixed point and floating point arithmetic",
+                    "Processor organization, control unit and pipelining",
+                    "Memory hierarchy, cache memory, virtual memory and secondary storage",
+                    "Input-output organization, interrupts and parallel processing concepts"
+                ],
+                "references": [
+                    "M. Morris Mano, Computer System Architecture, Pearson, 2017",
+                    "William Stallings, Computer Organization and Architecture, Pearson, 2019",
+                    "Carl Hamacher et al., Computer Organization, McGraw Hill, 2016"
+                ]
+            },
+            {
+                "code": "CS2091E",
+                "title": "Data Structures and Algorithms Laboratory",
+                "category": "PC",
+                "semester": 3,
+                "L": 1,
+                "T": 0,
+                "P": 3,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "13L + 39P",
+                "prerequisites": [
+                    "CS2001E"
+                ],
+                "course_outcomes": [
+                    "CO1: Implement linear and non-linear data structures.",
+                    "CO2: Apply sorting and searching algorithms effectively.",
+                    "CO3: Analyze the performance of algorithms experimentally.",
+                    "CO4: Develop efficient programs using appropriate data structures."
+                ],
+                "topics": [
+                    "Implementation of stacks, queues, linked lists and recursion",
+                    "Implementation of trees, binary search trees, heaps and hashing",
+                    "Graph traversal and shortest path algorithms",
+                    "Sorting and searching algorithm implementation",
+                    "Mini projects involving data structures and algorithms"
+                ],
+                "references": [
+                    "Mark Allen Weiss, Data Structures and Algorithm Analysis in C, Pearson, 2017",
+                    "Thomas H. Cormen et al., Introduction to Algorithms, MIT Press, 2022",
+                    "E. Horowitz, Fundamentals of Data Structures in C, Universities Press, 2014"
+                ]
+            },
+            {
+                "code": "CS2092E",
+                "title": "Hardware Laboratory",
+                "category": "PC",
+                "semester": 3,
+                "L": 1,
+                "T": 0,
+                "P": 3,
+                "O": 5,
+                "credits": 3,
+                "total_sessions": "13L + 39P",
+                "prerequisites": [
+                    "CS1012E"
+                ],
+                "course_outcomes": [
+                    "CO1: Design and verify combinational and sequential logic circuits.",
+                    "CO2: Implement digital systems using hardware components.",
+                    "CO3: Analyze processor and memory interfacing concepts.",
+                    "CO4: Use hardware development tools for digital system implementation."
+                ],
+                "topics": [
+                    "Experiments using logic gates and combinational circuits",
+                    "Sequential circuits using flip-flops, counters and registers",
+                    "Processor interfacing and memory organization experiments",
+                    "Simulation using digital design tools and HDL basics",
+                    "Mini hardware implementation projects"
+                ],
+                "references": [
+                    "M. Morris Mano and Michael D. Ciletti, Digital Design, Pearson, 2018",
+                    "R. P. Jain, Modern Digital Electronics, McGraw Hill, 2017",
+                    "William Stallings, Computer Organization and Architecture, Pearson, 2019"
+                ]
+            },
+            {
+                "code": "CS2011E",
+                "title": "Database Management System",
+                "category": "PC",
+                "semester": 4,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2001E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand database concepts, architecture and data models.",
+                    "CO2: Design relational databases using normalization techniques.",
+                    "CO3: Apply SQL for database creation, manipulation and querying.",
+                    "CO4: Analyze transaction management, concurrency and database security."
+                ],
+                "topics": [
+                    "Introduction to DBMS, database architecture and data models",
+                    "Entity relationship model, relational algebra and relational calculus",
+                    "SQL queries, joins, nested queries, views and triggers",
+                    "Normalization, functional dependencies and schema design",
+                    "Transactions, concurrency control, recovery and database security"
+                ],
+                "references": [
+                    "Ramez Elmasri and Shamkant Navathe, Fundamentals of Database Systems, Pearson, 2017",
+                    "Abraham Silberschatz, Henry Korth and S. Sudarshan, Database System Concepts, McGraw Hill, 2019",
+                    "Raghu Ramakrishnan, Database Management Systems, McGraw Hill, 2014"
+                ]
+            },
+            {
+                "code": "CS2012E",
+                "title": "Operating Systems",
+                "category": "PC",
+                "semester": 4,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2002E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand operating system architecture and services.",
+                    "CO2: Analyze process management and CPU scheduling techniques.",
+                    "CO3: Apply memory management and file system concepts.",
+                    "CO4: Understand synchronization, deadlocks and security mechanisms."
+                ],
+                "topics": [
+                    "Introduction to operating systems, system calls and OS structures",
+                    "Processes, threads, CPU scheduling and interprocess communication",
+                    "Synchronization, deadlocks and resource allocation",
+                    "Memory management, paging, segmentation and virtual memory",
+                    "File systems, I/O systems, protection and security"
+                ],
+                "references": [
+                    "Abraham Silberschatz, Peter Galvin and Greg Gagne, Operating System Concepts, Wiley, 2018",
+                    "Andrew S. Tanenbaum, Modern Operating Systems, Pearson, 2016",
+                    "William Stallings, Operating Systems: Internals and Design Principles, Pearson, 2018"
+                ]
+            },
+            {
+                "code": "CS2013E",
+                "title": "Theory of Computation",
+                "category": "PC",
+                "semester": 4,
+                "L": 3,
+                "T": 0,
+                "P": 0,
+                "O": 6,
+                "credits": 3,
+                "total_sessions": "39L",
+                "prerequisites": [
+                    "CS1013E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand formal languages and automata theory concepts.",
+                    "CO2: Analyze finite automata and context free grammars.",
+                    "CO3: Apply Turing machine concepts and computability theory.",
+                    "CO4: Analyze complexity classes and decidability problems."
+                ],
+                "topics": [
+                    "Finite automata, regular expressions and regular languages",
+                    "Context free grammars, pushdown automata and parsing techniques",
+                    "Turing machines, decidability and computability",
+                    "Complexity theory, NP completeness and reducibility",
+                    "Applications of automata theory in computer science"
+                ],
+                "references": [
+                    "John E. Hopcroft, Rajeev Motwani and Jeffrey Ullman, Introduction to Automata Theory, Pearson, 2017",
+                    "Michael Sipser, Introduction to the Theory of Computation, Cengage Learning, 2018",
+                    "K. L. P. Mishra and N. Chandrasekaran, Theory of Computer Science, PHI, 2012"
+                ]
+            },
+            {
+                "code": "CS3001E",
+                "title": "Computer Networks",
+                "category": "PC",
+                "semester": 5,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2012E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand layered network architecture and protocols.",
+                    "CO2: Analyze routing, congestion control and transport protocols.",
+                    "CO3: Apply concepts of data communication and network security.",
+                    "CO4: Configure and troubleshoot computer networks."
+                ],
+                "topics": [
+                    "Network models, OSI and TCP/IP architectures",
+                    "Data link layer, error detection, switching and MAC protocols",
+                    "Routing algorithms, IP addressing and congestion control",
+                    "Transport layer protocols, TCP, UDP and socket programming",
+                    "Network security, wireless networks and modern internet technologies"
+                ],
+                "references": [
+                    "Andrew S. Tanenbaum, Computer Networks, Pearson, 2019",
+                    "Behrouz A. Forouzan, Data Communications and Networking, McGraw Hill, 2017",
+                    "James F. Kurose and Keith W. Ross, Computer Networking: A Top-Down Approach, Pearson, 2021"
+                ]
+            },
+            {
+                "code": "CS3002E",
+                "title": "Compiler Design",
+                "category": "PC",
+                "semester": 5,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2013E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand phases of compiler design and language processing.",
+                    "CO2: Analyze lexical, syntax and semantic analysis techniques.",
+                    "CO3: Apply intermediate code generation and optimization methods.",
+                    "CO4: Design basic compiler components using compiler tools."
+                ],
+                "topics": [
+                    "Introduction to compilers, lexical analysis and finite automata",
+                    "Syntax analysis, parsing techniques and context free grammars",
+                    "Semantic analysis, symbol tables and type checking",
+                    "Intermediate code generation, code optimization and runtime environments",
+                    "Code generation and compiler construction tools"
+                ],
+                "references": [
+                    "Alfred V. Aho, Monica Lam, Ravi Sethi and Jeffrey Ullman, Compilers: Principles, Techniques and Tools, Pearson, 2007",
+                    "Kenneth C. Louden, Compiler Construction: Principles and Practice, Cengage Learning, 2011",
+                    "D. M. Dhamdhere, Compiler Construction, McGraw Hill, 2015"
+                ]
+            },
+            {
+                "code": "CS3003E",
+                "title": "Design and Analysis of Algorithms",
+                "category": "PC",
+                "semester": 5,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2001E"
+                ],
+                "course_outcomes": [
+                    "CO1: Analyze the efficiency of algorithms using asymptotic analysis.",
+                    "CO2: Apply algorithm design paradigms for problem solving.",
+                    "CO3: Solve optimization and graph problems using advanced algorithms.",
+                    "CO4: Understand complexity classes and approximation techniques."
+                ],
+                "topics": [
+                    "Algorithm analysis, asymptotic notations and recurrence relations",
+                    "Divide and conquer, greedy methods and dynamic programming",
+                    "Backtracking, branch and bound and randomized algorithms",
+                    "Graph algorithms, shortest path, spanning trees and network flow",
+                    "NP completeness, approximation algorithms and complexity theory"
+                ],
+                "references": [
+                    "Thomas H. Cormen et al., Introduction to Algorithms, MIT Press, 2022",
+                    "Anany Levitin, Introduction to the Design and Analysis of Algorithms, Pearson, 2017",
+                    "Ellis Horowitz, Fundamentals of Computer Algorithms, Universities Press, 2014"
+                ]
+            },
+            {
+                "code": "CS3011E",
+                "title": "Software Engineering",
+                "category": "PC",
+                "semester": 6,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2011E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand software development life cycle models and processes.",
+                    "CO2: Apply software requirement analysis and design methodologies.",
+                    "CO3: Analyze software quality assurance and testing techniques.",
+                    "CO4: Develop software projects using modern engineering practices."
+                ],
+                "topics": [
+                    "Software engineering principles and software process models",
+                    "Requirements engineering, feasibility study and software design",
+                    "Software architecture, UML diagrams and design patterns",
+                    "Software testing, debugging, maintenance and quality assurance",
+                    "Project management, estimation and software metrics"
+                ],
+                "references": [
+                    "Ian Sommerville, Software Engineering, Pearson, 2016",
+                    "Roger S. Pressman, Software Engineering: A Practitioner’s Approach, McGraw Hill, 2019",
+                    "Pankaj Jalote, An Integrated Approach to Software Engineering, Springer, 2017"
+                ]
+            },
+            {
+                "code": "CS3012E",
+                "title": "Artificial Intelligence",
+                "category": "PC",
+                "semester": 6,
+                "L": 3,
+                "T": 1,
+                "P": 2,
+                "O": 6,
+                "credits": 4,
+                "total_sessions": "39L + 26P",
+                "prerequisites": [
+                    "CS2001E"
+                ],
+                "course_outcomes": [
+                    "CO1: Understand fundamental concepts and applications of artificial intelligence.",
+                    "CO2: Apply search and optimization techniques for problem solving.",
+                    "CO3: Analyze knowledge representation and reasoning methods.",
+                    "CO4: Apply machine learning and intelligent system concepts."
+                ],
+                "topics": [
+                    "Introduction to artificial intelligence and intelligent agents",
+                    "Search algorithms, heuristic search and optimization techniques",
+                    "Knowledge representation, reasoning and expert systems",
+                    "Machine learning basics, neural networks and fuzzy systems",
+                    "Natural language processing and AI applications"
+                ],
+                "references": [
+                    "Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, Pearson, 2021",
+                    "Elaine Rich and Kevin Knight, Artificial Intelligence, McGraw Hill, 2017",
+                    "Nils J. Nilsson, Principles of Artificial Intelligence, Springer, 2014"
+                ]
+            },
+            {
+                "code": "CS3099E",
+                "title": "Project",
+                "category": "PC",
+                "semester": 6,
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "O": 9,
+                "credits": 3,
+                "total_sessions": "Project Work",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Identify and formulate a real-world computing problem.",
+                    "CO2: Design and develop a software or research-based solution.",
+                    "CO3: Apply technical, analytical and teamwork skills in project execution.",
+                    "CO4: Present and document project outcomes effectively."
+                ],
+                "topics": [
+                    "Problem identification and literature survey",
+                    "System design and implementation",
+                    "Testing, evaluation and optimization",
+                    "Project documentation and presentation"
+                ],
+                "references": [
+                    "Project specific references and research papers",
+                    "Software engineering and project management resources"
+                ]
+            },
+            {
+                "code": "CS4097E",
+                "title": "Summer Internship",
+                "category": "PC",
+                "semester": 7,
+                "L": 0,
+                "T": 0,
+                "P": 0,
+                "O": "*",
+                "credits": 2,
+                "total_sessions": "Industry Internship",
+                "prerequisites": [],
+                "course_outcomes": [
+                    "CO1: Gain practical exposure to industry practices and professional environments.",
+                    "CO2: Apply academic knowledge to real-world engineering problems.",
+                    "CO3: Develop teamwork, communication and professional skills.",
+                    "CO4: Prepare technical reports and presentations based on internship experience."
+                ],
+                "topics": [
+                    "Industry oriented training and practical exposure",
+                    "Software development, testing or research activities",
+                    "Professional communication and teamwork",
+                    "Internship report preparation and presentation"
+                ],
+                "references": [
+                    "Industry manuals, project documents and technical resources"
+                ]
+            }
+        ],
+        "program electives": [
+            {
+                "code": "CS4021E",
+                "title": "Logic for Computer Science",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4022E",
+                "title": "Program Analysis",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4023E",
+                "title": "Formal Semantics",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4024E",
+                "title": "Computational Complexity",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4025E",
+                "title": "Formal Verification",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4026E",
+                "title": "Vehicular Networks: Theory to Practice",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4027E",
+                "title": "Computational Geometry",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4029E",
+                "title": "Principles of Programming Languages",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4030E",
+                "title": "Foundations of Programming",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4031E",
+                "title": "Network Security",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4032E",
+                "title": "Computer Security",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4033E",
+                "title": "Quantum Computation",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4034E",
+                "title": "Advanced Computer Networks",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4035E",
+                "title": "Probabilistic Methods in Combinatorics",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4036E",
+                "title": "Algorithms in Optimization",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4037E",
+                "title": "Algorithmic Graph Theory",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4038E",
+                "title": "Computational Algebra",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4039E",
+                "title": "Computer Architecture",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4040E",
+                "title": "Mathematical Foundations of Machine Learning",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4041E",
+                "title": "Introduction to Machine Learning",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4042E",
+                "title": "Randomized Algorithms",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4043E",
+                "title": "Introduction to Parameterized Algorithms",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4044E",
+                "title": "Introduction to Parameterized Complexity Theory",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4045E",
+                "title": "Image Processing",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4046E",
+                "title": "Deep Learning for Computer Vision",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4047E",
+                "title": "Advanced Computer Architecture and Security",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4048E",
+                "title": "Cloud Computing",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4049E",
+                "title": "Distributed Computing",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4050E",
+                "title": "Natural Language Processing",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4051E",
+                "title": "Introduction to Bioinformatics",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4052E",
+                "title": "Number Theory and Cryptography",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4053E",
+                "title": "Data Mining",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4054E",
+                "title": "Embedded Systems",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4055E",
+                "title": "Object Oriented Systems",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4056E",
+                "title": "Approximation Algorithms",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4057E",
+                "title": "Data Privacy",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4058E",
+                "title": "Coding Theory",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4059E",
+                "title": "Term Paper",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4080E",
+                "title": "Operating Systems Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4081E",
+                "title": "Compiler Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4082E",
+                "title": "Digital Design Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4083E",
+                "title": "Database System Design Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4084E",
+                "title": "Networks Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4085E",
+                "title": "Software Engineering Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4086E",
+                "title": "Systems Programming Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4087E",
+                "title": "Computer Security Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4088E",
+                "title": "Object Oriented Systems Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4089E",
+                "title": "Machine Learning Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4090E",
+                "title": "Image Processing Laboratory",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4091E",
+                "title": "Processor Design Lab",
+                "L": 1,
+                "credits": 3
+            },
+            {
+                "code": "CS4098E",
+                "title": "Project",
+                "L": 0,
+                "credits": 3
+            },
+            {
+                "code": "CS4099E",
+                "title": "Project",
+                "L": 0,
+                "credits": 6
+            },
+            {
+                "code": "CS4101E",
+                "title": "Deep Learning: Algorithms and Architecture",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4102E",
+                "title": "AI for Healthcare",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4201E",
+                "title": "Cyber-Physical Systems: Modelling and Simulation",
+                "L": 3,
+                "credits": 3
+            },
+            {
+                "code": "CS4202E",
+                "title": "Foundations of IoT and M2M Communication",
+                "L": 3,
+                "credits": 3
+            }
+        ],
+        "activity_credits": {
+            "total_required": 4,
+            "minimum_points": 80,
+            "milestones": [
+                {
+                    "by_end_of_semester": 4,
+                    "minimum_points": 20
+                },
+                {
+                    "by_end_of_semester": 6,
+                    "minimum_points": 40
+                },
+                {
+                    "by_end_of_semester": 8,
+                    "minimum_points": 80
+                }
+            ]
+        }
+    }
+}
