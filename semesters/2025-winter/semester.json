@@ -1,0 +1,13 @@
+{
+  "name": "2025-winter",
+  "display_name": "Winter Semester 2025-26",
+  "start_date": "2025-12-30",
+  "end_date": "2026-04-21",
+  "registration_open": "2025-12-20",
+  "registration_close": "2025-12-26",
+  "enrollment_date": "2025-12-29",
+  "late_registration_deadline": "2026-01-09",
+  "add_drop_deadline": "2026-01-09",
+  "instructional_days": 65,
+  "batches": []
+}
