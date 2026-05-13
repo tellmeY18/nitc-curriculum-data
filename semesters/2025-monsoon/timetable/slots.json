@@ -3,5 +3,328 @@
   "semester": "2025-monsoon",
   "slot_duration_mins": 50,
   "break_duration_mins": 10,
-  "slots": {}
+  "slots": {
+    "A1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [
+        { "day": "MON", "start": "09:00", "end": "09:50" },
+        { "day": "THU", "start": "11:00", "end": "11:50" },
+        { "day": "FRI", "start": "10:00", "end": "10:50" }
+      ]
+    },
+    "A1+": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "WED", "start": "12:00", "end": "12:50" }]
+    },
+    "A2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [
+        { "day": "MON", "start": "14:00", "end": "14:50" },
+        { "day": "THU", "start": "16:00", "end": "16:50" },
+        { "day": "FRI", "start": "15:00", "end": "15:50" }
+      ]
+    },
+    "A2+": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "WED", "start": "13:00", "end": "13:50" }]
+    },
+    "B1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [
+        { "day": "MON", "start": "10:00", "end": "10:50" },
+        { "day": "TUE", "start": "09:00", "end": "09:50" },
+        { "day": "FRI", "start": "11:00", "end": "11:50" }
+      ]
+    },
+    "B1+": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "THU", "start": "12:00", "end": "12:50" }]
+    },
+    "B2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [
+        { "day": "MON", "start": "15:00", "end": "15:50" },
+        { "day": "TUE", "start": "14:00", "end": "14:50" },
+        { "day": "FRI", "start": "16:00", "end": "16:50" }
+      ]
+    },
+    "B2+": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "THU", "start": "13:00", "end": "13:50" }]
+    },
+    "C1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [
+        { "day": "MON", "start": "11:00", "end": "11:50" },
+        { "day": "TUE", "start": "10:00", "end": "10:50" },
+        { "day": "WED", "start": "09:00", "end": "09:50" }
+      ]
+    },
+    "C1+": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "FRI", "start": "12:00", "end": "12:50" }]
+    },
+    "C2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [
+        { "day": "MON", "start": "16:00", "end": "16:50" },
+        { "day": "TUE", "start": "15:00", "end": "15:50" },
+        { "day": "WED", "start": "14:00", "end": "14:50" }
+      ]
+    },
+    "C2+": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "FRI", "start": "13:00", "end": "13:50" }]
+    },
+    "D1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [
+        { "day": "TUE", "start": "11:00", "end": "11:50" },
+        { "day": "WED", "start": "10:00", "end": "10:50" },
+        { "day": "THU", "start": "09:00", "end": "09:50" }
+      ]
+    },
+    "D1+": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "MON", "start": "12:00", "end": "12:50" }]
+    },
+    "D2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [
+        { "day": "TUE", "start": "16:00", "end": "16:50" },
+        { "day": "WED", "start": "15:00", "end": "15:50" },
+        { "day": "THU", "start": "14:00", "end": "14:50" }
+      ]
+    },
+    "D2+": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "MON", "start": "13:00", "end": "13:50" }]
+    },
+    "E1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [
+        { "day": "WED", "start": "11:00", "end": "11:50" },
+        { "day": "THU", "start": "10:00", "end": "10:50" },
+        { "day": "FRI", "start": "09:00", "end": "09:50" }
+      ]
+    },
+    "E1+": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "TUE", "start": "12:00", "end": "12:50" }]
+    },
+    "E2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [
+        { "day": "WED", "start": "16:00", "end": "16:50" },
+        { "day": "THU", "start": "15:00", "end": "15:50" },
+        { "day": "FRI", "start": "14:00", "end": "14:50" }
+      ]
+    },
+    "E2+": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "TUE", "start": "13:00", "end": "13:50" }]
+    },
+    "F": {
+      "type": "theory",
+      "slot_system": "common",
+      "schedule": [
+        { "day": "MON", "start": "08:00", "end": "08:50" },
+        { "day": "TUE", "start": "17:00", "end": "17:50" },
+        { "day": "THU", "start": "08:00", "end": "08:50" }
+      ]
+    },
+    "F+": {
+      "type": "theory",
+      "slot_system": "common",
+      "schedule": [{ "day": "FRI", "start": "17:00", "end": "17:50" }]
+    },
+    "G": {
+      "type": "theory",
+      "slot_system": "common",
+      "schedule": [
+        { "day": "MON", "start": "17:00", "end": "17:50" },
+        { "day": "WED", "start": "08:00", "end": "08:50" },
+        { "day": "THU", "start": "17:00", "end": "17:50" }
+      ]
+    },
+    "H": {
+      "type": "theory",
+      "slot_system": "common",
+      "schedule": [
+        { "day": "TUE", "start": "08:00", "end": "08:50" },
+        { "day": "WED", "start": "17:00", "end": "17:50" },
+        { "day": "FRI", "start": "08:00", "end": "08:50" }
+      ]
+    },
+    "P1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "MON", "start": "13:00", "end": "13:50" }]
+    },
+    "P2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "MON", "start": "10:00", "end": "10:50" }]
+    },
+    "Q1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "TUE", "start": "13:00", "end": "13:50" }]
+    },
+    "Q2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "TUE", "start": "10:00", "end": "10:50" }]
+    },
+    "R1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "WED", "start": "13:00", "end": "13:50" }]
+    },
+    "R2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "WED", "start": "10:00", "end": "10:50" }]
+    },
+    "S1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "THU", "start": "13:00", "end": "13:50" }]
+    },
+    "S2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "THU", "start": "10:00", "end": "10:50" }]
+    },
+    "T1": {
+      "type": "theory",
+      "slot_system": 1,
+      "schedule": [{ "day": "FRI", "start": "13:00", "end": "13:50" }]
+    },
+    "T2": {
+      "type": "theory",
+      "slot_system": 2,
+      "schedule": [{ "day": "FRI", "start": "10:00", "end": "10:50" }]
+    },
+    "PA1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "MON", "start": "13:00", "end": "14:50" }]
+    },
+    "PB1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "MON", "start": "15:00", "end": "16:50" }]
+    },
+    "QA1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "TUE", "start": "13:00", "end": "14:50" }]
+    },
+    "QB1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "TUE", "start": "15:00", "end": "16:50" }]
+    },
+    "RA1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "WED", "start": "13:00", "end": "14:50" }]
+    },
+    "RB1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "WED", "start": "15:00", "end": "16:50" }]
+    },
+    "SA1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "THU", "start": "13:00", "end": "14:50" }]
+    },
+    "SB1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "THU", "start": "15:00", "end": "16:50" }]
+    },
+    "TA1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "FRI", "start": "13:00", "end": "14:50" }]
+    },
+    "TB1": {
+      "type": "lab",
+      "slot_system": 1,
+      "schedule": [{ "day": "FRI", "start": "15:00", "end": "16:50" }]
+    },
+    "PA2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "MON", "start": "08:00", "end": "09:50" }]
+    },
+    "PB2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "MON", "start": "10:00", "end": "11:50" }]
+    },
+    "QA2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "TUE", "start": "08:00", "end": "09:50" }]
+    },
+    "QB2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "TUE", "start": "10:00", "end": "11:50" }]
+    },
+    "RA2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "WED", "start": "08:00", "end": "09:50" }]
+    },
+    "RB2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "WED", "start": "10:00", "end": "11:50" }]
+    },
+    "SA2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "THU", "start": "08:00", "end": "09:50" }]
+    },
+    "SB2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "THU", "start": "10:00", "end": "11:50" }]
+    },
+    "TA2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "FRI", "start": "08:00", "end": "09:50" }]
+    },
+    "TB2": {
+      "type": "lab",
+      "slot_system": 2,
+      "schedule": [{ "day": "FRI", "start": "10:00", "end": "11:50" }]
+    }
+  }
 }
