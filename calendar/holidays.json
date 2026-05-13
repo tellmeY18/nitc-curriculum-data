@@ -6,5 +6,67 @@
     { "date_pattern": "10-02", "name": "Gandhi Jayanti" },
     { "date_pattern": "11-01", "name": "Kerala Piravi" }
   ],
-  "notes": "Floating holidays (Onam, Eid, Diwali, Christmas, etc.) vary by year and are declared in the annual calendar file."
+  "notes": "Floating holidays (Onam, Eid, Diwali, Christmas, etc.) vary by year and are declared in the annual calendar file.",
+  "year_specific": {
+    "2025-2026": {
+      "source": "Academic Calendar for Winter Semester 2025-26 (All UG, PG and PhD students)",
+      "url": "https://nitc.ac.in/imgserver/uploads/attachments/academic-calendar-for-winter-semester-2025-26-applicable-for-all-ug-pg-and-phd-students-_2280_0.pdf",
+      "floating_holidays": [
+        {
+          "date": "2025-12-25",
+          "name": "Christmas Day",
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-01-21",
+          "name": "Sports Day",
+          "type": "institutional",
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-02-26",
+          "name": "Maha Shivratri",
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-03-20",
+          "name": "Eid-Ul-Fitr",
+          "moon_dependent": true,
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-03-31",
+          "name": "Mahavir Jayanti",
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-04-15",
+          "name": "Vaisakhadi / Bhag Bihu",
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-05-27",
+          "name": "Buddha Purnima",
+          "moon_dependent": true,
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-06-25",
+          "name": "Muharram",
+          "moon_dependent": true,
+          "semester": "2025-winter"
+        },
+        {
+          "date": "2026-06-27",
+          "name": "Idu'l Zuha (Bakrid)",
+          "semester": "2025-winter"
+        }
+      ]
+    }
+  }
 }

@@ -13,10 +13,246 @@
     {
       "name": "2025-winter",
       "display_name": "Winter Semester 2025-26",
-      "start_date": "",
-      "end_date": "",
-      "phases": [],
-      "important_dates": []
+      "start_date": "2025-12-30",
+      "end_date": "2026-04-21",
+      "instructional_days": 65,
+      "phases": [
+        {
+          "name": "registration",
+          "label": "Registration & Fee Payment (Online)",
+          "start": "2025-12-20",
+          "end": "2025-12-26",
+          "type": "administrative"
+        },
+        {
+          "name": "enrollment",
+          "label": "Enrollment Day — Mandatory Physical Reporting",
+          "start": "2025-12-29",
+          "end": "2025-12-29",
+          "type": "administrative"
+        },
+        {
+          "name": "instructional_1",
+          "label": "Instructional Phase I",
+          "start": "2025-12-30",
+          "end": "2026-02-13",
+          "type": "instructional"
+        },
+        {
+          "name": "midsem",
+          "label": "Mid-Semester Examinations",
+          "start": "2026-02-16",
+          "end": "2026-02-26",
+          "type": "exam",
+          "notes": [
+            "Feb 21 (Sat) is an optional exam day",
+            "Feb 26 (Thu) is Maha Shivratri — public holiday within the exam window"
+          ]
+        },
+        {
+          "name": "ragam",
+          "label": "Ragam — College Cultural Festival",
+          "start": "2026-02-27",
+          "end": "2026-03-01",
+          "type": "festival"
+        },
+        {
+          "name": "instructional_2",
+          "label": "Instructional Phase II",
+          "start": "2026-03-02",
+          "end": "2026-04-21",
+          "type": "instructional",
+          "notes": [
+            "Apr 2 (Thu) is an instructional day following Friday time-table",
+            "Apr 21 (Tue) is the last instructional day, following Wednesday time-table"
+          ]
+        },
+        {
+          "name": "endsem",
+          "label": "End-Semester Examinations",
+          "start": "2026-04-22",
+          "end": "2026-05-05",
+          "type": "exam",
+          "notes": ["Apr 25–26 (Sat–Sun) are optional exam days"]
+        },
+        {
+          "name": "buffer",
+          "label": "Buffer Day",
+          "start": "2026-05-06",
+          "end": "2026-05-06",
+          "type": "administrative"
+        },
+        {
+          "name": "rex",
+          "label": "REX / Make-Up Examination",
+          "start": "2026-06-04",
+          "end": "2026-06-16",
+          "type": "exam"
+        },
+        {
+          "name": "say",
+          "label": "SAY Examination — Applicable for 2022 batch and earlier",
+          "start": "2026-07-02",
+          "end": "2026-07-10",
+          "type": "exam"
+        }
+      ],
+      "important_dates": [
+        {
+          "id": 1,
+          "label": "Registration to Winter 2025-26 and Fee Payment without fine (Online)",
+          "start": "2025-12-20",
+          "end": "2025-12-26"
+        },
+        {
+          "id": 2,
+          "label": "Winter 2025-26 Enrollment Day (Mandatory Physical Reporting)",
+          "date": "2025-12-29"
+        },
+        {
+          "id": 3,
+          "label": "First Instructional Day",
+          "date": "2025-12-30"
+        },
+        {
+          "id": 4,
+          "label": "Late Registration",
+          "date": "2026-01-09"
+        },
+        {
+          "id": 5,
+          "label": "Last Date for Add/Drop Courses",
+          "date": "2026-01-09"
+        },
+        {
+          "id": 6,
+          "label": "Last Instructional Day",
+          "date": "2026-04-21"
+        },
+        {
+          "id": 7,
+          "label": "Result Declaration",
+          "date": "2026-05-20"
+        },
+        {
+          "id": 8,
+          "label": "Starting Date for IVth Semester M.Tech/M.Plan Thesis Submission",
+          "date": "2026-05-07"
+        },
+        {
+          "id": 9,
+          "label": "Last Date for IVth Semester M.Tech/M.Plan Thesis Submission",
+          "date": "2026-06-10"
+        },
+        {
+          "id": 10,
+          "label": "IVth Semester M.Tech/M.Plan Results",
+          "date": "2026-06-16"
+        },
+        {
+          "id": 11,
+          "label": "REX / Make-Up Examination",
+          "start": "2026-06-04",
+          "end": "2026-06-16"
+        },
+        {
+          "id": 12,
+          "label": "REX Result Declaration",
+          "date": "2026-06-22"
+        },
+        {
+          "id": 13,
+          "label": "SAY Examination for AY 2025-26 (Applicable for 2022 and before admitted students only)",
+          "start": "2026-07-02",
+          "end": "2026-07-10"
+        },
+        {
+          "id": 14,
+          "label": "SAY Result Declaration",
+          "date": "2026-07-15"
+        },
+        {
+          "id": 15,
+          "label": "Moon-sighting-dependent holidays (indicative dates)",
+          "entries": [
+            { "name": "Eid-Ul-Fitr", "date": "2026-03-20" },
+            { "name": "Buddha Purnima", "date": "2026-05-27" },
+            { "name": "Muharram", "date": "2026-06-25" }
+          ]
+        },
+        {
+          "id": 16,
+          "label": "Instructional Day with Friday Time Table",
+          "date": "2026-04-02"
+        },
+        {
+          "id": 17,
+          "label": "Instructional Day with Wednesday Time Table (Last Instructional Day)",
+          "date": "2026-04-21"
+        },
+        {
+          "id": 18,
+          "label": "Registration to Monsoon 2026 and Fee Payment without fine (Online)",
+          "start": "2026-07-10",
+          "end": "2026-07-17"
+        },
+        {
+          "id": 19,
+          "label": "Enrollment to Monsoon 2026 (Mandatory Physical Reporting)",
+          "date": "2026-07-20"
+        }
+      ],
+      "holidays": [
+        {
+          "date": "2025-12-25",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2026-01-21",
+          "name": "Sports Day",
+          "type": "institutional"
+        },
+        {
+          "date": "2026-01-26",
+          "name": "Republic Day",
+          "type": "national"
+        },
+        {
+          "date": "2026-02-26",
+          "name": "Maha Shivratri"
+        },
+        {
+          "date": "2026-03-20",
+          "name": "Eid-Ul-Fitr",
+          "moon_dependent": true
+        },
+        {
+          "date": "2026-03-31",
+          "name": "Mahavir Jayanti"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-04-15",
+          "name": "Vaisakhadi / Bhag Bihu"
+        },
+        {
+          "date": "2026-05-27",
+          "name": "Buddha Purnima",
+          "moon_dependent": true
+        },
+        {
+          "date": "2026-06-25",
+          "name": "Muharram",
+          "moon_dependent": true
+        },
+        {
+          "date": "2026-06-27",
+          "name": "Idu'l Zuha (Bakrid)"
+        }
+      ]
     }
   ]
 }
