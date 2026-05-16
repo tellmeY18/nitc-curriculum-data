@@ -1,0 +1,1440 @@
+{
+  "programme_info": {
+    "title": "B.Tech. in Electrical and Electronics Engineering",
+    "institution": "National Institute of Technology Calicut",
+    "address": "Kozhikode – 673 601, Kerala, India",
+    "department": "Department of Electrical Engineering",
+    "applicable_from": "2023 Admission onwards",
+    "total_credits": 153,
+    "total_credits_with_minor": "165–169"
+  },
+  "programme_educational_objectives": [
+    {
+      "id": "PEO1",
+      "description": "To prepare under graduate students to excel in technical profession/industry and/or higher education by providing a strong foundation in mathematics, science and engineering."
+    },
+    {
+      "id": "PEO2",
+      "description": "To transform engineering students to expert engineers so that they could comprehend, analyse, design and create novel products and solutions to Electrical and Electronics Engineering problems that are technically sound, economically feasible and socially acceptable."
+    },
+    {
+      "id": "PEO3",
+      "description": "To train students to exhibit professionalism, keep up ethics in their profession and relate engineering issues to address the technical and social challenges."
+    },
+    {
+      "id": "PEO4",
+      "description": "To develop communication skills and team work and to nurture multidisciplinary approach in problem solving."
+    }
+  ],
+  "programme_outcomes": [
+    {
+      "id": "PO1",
+      "title": "Engineering knowledge",
+      "description": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+    },
+    {
+      "id": "PO2",
+      "title": "Problem analysis",
+      "description": "Identify, formulate, research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+    },
+    {
+      "id": "PO3",
+      "title": "Design/development of solutions",
+      "description": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+      "id": "PO4",
+      "title": "Conduct investigations of complex problems",
+      "description": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+      "id": "PO5",
+      "title": "Modern tool usage",
+      "description": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+      "id": "PO6",
+      "title": "The engineer and society",
+      "description": "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+      "id": "PO7",
+      "title": "Environment and sustainability",
+      "description": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+      "id": "PO8",
+      "title": "Ethics",
+      "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+      "id": "PO9",
+      "title": "Individual and team work",
+      "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+      "id": "PO10",
+      "title": "Communication",
+      "description": "Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+      "id": "PO11",
+      "title": "Project management and finance",
+      "description": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+      "id": "PO12",
+      "title": "Life-long learning",
+      "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+  ],
+  "programme_specific_outcomes": [
+    {
+      "id": "PSO1",
+      "description": "Identify, formulate and analyse real-life electrical and electronics engineering problems by way of utilising the knowledge of mathematics, science and engineering principles."
+    },
+    {
+      "id": "PSO2",
+      "description": "Design and develop sophisticated equipment and experimental systems for carrying out detailed investigation to multifaceted electrical and electronics engineering problems leading to reliable and feasible solutions for the same utilising all the available tools."
+    },
+    {
+      "id": "PSO3",
+      "description": "Work as an electrical or electronics engineer who is capable of identifying solutions to various local and global problems faced by the society, up keeping a pollution free environment without compromising professional ethics and social values."
+    },
+    {
+      "id": "PSO4",
+      "description": "Think independently, take initiative, lead a team of engineers or researchers, communicate orally as well as in writing with others, participate in various professional activities, take up administrative responsibilities and thus maintain lifelong learning process."
+    }
+  ],
+  "credit_structure": {
+    "total_credits": 153,
+    "categories": [
+      {
+        "code": "IC",
+        "name": "Institute Core",
+        "number_of_courses": 8,
+        "minimum_credits": 22,
+        "sub_categories": [
+          {"name": "Mathematics", "courses": 4, "credits": 12},
+          {"name": "Basic Sciences and Drawing", "courses": 2, "credits": 6},
+          {"name": "Professional Communication and Professional Ethics", "courses": 2, "credits": 4}
+        ]
+      },
+      {
+        "code": "PC+PE",
+        "name": "Program Core and Program Electives",
+        "number_of_courses": "36–37",
+        "minimum_credits": 91
+      },
+      {
+        "code": "OE",
+        "name": "Open Electives",
+        "number_of_courses": 6,
+        "minimum_credits": 18
+      },
+      {
+        "code": "IE",
+        "name": "Institute Electives",
+        "sub_categories": [
+          {"code": "EI", "name": "Entrepreneurship Innovation", "credits": 3},
+          {"code": "DA", "name": "Digital/Automation Technologies", "credits": 6},
+          {"code": "HM", "name": "Humanities, Social Science, Management", "credits": 9}
+        ],
+        "number_of_courses": 6,
+        "minimum_credits": 18
+      },
+      {
+        "code": "AC",
+        "name": "Activity Credits",
+        "minimum_credits": 4,
+        "notes": "Minimum 80 Activity Points required. Min 20 points by end of S4, min 40 by end of S6."
+      }
+    ]
+  },
+  "effort_notation": {
+    "L": "Lecture — one unit is 50-minute duration",
+    "T": "Tutorial — one unit is 50-minute duration",
+    "P": "Practical — one unit is one-hour duration",
+    "O": "Outside the class effort / self-study — one unit is one-hour duration"
+  },
+  "semester_plan": [
+    {
+      "semester": 1,
+      "courses": [
+        {"code": "MA1001E", "title": "Mathematics I",                   "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "IC"},
+        {"code": "CE1011E", "title": "Engineering Graphics",             "L": 2, "T": 0, "P": 2, "O": 5, "credits": 3, "category": "IC"},
+        {"code": "EE1001E", "title": "Introduction to Electrical Engineering","L":3,"T":1,"P":0,"O":5,"credits":3,"category":"PC"},
+        {"code": "EE1002E", "title": "Electrical Measurements",          "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PC"},
+        {"code": "EE1003E", "title": "Electronic Circuits - I",          "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE1004E", "title": "Professional Ethics",              "L": 1, "T": 0, "P": 0, "O": 2, "credits": 1, "category": "IC"},
+        {"code": "EE1091E", "title": "Basic Electrical Engineering Lab", "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"}
+      ],
+      "totals": {"L": 15, "T": 3, "P": 4, "O": 29, "credits": 17}
+    },
+    {
+      "semester": 2,
+      "courses": [
+        {"code": "MA1011E", "title": "Mathematics II",             "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "IC"},
+        {"code": "PH1003E", "title": "Electricity and Magnetism",  "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "IC"},
+        {"code": "MS1001E", "title": "Professional Communication", "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "IC"},
+        {"code": "EE1011E", "title": "Circuits and Networks",      "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "ME1401E", "title": "Engineering Mechanics",      "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PC"},
+        {"code": "EE1012E", "title": "Digital Circuits and Systems","L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE1092E", "title": "Electrical Measurements Lab", "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"}
+      ],
+      "totals": {"L": 18, "T": 4, "P": 2, "O": 33, "credits": 19}
+    },
+    {
+      "semester": 3,
+      "courses": [
+        {"code": "MA2001E", "title": "Mathematics III",              "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "IC"},
+        {"code": "DA-I",    "title": "Digital/Automation Technologies - I","L":3,"T":0,"P":0,"O":6,"credits":3,"category":"IE"},
+        {"code": "EI",      "title": "Entrepreneurship/Innovation Elective","L":3,"T":0,"P":0,"O":6,"credits":3,"category":"IE"},
+        {"code": "EE2001E", "title": "Signals and Systems",          "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2002E", "title": "Microprocessors and Microcontrollers","L":2,"T":1,"P":2,"O":4,"credits":3,"category":"PC"},
+        {"code": "EE2003E", "title": "Electrical Machines - I",      "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2004E", "title": "Electronic Circuits – II",     "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2091E", "title": "Electronics Lab – I",          "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"}
+      ],
+      "totals": {"L": 20, "T": 5, "P": 4, "O": 37, "credits": 22}
+    },
+    {
+      "semester": 4,
+      "courses": [
+        {"code": "MA2011E", "title": "Mathematics IV",            "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "IC"},
+        {"code": "ME2011E", "title": "Mechanical Engineering",    "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PC"},
+        {"code": "EE2011E", "title": "Power Systems - I",         "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2012E", "title": "Power Electronics",         "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2013E", "title": "Electrical Machines - II",  "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2014E", "title": "Control Systems - I",       "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE2092E", "title": "Electrical Machines Lab – I","L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"},
+        {"code": "EE2093E", "title": "Electronics Lab – II",      "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"}
+      ],
+      "totals": {"L": 18, "T": 5, "P": 4, "O": 33, "credits": 20}
+    },
+    {
+      "semester": 5,
+      "courses": [
+        {"code": "EE3001E", "title": "Digital Signal Processing",         "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE3002E", "title": "Power Systems - II",                "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE3003E", "title": "Control Systems - II",              "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3, "category": "PC"},
+        {"code": "EE3004E", "title": "Analog Integrated Circuits",        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PC"},
+        {"code": "HM-I",    "title": "Humanities - I",                    "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "IE"},
+        {"code": "DA-II",   "title": "Digital/Automation Technologies - II","L":3,"T":0,"P":0,"O":6,"credits":3,"category":"IE"},
+        {"code": "EE3091E", "title": "Power Electronics Lab",             "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"},
+        {"code": "EE3092E", "title": "Electrical Machines Lab – II",      "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"}
+      ],
+      "totals": {"L": 18, "T": 3, "P": 4, "O": 35, "credits": 20}
+    },
+    {
+      "semester": 6,
+      "courses": [
+        {"code": "EE3011E", "title": "Introduction to Communication Systems","L":3,"T":0,"P":0,"O":6,"credits":3,"category":"PC"},
+        {"code": "EE3012E", "title": "Instrumentation Systems",          "L": 2, "T": 1, "P": 2, "O": 4, "credits": 3, "category": "PC"},
+        {"code": "OE-I",    "title": "Open Elective - I",                "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "OE"},
+        {"code": "OE-II",   "title": "Open Elective - II",               "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "OE"},
+        {"code": "HM-II",   "title": "Humanities - II",                  "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "IE"},
+        {"code": "EE3093E", "title": "Electrical Engineering Drawing",   "L": 1, "T": 0, "P": 2, "O": 3, "credits": 2, "category": "PC"},
+        {"code": "EE3094E", "title": "Project",                          "L": 0, "T": 0, "P": 0, "O": 9, "credits": 3, "category": "PC"},
+        {"code": "EE3095E", "title": "Power Systems Lab",                "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"},
+        {"code": "EE3096E", "title": "Control Systems Lab",              "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1, "category": "PC"}
+      ],
+      "totals": {"L": 15, "T": 1, "P": 8, "O": 42, "credits": 22}
+    },
+    {
+      "semester": 7,
+      "courses": [
+        {"code": "HM-III",   "title": "Humanities - III",           "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "IE"},
+        {"code": "EE40XXE",  "title": "Program Elective - I (PE-I)","L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PE"},
+        {"code": "OE-III",   "title": "Open Elective – III",        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "OE"},
+        {"code": "OE-IV",    "title": "Open Elective - IV",         "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "OE"},
+        {"code": "OE-V",     "title": "Open Elective - V",          "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "OE"},
+        {"code": "EE4091E",  "title": "Summer Internship",          "L": 0, "T": 0, "P": 0, "O": 6, "credits": 2, "category": "PC"},
+        {"code": "EE4092E",  "title": "Project",                    "L": 0, "T": 0, "P": 0, "O": 9, "credits": 3, "category": "PC"}
+      ],
+      "totals": {"L": 15, "T": 0, "P": 0, "O": 45, "credits": 20}
+    },
+    {
+      "semester": 8,
+      "notes": "Students choose ONE of three options for slots 1 (and optionally 2) below:",
+      "options": [
+        {
+          "option": "A",
+          "description": "Full project (6 credits)",
+          "courses": [{"code": "EE4093E", "title": "Project", "L": 0, "T": 0, "P": 0, "O": 18, "credits": 6, "category": "PE"}]
+        },
+        {
+          "option": "B",
+          "description": "Full internship (6 credits)",
+          "courses": [{"code": "EE4094E", "title": "Internship", "L": 0, "T": 0, "P": 0, "O": 18, "credits": 6, "category": "PE"}]
+        },
+        {
+          "option": "C",
+          "description": "Two programme electives (3+3 credits)",
+          "courses": [
+            {"code": "EE40XXE", "title": "Programme Elective - II (PE-II)", "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PE"},
+            {"code": "EE40XXE", "title": "Programme Elective - III (PE-III)","L": 3, "T": 0, "P": 0, "O": 6, "credits": 3, "category": "PE"}
+          ]
+        }
+      ],
+      "common_courses": [
+        {"code": "OE-VI",   "title": "Open Elective - VI",   "L": 3, "T": 0, "P": 0, "O": 6,  "credits": 3, "category": "OE"},
+        {"code": "EE4095E", "title": "Activity Credits",     "L": 0, "T": 0, "P": 0, "O": 12, "credits": 4, "category": "AC"}
+      ],
+      "totals": {"credits": 13}
+    }
+  ],
+  "course_descriptions": {
+    "core_courses": [
+      {
+        "code": "MA1001E",
+        "title": "Mathematics I",
+        "semester": 1,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Formulate some engineering problems as ODEs and hence solve such problems.",
+          "CO2: Solve linear ODEs with constant coefficients.",
+          "CO3: Find the limits, check for continuity and differentiability of real valued functions of two variables.",
+          "CO4: Test for the convergence of sequences and series.",
+          "CO5: Find the Fourier series representing periodic functions."
+        ],
+        "topics": [
+          "Existence and uniqueness of solution of first order ODE, methods of solutions, linear ODE, orthogonal trajectories",
+          "Linear homogeneous second order ODEs with constant coefficients, Wronskian, method of undetermined coefficients, variation of parameters, Euler-Cauchy equations, applications, system of linear ODEs",
+          "Functions of several variables: limit, continuity, partial derivatives, directional derivatives, gradient, local maxima/minima, saddle point, Taylor's formula, Hessian, second derivative test, Lagrange multipliers",
+          "Parameterised curves in space, arc length, tangent and normal vectors, curvature and torsion",
+          "Sequences, Cauchy sequence, convergence, series, tests for convergence, absolute convergence, power series, radius of convergence, Taylor series, Fourier series, Fourier integral, Fourier transforms"
+        ],
+        "references": [
+          "Anton, Bivens & Davis, Calculus, 10th ed., Wiley, 2015",
+          "Thomas, Weir & Hass, Thomas' Calculus, 12th ed., Pearson, 2015",
+          "Kreyszig, Advanced Engineering Mathematics, 10th ed., Wiley, 2015",
+          "Apostol, Calculus Vol 1, 1st ed., Wiley, 2014"
+        ]
+      },
+      {
+        "code": "MA1011E",
+        "title": "Mathematics II",
+        "semester": 2,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Find the parametric representation of curves and surfaces in space and evaluate integrals over curves and surfaces.",
+          "CO2: Use Laplace transform and its properties to solve differential equations and integral equations.",
+          "CO3: Test the consistency of the system of linear equations and solve it.",
+          "CO4: Diagonalise symmetric matrices and use it to find the nature of quadratic forms."
+        ],
+        "topics": [
+          "Vector field, divergence, curl, scalar potential, line integral, double/triple integrals, Green's theorem, Gauss' divergence theorem, Stokes' theorem",
+          "Laplace transform, inverse Laplace transform, Dirac delta function, convolution, solution of ODEs and integral equations",
+          "System of linear equations, Gauss elimination, LU decomposition, rank, eigenvalues, eigenvectors, Cayley-Hamilton theorem, diagonalisation, quadratic forms"
+        ],
+        "references": [
+          "Kreyszig, Advanced Engineering Mathematics, 10th ed., Wiley, 2015",
+          "Anton, Bivens & Davis, Calculus, 10th ed., Wiley, 2015",
+          "Arnold, Ordinary Differential Equations, Springer, 2006",
+          "Dyke, An Introduction to Laplace Transforms and Fourier Series, Springer, 2014"
+        ]
+      },
+      {
+        "code": "MA2001E",
+        "title": "Mathematics III",
+        "semester": 3,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "topics": ["Complex analysis", "Numerical methods", "Special functions (as per Math III syllabus)"],
+        "notes": "Detailed syllabus not extracted from available pages — refer to department for full content."
+      },
+      {
+        "code": "MA2011E",
+        "title": "Mathematics IV",
+        "semester": 4,
+        "category": "IC",
+        "prerequisites": "MA1001E, MA1011E",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Model managerial problems in industries to linear programming problems and solve using various techniques and algorithms.",
+          "CO2: Model and solve PDEs using analytic methods.",
+          "CO3: Apply the basics of probability theory in solving real life problems.",
+          "CO4: Identify the distribution and transform random variables."
+        ],
+        "topics": [
+          "Linear Programming: formulation, graphical method, simplex method, duality theory, dual simplex method, primal-dual algorithm",
+          "PDEs: Cauchy's problem, quasilinear and nonlinear PDEs, wave equation, heat equation, Laplace equation, Fourier series, Laplace transforms",
+          "Probability distributions: random variables, expectation, variance, binomial, Poisson, geometric, normal, uniform, gamma, beta, Weibull distributions",
+          "Transformation of random variables, jointly distributed random variables, correlation, bivariate normal distribution"
+        ],
+        "references": [
+          "Mohan & Deep, Optimization Techniques, New Age International, 2009",
+          "Wayne Winston, Operations Research, Cengage Learning, 4th ed., 2011",
+          "Greenspan, Introduction to Partial Differential Equations, Dover, 2000",
+          "Kreyszig, Advanced Engineering Mathematics, Wiley, 9th ed., 2012",
+          "Ross, A First Course in Probability, 9th ed., Pearson, 2014"
+        ]
+      },
+      {
+        "code": "CE1011E",
+        "title": "Engineering Graphics",
+        "semester": 1,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 2, "T": 0, "P": 2, "O": 5, "credits": 3,
+        "total_sessions": "26L + 26D",
+        "course_outcomes": [
+          "CO1: Make use of the Indian Standard Code of Practice in Engineering Drawing.",
+          "CO2: Represent any engineering object by its orthographic views.",
+          "CO3: Convert orthographic views of an engineering object into its isometric view.",
+          "CO4: Use software for drawing and visualization of engineering objects."
+        ],
+        "topics": [
+          "Drawing instruments, lines, lettering, dimensioning, AutoCAD introduction, geometric construction, plain and diagonal scales",
+          "Orthographic projection (1st and 3rd angle) of points, lines, planes and solids in simple and oblique positions",
+          "Sections of solids, development of surfaces, isometric projection, introduction to perspective projection"
+        ],
+        "references": [
+          "Agrawal B. & Agrawal C.M., Engineering Drawing, 3rd ed., McGraw Hill, 2019",
+          "Bhatt N.D., Engineering Drawing, 54th ed., Charotar, 2023",
+          "Venugopal K. & Raja V.P., Engineering Drawing + AutoCAD, 6th ed., New Age, 2022"
+        ]
+      },
+      {
+        "code": "PH1003E",
+        "title": "Electricity and Magnetism",
+        "semester": 2,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3,
+        "course_outcomes": [
+          "CO1: Apply knowledge of vector calculus to describe Electric and Magnetic fields.",
+          "CO2: Identify simplifying principles like symmetry to compute Electric and Magnetic fields.",
+          "CO3: Formulate and solve problems involving time dependent electromagnetic fields using Maxwell's equations.",
+          "CO4: Analyse propagation of electromagnetic waves in vacuum and dielectric media."
+        ],
+        "topics": [
+          "Electrostatics: Coulomb's law, Gauss law, potential, Poisson and Laplace equations, dielectrics",
+          "Magnetostatics: Biot-Savart law, Ampere's law, magnetostatic energy, magnetized materials",
+          "Time varying fields: Faraday's law, Maxwell's equations, displacement current, Poynting's theorem",
+          "Electromagnetic waves: wave equation, plane wave solution, propagation in dielectric media"
+        ],
+        "references": [
+          "Griffiths, Introduction to Electrodynamics, 4th ed., PHI, 2015",
+          "Purcell & Morin, Electricity and Magnetism, 3rd ed., Cambridge, 2013",
+          "Sadiku & Kulkarni, Principles of Electromagnetics, 6th ed., Oxford, 2015",
+          "Cheng, Field and Wave Electromagnetics, 2nd ed., Pearson, 2014"
+        ]
+      },
+      {
+        "code": "MS1001E",
+        "title": "Professional Communication",
+        "semester": 2,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Distinguish the role and purpose of communication at the workplace and for academic purposes.",
+          "CO2: Decide strategies and modes for effective communication in a dynamic workplace.",
+          "CO3: Combine multiple approaches for successful and ethical information exchange.",
+          "CO4: Estimate best communication practices to assist productivity and congeniality at the workplace."
+        ],
+        "topics": [
+          "Listening and reading comprehension: conversation skills, describing graphs/tables, listening for specific purposes",
+          "Vocabulary and speaking: professional vocabulary, reading strategies, critical reading, text structures",
+          "Effective writing: note making, paragraph writing, official letters, emails, abstract writing",
+          "Communication at workplace: communication theory, verbal/nonverbal, group discussions, presentations, digital communication, ethical communication"
+        ],
+        "references": [
+          "Bhatnagar N & Bhatnagar M, Communicative English for Engineers and Professionals, Dorling Kindersley, 2010",
+          "Garner B.A., HBR Guide to Better Business Writing, Harvard Business Review Press, 2012",
+          "Hewings M., Advanced Grammar in Use, Cambridge University Press, 2013"
+        ]
+      },
+      {
+        "code": "EE1004E",
+        "title": "Professional Ethics",
+        "semester": 1,
+        "category": "IC",
+        "prerequisites": "NIL",
+        "L": 1, "T": 0, "P": 0, "O": 2, "credits": 1,
+        "total_sessions": "13 lecture sessions",
+        "course_outcomes": [
+          "CO1: Develop a clear understanding of human values and use it as basis for all activities.",
+          "CO2: Understand and follow the ethical aspects of engineering profession.",
+          "CO3: Align with the Code of Ethics prescribed by IEEE in all professional activities.",
+          "CO4: Assimilate the elements of academic integrity and Honour Codes."
+        ],
+        "topics": [
+          "Human values: morals, integrity, work ethic, civic virtue, honesty, empathy, self-confidence, character",
+          "Ethics in professional practice: ethical responsibilities to consumers, safety, intellectual property, environment and sustainability",
+          "IEEE code of ethics, academic integrity: plagiarism, Honour Codes"
+        ],
+        "references": [
+          "Naagarazan R.S., A Textbook on Professional Ethics and Human Values, 3rd ed., New Age International, 2022",
+          "Bainbridge A.F., Ethics for Engineers: A Brief Introduction, CRC Press, 2021",
+          "IEEE Code of Ethics — https://www.ieee.org/about/corporate/governance/p7-8.html"
+        ]
+      },
+      {
+        "code": "EE1001E",
+        "title": "Introduction to Electrical Engineering",
+        "semester": 1,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Explain characteristics of voltage sources, current sources and passive circuit elements.",
+          "CO2: Solve simple magnetic and capacitive circuits for signal and power processing.",
+          "CO3: Analyse electrical circuits using various circuit analysis methods and circuit theorems.",
+          "CO4: Analyse single phase ac circuits.",
+          "CO5: Analyse balanced and unbalanced three-phase ac circuits."
+        ],
+        "topics": [
+          "Resistive circuits: v-i relationships, Kirchhoff's laws, Node voltage and Mesh current analysis, dependent sources, source transformation, Star-Delta conversion",
+          "Circuit theorems: Superposition, Thevenin, Norton, Maximum Power Transfer, Reciprocity; magnetic circuits, inductance, capacitance",
+          "Single-phase AC circuits: phasor representation, impedance/admittance, resonance, power factor, complex power",
+          "Three-phase AC circuits: balanced/unbalanced systems, symmetrical components, sequence decoupling"
+        ],
+        "references": [
+          "Suresh Kumar K.S., Electric Circuits & Networks, Pearson, 2009",
+          "Nilsson & Riedel, Electric Circuits, 8th ed., Pearson, 2002",
+          "Desoer & Kuh, Basic Circuit Theory, McGraw Hill, 2009",
+          "Edminister, Electric Circuit Theory, Schaum's, 6th ed., McGraw Hill, 2014"
+        ]
+      },
+      {
+        "code": "EE1002E",
+        "title": "Electrical Measurements",
+        "semester": 1,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Familiarization with different types of electrical measurement systems.",
+          "CO2: Analyze working principles of resistance, inductance, capacitance and magnetic quantity measurements.",
+          "CO3: Analyze working principles of waveform measurements.",
+          "CO4: Perform measurement of power & energy in poly phase systems."
+        ],
+        "topics": [
+          "Voltage and current measurements: instruments, errors, moving coil/iron instruments, instrument transformers, digital instruments",
+          "Magnetic measurements: ballistic galvanometer, BH curve and Hysteresis loop",
+          "Waveform measurements: CRO, DSO, Lissajous patterns",
+          "Bridge measurements: Wheatstone, Kelvin, Maxwell, Hay's, Schering, Wien bridges",
+          "Power and energy measurements: dynamometer wattmeters, three-phase power, energy meters, kVA measurement"
+        ],
+        "references": [
+          "Golding E.W., Electrical Measurements & Measuring Instruments, 6th ed., Reem, 2019",
+          "Sawhney A.K., Electrical and Electronic Measurements and Instrumentation, Dhanpat Rai, 2015"
+        ]
+      },
+      {
+        "code": "EE1003E",
+        "title": "Electronic Circuits - I",
+        "semester": 1,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Design rectifiers, clipping circuits, DC restoration circuits and voltage regulators using diodes and zener diodes.",
+          "CO2: Design biasing circuits for BJTs, JFETs and MOSFETs.",
+          "CO3: Design single-stage and multi-stage amplification systems.",
+          "CO4: Design Class A, Class B and Class AB power stages using BJTs.",
+          "CO5: Conduct performance evaluation of prototype amplifier designs by small signal analysis.",
+          "CO6: Choose digital components from various logic families."
+        ],
+        "topics": [
+          "Semiconductor devices: diodes, BJT, JFET, MOSFET — capacitances, biasing, small signal models",
+          "Diode circuits: rectifiers, filters, clipping, clamping, zener regulators",
+          "Amplifier midband analysis: CE, CB, emitter follower, common source, common drain amplifiers; Class A, B, AB power amplifiers",
+          "Digital logic families: DTL, TTL, Schottky TTL, ECL, CMOS — propagation delays, speed-power product"
+        ],
+        "references": [
+          "Sedra & Smith, Microelectronic Circuits, 5th ed., Oxford, 2009",
+          "Millman J., Microelectronics, 2nd ed., McGraw-Hill, 2005",
+          "Boylestad & Nashelsky, Electronic Devices and Circuit Theory, 10th ed., Pearson, 2009"
+        ]
+      },
+      {
+        "code": "EE1011E",
+        "title": "Circuits and Networks",
+        "semester": 2,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Analyse dynamic and steady state response of electrical circuits in time domain.",
+          "CO2: Analyse dynamic and steady state response in frequency domain.",
+          "CO3: Examine first-order and second-order circuits for signal processing tasks.",
+          "CO4: Solve two-port systems by applying two-port network modelling."
+        ],
+        "topics": [
+          "Time-domain analysis: RL, RC, RLC circuits; initial conditions; step, ramp, impulse responses",
+          "Frequency-domain analysis: Laplace transforms, s-domain circuit analysis, transfer functions, poles and zeros",
+          "Sinusoidal steady-state, Fourier series, THD, non-sinusoidal periodic inputs",
+          "Two-port networks: Z, Y, h, ABCD parameters; interconnections; feedback systems"
+        ],
+        "references": [
+          "Suresh Kumar K.S., Electric Circuits and Networks, Pearson, 2009",
+          "Van Valkenburg M.E., Network Analysis, 3rd ed., Pearson, 2019",
+          "Hayt & Kemmerly, Engineering Circuit Analysis, 9th ed., McGraw-Hill, 2020"
+        ]
+      },
+      {
+        "code": "ME1401E",
+        "title": "Engineering Mechanics",
+        "semester": 2,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Determine the resultants of a force system.",
+          "CO2: Solve rigid body statics problems using equations of equilibrium.",
+          "CO3: Determine the first and second moments of area for planar surfaces.",
+          "CO4: Perform kinematic analysis of particles.",
+          "CO5: Solve particle dynamics problems using Newton's laws, energy methods and momentum methods."
+        ],
+        "topics": [
+          "Equivalent force systems, vector algebra, resultant of force systems",
+          "Rigid body statics: equilibrium, friction, static indeterminacy",
+          "Properties of surfaces: centroid, moments of area",
+          "Particle kinematics: velocity and acceleration in various coordinate systems",
+          "Particle dynamics: Newton's laws, energy methods, momentum methods"
+        ],
+        "references": [
+          "Shames & Rao, Engineering Mechanics, 4th ed., Pearson, 2005",
+          "Beer, Johnston et al., Vector Mechanics for Engineers, 12th ed., McGraw Hill, 2019",
+          "Hibbeler, Engineering Mechanics, 14th ed., Pearson, 2017"
+        ]
+      },
+      {
+        "code": "EE1012E",
+        "title": "Digital Circuits and Systems",
+        "semester": 2,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Formulate Combinational Logic Problems and perform Logic Optimization.",
+          "CO2: Design combinational logic using standard SSI/MSI gates, MUX, ROM, PLA, PAL.",
+          "CO3: Perform design verification/validation of synchronous and asynchronous sequential circuits.",
+          "CO4: Design synchronous and asynchronous sequential circuits."
+        ],
+        "topics": [
+          "Boolean functions, Karnaugh maps, NAND/NOR/EX-OR implementation",
+          "Binary number representations, MSI/LSI combinational circuits: adders, comparators, MUX, decoders",
+          "Sequential circuits: latches, flip-flops, shift registers, counters",
+          "FSM analysis and design: state reduction, synchronous and asynchronous sequential logic, hazards",
+          "Memory: RAM, ROM, PROM, PLA, PAL, FPGAs, VHDL introduction"
+        ],
+        "references": [
+          "Mano & Ciletti, Digital Design, 6th ed., Pearson, 2018",
+          "Roth, Fundamentals of Logic Design, 7th ed., Jaico, 2013",
+          "Floyd, Digital Fundamentals, 11th ed., Prentice Hall, 2017"
+        ]
+      },
+      {
+        "code": "EE2001E",
+        "title": "Signals and Systems",
+        "semester": 3,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Design and validate simple first and second order linear continuous-time systems.",
+          "CO2: Evaluate multi-order LTI System designs by Impulse Response Test.",
+          "CO3: Evaluate stability and stability margins by transfer function approach.",
+          "CO4: Design first/second order systems for basic signal/energy processing applications.",
+          "CO5: Evaluate signal distortion characteristics of a transmission channel."
+        ],
+        "topics": [
+          "First-order CT-LTI systems: signal classification, system elements, differential equations, time constants, first-order dynamics",
+          "Higher-order systems: second-order systems, convolution, impulse response, stability",
+          "Frequency-domain: Fourier transforms, linear distortion, sampling theorem, Nyquist's theorem",
+          "Laplace transforms: ROC, transfer functions, poles and zeros"
+        ],
+        "references": [
+          "Lathi B.P., Signal Processing and Linear Systems, 2nd ed., Oxford, 2006",
+          "Oppenheim & Schafer, Discrete-Time Signal Processing, 3rd ed., Pearson, 2014",
+          "Haykin & Van Veen, Signals and Systems, 2nd ed., Wiley, 2009"
+        ]
+      },
+      {
+        "code": "EE2002E",
+        "title": "Microprocessors and Microcontrollers",
+        "semester": 3,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 2, "T": 1, "P": 2, "O": 4, "credits": 3,
+        "total_sessions": "26L + 13T + 26P",
+        "course_outcomes": [
+          "CO1: Explain the basics of Digital Systems.",
+          "CO2: Discuss the working of a microprocessor/controller.",
+          "CO3: Develop and test programs using assembly/high-level language.",
+          "CO4: Test the working of different peripherals in a digital system.",
+          "CO5: Design, modify, compile and debug assembly/C programs for PIC microcontroller."
+        ],
+        "topics": [
+          "Number systems, computer architecture, CISC vs RISC, Von-Neumann vs Harvard architecture",
+          "PIC 18F452 Microcontroller: architecture, assembly language, MPLAB IDE, I/O ports, timers, interrupts, C programming",
+          "Intel 8086: architecture, addressing modes, instruction set, assembly programming, interrupts, interfacing ICs (8255, 8253, 8251, 8257, 8259)"
+        ],
+        "references": [
+          "Muhammad Ali Mazidi et al., PIC Microcontroller and Embedded Systems, Pearson, 2021",
+          "Lyla B Das, The x86 Microprocessors, Pearson India, 2014"
+        ]
+      },
+      {
+        "code": "EE2003E",
+        "title": "Electrical Machines - I",
+        "semester": 3,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Discuss fundamental principles and classification of electromagnetic machines.",
+          "CO2: Analyse constructional details and principle of operation of DC machines.",
+          "CO3: Evaluate operation, testing and applications of DC generators and motors.",
+          "CO4: Discuss constructional details and principle of operation of transformers.",
+          "CO5: Apply knowledge about testing and applications of transformers."
+        ],
+        "topics": [
+          "Electromagnetic machines: principles, armature windings, MMF, torque, EMF equations",
+          "DC machines: construction, magnetic circuit, emf equation, armature reaction, commutation",
+          "DC generators and motors: circuit models, magnetisation characteristics, starting, speed control, testing (Swinburne, Hopkinson, Retardation)",
+          "Transformers: construction, equivalent circuit, efficiency, regulation, OC/SC tests, Sumpner's test, three-phase connections, auto-transformers"
+        ],
+        "references": [
+          "Clayton & Hancock, Performance and Design of DC Machines, ELBS, 1971",
+          "Nagarath & Kothari, Electric Machines, Tata McGraw Hill, 1999",
+          "Say M.G., Performance and Design of AC Machines, CBS, 1983"
+        ]
+      },
+      {
+        "code": "EE2004E",
+        "title": "Electronic Circuits – II",
+        "semester": 3,
+        "category": "PC",
+        "prerequisites": "EE1003E",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Design discrete transistor amplification circuits with given gain and bandwidth.",
+          "CO2: Design linear signal processing application circuits using Opamps.",
+          "CO3: Apply voltage regulator ICs for power supply design.",
+          "CO4: Carry out stability analysis on amplifying circuits and design compensators.",
+          "CO5: Design sinusoidal oscillators using Opamps.",
+          "CO6: Design transistorized Bistable, Astable and Monostable circuits."
+        ],
+        "topics": [
+          "Frequency response of discrete amplifiers (s-domain): low and high frequency response of BJT/FET amplifiers, Miller effect",
+          "Basic Opamp circuits: differential amplifiers, CMRR, ideal/practical Opamps, linear applications (integrator, differentiator, instrumentation amplifier)",
+          "Non-linear Opamp applications: comparators, Schmitt trigger, astable multivibrator, square-triangle generator",
+          "Feedback amplifiers and stability: Barkhausen criterion, gain/phase margin, compensation, sinusoidal oscillators, crystal oscillators",
+          "Bistable and metastable transistor circuits"
+        ],
+        "references": [
+          "Sedra & Smith, Microelectronic Circuits, 5th ed., Oxford, 2009",
+          "Sergio Franco, Design with Op-Amps and Analog ICs, Tata McGraw-Hill, 2005"
+        ]
+      },
+      {
+        "code": "EE2011E",
+        "title": "Power Systems - I",
+        "semester": 4,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Analyse and compare the economics of various electrical energy sources.",
+          "CO2: Analyse the performance of transmission lines.",
+          "CO3: Design electrical and mechanical parameters of power system.",
+          "CO4: Model power systems using single line diagrams and analyse using load flow methods.",
+          "CO5: Evaluate and analyse various distribution schemes."
+        ],
+        "topics": [
+          "Power generation and economics: conventional/renewable sources, load factor, tariffs",
+          "Transmission line parameters: resistance, inductance, capacitance, GMD/GMR, ABCD constants, Ferranti effect, corona, mechanical design",
+          "Underground cables: types, insulation resistance, capacitance",
+          "Load flow studies: bus matrices, Gauss-Seidel, Newton-Raphson, Fast decoupled, DC load flow",
+          "Distribution systems: Kelvin's law, voltage control, microgrids, smart grids"
+        ],
+        "references": [
+          "Grainger & Stevenson, Power System Analysis, McGraw-Hill, 2017",
+          "Kothari, Nagrath & Saket, Modern Power System Analysis, 5th ed., 2022",
+          "Saadat, Power System Analysis, 4th ed., Tata McGraw Hill, 2011"
+        ]
+      },
+      {
+        "code": "EE2012E",
+        "title": "Power Electronics",
+        "semester": 4,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Understand characteristics of important power semiconductor switches.",
+          "CO2: Analyze power electronic switch-based rectifiers, converters and inverters.",
+          "CO3: Select circuit elements required for a Power Electronic system.",
+          "CO4: Design a power electronic system for a given application."
+        ],
+        "topics": [
+          "Power semiconductor switches: diodes, thyristors, IGBTs, MOSFETs, gate driver circuits, snubber circuits",
+          "Controlled rectifiers: single-phase and three-phase phase-controlled rectifiers",
+          "Inverters: single-phase half/full-bridge, three-phase, SPWM, bipolar/unipolar PWM, grid-tied inverters",
+          "DC-DC converters: Buck, Boost, Buck-Boost; design of inductors, transformers, heat sinks"
+        ],
+        "references": [
+          "Umanand L., Power Electronics: Essentials and Applications, Wiley India, 2009",
+          "Ned Mohan, Power Electronics, Wiley, 2nd ed., 1995",
+          "Rashid, Power Electronics, Pearson, 3rd ed., 2004"
+        ]
+      },
+      {
+        "code": "EE2013E",
+        "title": "Electrical Machines - II",
+        "semester": 4,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Know constructional details and principle of operation of alternators.",
+          "CO2: Know working of synchronous machines as generators and motors.",
+          "CO3: Know constructional details and principle of operation of induction motors.",
+          "CO4: Know speed control, testing and applications of induction motors.",
+          "CO5: Know generalized machine theory and simulation methods."
+        ],
+        "topics": [
+          "Alternators: construction, armature reaction, voltage regulation (EMF, MMF, Potier methods), two-reaction theory, excitation",
+          "Synchronous machines: power angle characteristics, load sharing, V curves, hunting, starting methods",
+          "Induction machines: equivalent circuit, torque-slip characteristics, starting, speed control, induction generators",
+          "Generalized machine theory: machine as a circuit, digital simulation"
+        ],
+        "references": [
+          "Nagarath & Kothari, Electric Machines, Tata McGraw Hill, 1999",
+          "Say M.G., Performance and Design of AC Machines, CBS, 1983",
+          "Chapman S.J., Electric Machine Fundamentals, McGraw Hill, 1999"
+        ]
+      },
+      {
+        "code": "EE2014E",
+        "title": "Control Systems - I",
+        "semester": 4,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 lecture sessions",
+        "course_outcomes": [
+          "CO1: Represent dynamical systems using transfer function models.",
+          "CO2: Analyze system response and stability using time-domain methods.",
+          "CO3: Analyze system response and stability using frequency-domain methods.",
+          "CO4: Design compensators using time and frequency domain techniques.",
+          "CO5: Analyze system response and design compensators using simulation tools."
+        ],
+        "topics": [
+          "Modelling: differential equations, transfer functions, block diagrams, signal flow graphs, Mason's gain formula",
+          "Time-domain analysis: transient response, steady-state error, Routh-Hurwitz criterion, root locus",
+          "Frequency-domain analysis: Bode, Nyquist, Polar plots, gain margin, phase margin",
+          "Controllers: P, PI, PD, PID — tuning methods; Lead, Lag, Lead-Lag compensators"
+        ],
+        "references": [
+          "Ogata K., Modern Control Engineering, 5th ed., Pearson, 2015",
+          "Nagrath & Gopal, Control Systems Engineering, 7th ed., Tata McGraw Hill, 2021",
+          "Nise N.S., Control Systems Engineering, Wiley, 7th ed., 2014"
+        ]
+      },
+      {
+        "code": "EE3001E",
+        "title": "Digital Signal Processing",
+        "semester": 5,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 sessions",
+        "course_outcomes": [
+          "CO1: Analyze discrete time systems using time domain and frequency domain methods.",
+          "CO2: Design and validate linear phase FIR systems.",
+          "CO3: Design IIR and FIR filter structures for filtering applications.",
+          "CO4: Analyze spectrum of periodic CT waveforms using Digital Spectrum Analyzer.",
+          "CO5: Design Digital Filters by Block Convolution."
+        ],
+        "topics": [
+          "DT signals and LTI-DT systems: ZIR, ZSR, natural frequencies, stability, frequency response",
+          "Z-transforms: properties, transfer functions, poles/zeros, linear phase FIR types",
+          "IIR/FIR filter design: Butterworth approximation, bilinear transformation, windowing, filter structures",
+          "DFT, FFT: Radix-2 DIT/DIF FFT, block convolution, spectral analysis"
+        ],
+        "references": [
+          "Proakis & Manolakis, Digital Signal Processing, 4th ed., Pearson, 2013",
+          "Oppenheim & Schafer, Discrete-Time Signal Processing, 3rd ed., Pearson, 2014",
+          "Mitra, Digital Signal Processing: A Computer-Based Approach, 4th ed., McGraw-Hill, 2013"
+        ]
+      },
+      {
+        "code": "EE3002E",
+        "title": "Power Systems - II",
+        "semester": 5,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 sessions",
+        "course_outcomes": [
+          "CO1: Examine and analyse the behaviour of faulted power systems.",
+          "CO2: Design protection schemes for power systems.",
+          "CO3: Select appropriate relay settings for overcurrent and distance relays.",
+          "CO4: Interpret generation control and economic dispatch methods.",
+          "CO5: Determine and analyse stability issues.",
+          "CO6: Analyse quenching mechanisms in circuit breakers."
+        ],
+        "topics": [
+          "Fault analysis: symmetrical and unsymmetrical faults (LG, LL, LLG), impedance matrix methods, symmetrical components",
+          "Economic dispatch: B-coefficient, optimal load flow, AGC, automatic voltage regulation, SCADA",
+          "Power system stability: steady-state and transient stability, swing equation, equal area criterion",
+          "Switchgear and protection: overcurrent, distance, differential relays; digital and numerical relays; circuit breakers"
+        ],
+        "references": [
+          "Horowitz, Phadke & Henville, Power System Relaying, 5th ed., Wiley, 2022",
+          "Stevenson, Elements of Power System Analysis, McGraw Hill, 4th ed., 2015",
+          "Kothari & Nagrath, Power System Engineering, 3rd ed., Tata McGraw-Hill, 2019"
+        ]
+      },
+      {
+        "code": "EE3003E",
+        "title": "Control Systems - II",
+        "semester": 5,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 1, "P": 0, "O": 5, "credits": 3,
+        "total_sessions": "39 sessions",
+        "course_outcomes": [
+          "CO1: Develop state space models for continuous-time systems and analyze their time response.",
+          "CO2: Design controllers and observers for dynamical systems using state feedback.",
+          "CO3: Model, analyse and design controllers for discrete time dynamical systems.",
+          "CO4: Analyse characteristics and assess stability of nonlinear dynamical systems.",
+          "CO5: Evaluate dynamical systems performance using simulation tools."
+        ],
+        "topics": [
+          "State space analysis: canonical forms, eigenvalues, solution of state equations, state transition matrix",
+          "State-feedback design: controllability, observability, pole placement, Ackermann's formula, observers",
+          "Digital control systems: pulse transfer function, Z-domain stability, Jury's test",
+          "Nonlinear systems: phase plane analysis, limit cycles, Lyapunov's methods, describing functions"
+        ],
+        "references": [
+          "Ogata K., Modern Control Engineering, 5th ed., Pearson, 2015",
+          "Gopal M., Digital Control and State Variable Methods, 4th ed., Tata McGraw Hill, 2017",
+          "Khalil H.K., Nonlinear Systems, 3rd ed., Prentice Hall, 2002"
+        ]
+      },
+      {
+        "code": "EE3004E",
+        "title": "Analog Integrated Circuits",
+        "semester": 5,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3,
+        "total_sessions": "39 sessions",
+        "course_outcomes": [
+          "CO1: Select the right Opamp for linear and non-linear applications.",
+          "CO2: Develop insight into working of BJT and MOSFET based Opamps.",
+          "CO3: Design simple waveform generation circuits.",
+          "CO4: Apply PLL, Multiplier ICs, RMS-DC converters to build signal processing subsystems.",
+          "CO5: Design custom-made single Opamp biquad cascade filters.",
+          "CO6: Apply S/H amplifiers and data converters for signal conversion systems."
+        ],
+        "topics": [
+          "Review of linear Opamp applications, effect of finite GBP, integrators, differentiators, instrumentation amplifiers",
+          "Internal analysis of 741 IC, two-stage CMOS Opamp, folded cascode CMOS Opamp",
+          "Comparators, astable multivibrators, VCOs, function generators, PLL (NE564, CD4046)",
+          "Signal conditioning: Butterworth/Sallen-Key/KHN filters, active filter design",
+          "Signal conversion: ADC and DAC (SAR, successive approximation, R/2R ladder), sample-and-hold"
+        ],
+        "references": [
+          "Sedra & Smith, Microelectronic Circuits, 3rd ed., Holt Saunders, 1989",
+          "Franco, Design with Op-Amps and Analog ICs, McGraw Hill, 1988",
+          "Van Valkenburg, Analog Filter Design, Oxford, 2001"
+        ]
+      },
+      {
+        "code": "EE3011E",
+        "title": "Introduction to Communication Systems",
+        "semester": 6,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3,
+        "total_sessions": "39 sessions",
+        "course_outcomes": [
+          "CO1: Understand mathematical concepts on signals and random processes for communication system design.",
+          "CO2: Acquire knowledge on various Amplitude Modulation Techniques.",
+          "CO3: Acquire knowledge on various Angle Modulation Techniques.",
+          "CO4: Acquire knowledge on PAM and PCM systems.",
+          "CO5: Become familiar with various line codes for Digital Base Band Transmission.",
+          "CO6: Become familiar with various Keying Schemes for Digital Carrier-Based Transmission."
+        ],
+        "topics": [
+          "Mathematical preliminaries: correlation, signal space, random processes, noise in communication channels",
+          "Continuous-wave modulation: AM, DSBSC, SSB, FM, PM",
+          "Pulse code modulation: PAM, quantization, PCM, Delta Modulation, TDM",
+          "Digital communications: line codes, matched filtering, BPSK, QPSK, DPSK, FSK, error probability calculations"
+        ],
+        "references": [
+          "Taub & Schilling, Principles of Communication Systems, 2nd ed., McGraw-Hill",
+          "Haykin S., Communication Systems, 4th ed., Wiley, 2004",
+          "Dennis Roddy & John Coolen, Electronic Communication, 4th ed., Pearson, 2004"
+        ]
+      },
+      {
+        "code": "EE3012E",
+        "title": "Instrumentation Systems",
+        "semester": 6,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 2, "T": 1, "P": 2, "O": 4, "credits": 3,
+        "total_sessions": "39 sessions",
+        "course_outcomes": [
+          "CO1: Describe working of active and passive sensors/transducers for nonelectrical quantities.",
+          "CO2: Select sensors for measurement of nonelectrical quantities in process industries.",
+          "CO3: Devise an appropriate signal conditioning circuit for a measurement system.",
+          "CO4: Design industrial techniques such as PLCs and automated assembly systems."
+        ],
+        "topics": [
+          "Introduction to transducers: passive (resistive, inductive, capacitive) and active (thermoelectric, piezoelectric, Hall effect); smart sensors, IR, ultrasonic, fibre optic sensors",
+          "Measurement of temperature, pressure, flow, level, force, torque, density, viscosity, displacement (LVDT, RVDT)",
+          "Signal conditioning: instrumentation amplifiers, isolation amplifiers, 4-20mA current loops",
+          "PLC and DCS: ladder diagram programming, DCS integration"
+        ],
+        "references": [
+          "Doebelin & Manik, Measurement Systems, 6th ed., Tata McGraw-Hill, 2017",
+          "Johnson C.D., Process Control Instrumentation Technology, 8th ed., Prentice Hall, 2014"
+        ]
+      },
+      {
+        "code": "EE3093E",
+        "title": "Electrical Engineering Drawing",
+        "semester": 6,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 1, "T": 0, "P": 2, "O": 3, "credits": 2,
+        "total_sessions": "13L + 26P",
+        "course_outcomes": [
+          "CO1: Draw different types of AC and DC armature windings.",
+          "CO2: Visualize and draw sectional plan and elevation of transformers.",
+          "CO3: Analyse and draw sectional elevation of DC and AC machines.",
+          "CO4: Prepare layout of outdoor and indoor substations.",
+          "CO5: Use CAD tool for drawing electrical machines and systems."
+        ],
+        "topics": [
+          "Winding diagrams: simplex lap/wave DC armature, three-phase AC armature windings",
+          "Transformer drawings: sectional plans, core assembly, tank accessories",
+          "DC machines: armature with commutator, yoke and pole assembly",
+          "Alternators: turbo and water wheel types",
+          "Induction motors: slip ring and squirrel cage",
+          "Substations: 11kV, 220kV outdoor, indoor, captive power substations",
+          "AutoCAD: 2D drawings, electrical symbol libraries"
+        ],
+        "references": [
+          "Clayton & Hancock, Performance and Design of DC Machines, ELBS, 1992",
+          "Say M.G., Performance and Design of AC Machines, Pitman, 1991",
+          "Bhattacharya S.K., Electrical Engineering Drawing, 2nd ed., Wiley Eastern, 2009"
+        ]
+      },
+      {
+        "code": "EE3094E",
+        "title": "Project",
+        "semester": 6,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 0, "T": 0, "P": 0, "O": 9, "credits": 3,
+        "course_outcomes": [
+          "CO1: Identify a topic of interest relevant to industry or society in Electrical Engineering.",
+          "CO2: Develop skills of independent and collaborative learning.",
+          "CO3: Formulate and develop a design proposal; undertake literature survey and feasibility studies.",
+          "CO4: Design or model or develop algorithm through simulated or experimental approach.",
+          "CO5: Write technical report and make oral presentation."
+        ],
+        "notes": "Design and/or experimental approach in EEE or interdisciplinary field. Individual or group project under a supervisor. Assessed by a project review committee at end of semester."
+      },
+      {
+        "code": "EE4091E",
+        "title": "Summer Internship",
+        "semester": 7,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 0, "T": 0, "P": 0, "O": 6, "credits": 2,
+        "course_outcomes": [
+          "CO1: Enhancement of employability through exposure to Industrial Environment & Professional Work Culture.",
+          "CO2: Enhancement of employability through improvement in inter-personal skills.",
+          "CO3: Learn to apply engineering principles in a practical context.",
+          "CO4: Learn how economic, market, environmental and ethical considerations affect technical solutions."
+        ],
+        "notes": "Minimum 45 days during Summer Vacation after 6th Semester. Evaluation in first week of 7th Semester. Eligible venues include electrical industries, electronics manufacturing, software/IT, research institutions."
+      },
+      {
+        "code": "EE4092E",
+        "title": "Project",
+        "semester": 7,
+        "category": "PC",
+        "prerequisites": "NIL",
+        "L": 0, "T": 0, "P": 0, "O": 9, "credits": 3,
+        "notes": "Continuation or new project at NIT Calicut. May be extension of EE3094E. Analytical/simulation/design/fabrication. Evaluated by a project review committee."
+      },
+      {
+        "code": "EE4093E",
+        "title": "Project",
+        "semester": 8,
+        "category": "PE",
+        "prerequisites": "NIL",
+        "L": 0, "T": 0, "P": 0, "O": 18, "credits": 6,
+        "notes": "Full 8th semester project at NIT Calicut. May continue from EE4092E. Evaluated by a project review committee."
+      },
+      {
+        "code": "EE4094E",
+        "title": "Internship",
+        "semester": 8,
+        "category": "PE",
+        "prerequisites": "NIL",
+        "L": 0, "T": 0, "P": 0, "O": 18, "credits": 6,
+        "notes": "Minimum 4 months during 8th Semester. Similar eligible venues as summer internship."
+      },
+      {
+        "code": "EE4095E",
+        "title": "Activity Credits",
+        "semester": 8,
+        "category": "AC",
+        "credits": 4,
+        "notes": "Minimum 80 activity points required. Min 20 by end of S4, min 40 by end of S6."
+      }
+    ],
+    "lab_courses": [
+      {
+        "code": "EE1091E",
+        "title": "Basic Electrical Engineering Lab",
+        "semester": 1,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "course_outcomes": [
+          "CO1: Perform basic electrical wiring, select fuse, perform electrical measurements.",
+          "CO2: Estimate and measure power, power factor and current of linear and non-linear loads.",
+          "CO3: Apply basic circuit theorems; design potential divider circuits.",
+          "CO4: Measure winding inductance and analyse resonance in RLC circuits.",
+          "CO5: Measure earth resistance and insulation resistance."
+        ],
+        "experiments": [
+          "Wiring tools, lighting accessories, one lamp with one switch",
+          "Electric shock precautions, earthing, two-way switching",
+          "Fuse, MCB, ELCB — selection and wiring of fluorescent lamp",
+          "Analog/Digital meters, Linear and Non-linear load characteristics",
+          "Verification of Kirchhoff's laws in DC circuits",
+          "Potential divider, resistance measurements",
+          "Verification of Superposition and Maximum Power Transfer Theorems",
+          "Verification of Thevenin's and Reciprocity Theorems",
+          "Single phase power measurement (fan load), thermal efficiency",
+          "Resonance analysis of RLC circuits",
+          "Measurement of self-inductance, mutual inductance and coupling coefficient",
+          "Measurement of earth resistance and insulation resistance"
+        ]
+      },
+      {
+        "code": "EE1092E",
+        "title": "Electrical Measurements Lab",
+        "semester": 2,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "course_outcomes": [
+          "CO1: Use different electrical calibration and measurement devices.",
+          "CO2: Determine loss characteristics of a magnetic material.",
+          "CO3: Design measuring devices employing range extension principles.",
+          "CO4: Measure characteristics of electrical elements using DC and AC bridge technique."
+        ],
+        "experiments": [
+          "Extension of range of ammeter/voltmeter; calibration",
+          "Measurement of resistance using Kelvin's double bridge and Wheatstone bridge",
+          "Measurement of inductance and capacitances using AC bridges and LCR meter",
+          "Extension of dynamometer wattmeter range using CT/PT; calibration",
+          "Calibration of single-phase energy meter by direct loading and phantom loading",
+          "Measurement of three-phase power using two wattmeter method",
+          "Measurement of reactive power and power factor",
+          "Calibration of 3-phase energy meter",
+          "Determination of iron losses using Lloyd Fischer square",
+          "Determination of hysteresis loop using DSO/CRO",
+          "Determination of ratio error and phase error of CT"
+        ]
+      },
+      {
+        "code": "EE2091E",
+        "title": "Electronics Laboratory I",
+        "semester": 3,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "course_outcomes": [
+          "CO1: Use different meters and instruments for measurement of electronic quantities.",
+          "CO2: Study characteristics of semiconductor devices experimentally.",
+          "CO3: Design and test application circuits using diodes.",
+          "CO4: Design and test signal and power amplifier circuits using BJTs and FETs.",
+          "CO5: Design voltage regulation circuits."
+        ],
+        "experiments": [
+          "Use of CRO: voltage, current, frequency, phase shift measurement",
+          "V-I and transfer characteristics of Si, Ge, and Zener diodes",
+          "Clipping and clamping circuit characteristics",
+          "Rectifiers and filters: ripple factor, efficiency, regulation",
+          "Transistor characteristics in CB and CE configurations",
+          "JFET characteristics in common source configuration",
+          "Voltage regulator characteristics (Zener, emitter follower)",
+          "UJT relaxation oscillator",
+          "RC coupled amplifier in CE configuration",
+          "BJT emitter follower measurements",
+          "FET amplifier measurements",
+          "Power amplifiers — Class AB"
+        ]
+      },
+      {
+        "code": "EE2092E",
+        "title": "Electrical Machines Lab I",
+        "semester": 4,
+        "category": "PC",
+        "prerequisites": "EE2003E",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "experiments": [
+          "Open circuit characteristic of a DC shunt generator",
+          "Load test on DC shunt generator",
+          "Break test on DC shunt and series motors",
+          "Swinburne's test on DC shunt motor",
+          "Hopkinson's test on a pair of DC shunt machines",
+          "Retardation test on DC shunt machine",
+          "No load test on DC machine",
+          "OC and SC tests on single-phase transformer",
+          "Separation of losses in single-phase transformer",
+          "Sumpner's test on a pair of single-phase transformers",
+          "Polarity test and three-phase connections of transformers"
+        ]
+      },
+      {
+        "code": "EE2093E",
+        "title": "Electronics Laboratory II",
+        "semester": 4,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "experiments": [
+          "Opamp circuits: inverter, adder, integrator, differentiator",
+          "Opamp comparator: Schmitt trigger, window comparator",
+          "Phase shift and Wein's bridge oscillator with amplitude stabilization",
+          "Waveform generation: square, triangular, sawtooth",
+          "Precision rectification using Opamps",
+          "Astable multivibrator using BJTs",
+          "Triangular waveform using UP/DOWN counter and DAC",
+          "Multivibrators using CD4047 and CD4093",
+          "Half adder and half subtractor using NAND gates",
+          "Ripple counter, cascaded synchronous counters, Johnson and Ring counters",
+          "Synchronous UP/DOWN counter",
+          "Function Generator and VCO; AGC and AVC using TL082 and MPY634",
+          "LDO regulator and switched mode power supply design"
+        ]
+      },
+      {
+        "code": "EE3091E",
+        "title": "Power Electronics Lab",
+        "semester": 5,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "39 sessions",
+        "experiments": [
+          "Single-phase uncontrolled rectifiers with C and LC filters",
+          "SCR V-I characteristics; R and RC triggering circuits",
+          "SCR-based AC voltage controller",
+          "MOSFET characteristics, switching characteristics and power loss",
+          "IGBT characteristics, switching characteristics and power loss",
+          "Gate driver circuit for MOSFET (non-isolated and isolated)",
+          "Line and load regulation of a buck converter",
+          "Conduction modes in buck-boost converter",
+          "Single-phase semi-converter performance",
+          "Single-phase full-converter performance",
+          "Single-phase square wave inverter",
+          "Single-phase sine PWM inverter"
+        ]
+      },
+      {
+        "code": "EE3092E",
+        "title": "Electrical Machines Lab II",
+        "semester": 5,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "experiments": [
+          "No load and blocked rotor tests on 3-phase squirrel cage induction motor",
+          "No load and blocked rotor tests on 3-phase slip ring induction motor",
+          "No load and blocked rotor tests on single phase induction motor",
+          "Load test on 3-phase squirrel cage induction motor",
+          "Load test on 3-phase slip ring induction motor",
+          "Induction generator performance analysis",
+          "Speed control by variable frequency method",
+          "Predetermination of voltage regulation of 3-phase alternator (EMF and MMF methods)",
+          "Voltage regulation using ZPF method",
+          "Slip test on salient pole alternator",
+          "Synchronization of alternator; V-curves and inverted V-curves"
+        ]
+      },
+      {
+        "code": "EE3095E",
+        "title": "Power Systems Lab",
+        "semester": 6,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "experiments": [
+          "Formation of YBUS using bus incidence matrix (MATLAB)",
+          "Modelling accuracy studies of transmission line models (MATLAB)",
+          "Gauss-Seidel load flow (MATLAB)",
+          "Newton-Raphson load flow (MATLAB)",
+          "Travelling wave characteristics using PSCAD",
+          "Automatic load frequency control simulation (MATLAB/SIMULINK)",
+          "Short circuit analysis using PSCAD",
+          "Load flow analysis using ETAP",
+          "Electromechanical overcurrent relay testing",
+          "Differential relay testing",
+          "Sequence reactance determination of alternator",
+          "Electromechanical under voltage relay testing",
+          "Digital relay testing",
+          "Earth fault relay testing"
+        ]
+      },
+      {
+        "code": "EE3096E",
+        "title": "Control Systems Lab",
+        "semester": 6,
+        "category": "PC",
+        "L": 0, "T": 0, "P": 2, "O": 1, "credits": 1,
+        "total_sessions": "26 practical sessions",
+        "experiments": [
+          "Transfer function of armature/field controlled DC motor",
+          "Transfer function of amplidyne",
+          "Closed loop position control using DC modular servo system",
+          "Design of Lead, Lag and Lead-Lag compensators",
+          "Closed loop voltage regulation for DC generator using amplidyne",
+          "Inverted pendulum modelling and control",
+          "Twin rotor MIMO system (TRMS) modelling and control",
+          "Level Process Control Station with different control schemes",
+          "Ladder Programming and PLC process control",
+          "Dynamic System Simulation and Control",
+          "Real time control using dSpace",
+          "6 DoF robotic manipulator kinematics"
+        ]
+      }
+    ]
+  },
+  "elective_listings": {
+    "programme_elective_I": {
+      "description": "PE-I: Choose one of these in Semester 7",
+      "courses": [
+        {"code": "EE4021E", "title": "Advanced DC–AC Power Conversion",  "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4022E", "title": "Switched-mode Power Supplies",       "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4023E", "title": "Power Semiconductor Devices",        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4024E", "title": "Power Electronic Drives",            "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3}
+      ]
+    },
+    "programme_electives_II_III": {
+      "description": "PE-II and PE-III: Choose two in Semester 8 (Option C)",
+      "courses": [
+        {"code": "EE4021E", "title": "Advanced DC–AC Power Conversion",   "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4022E", "title": "Switched-mode Power Supplies",       "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4023E", "title": "Power Semiconductor Devices",        "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4024E", "title": "Power Electronic Drives",            "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4025E", "title": "Optimal and Adaptive Control",       "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4026E", "title": "Power System Stability and Control", "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4027E", "title": "Flexible AC Transmission",           "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4028E", "title": "Switchgear and Protection",          "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3},
+        {"code": "EE4029E", "title": "Electricity Markets",                "L": 3, "T": 0, "P": 0, "O": 6, "credits": 3}
+      ]
+    },
+    "additional_electives_OE_DA_HM": {
+      "description": "Courses available for Open Electives (OE), Digital/Automation (DA), Humanities (HM) categories",
+      "courses": [
+        {"code": "EE2021E", "title": "Python Programming and Applications",               "credits": 3, "DA": true},
+        {"code": "EE2022E", "title": "Introduction to C Programming",                    "credits": 3, "DA": true},
+        {"code": "EE3021E", "title": "Digital Control Systems",                          "credits": 3},
+        {"code": "EE3022E", "title": "Electrical Machine Design",                        "credits": 3},
+        {"code": "EE3023E", "title": "Dynamic Analysis of Electrical Machines",          "credits": 3},
+        {"code": "EE3024E", "title": "Electrical System Design for Buildings",           "credits": 3},
+        {"code": "EE3025E", "title": "Digital CMOS Integrated Circuits",                "credits": 3},
+        {"code": "EE3026E", "title": "Electrical Engineering Materials",                 "credits": 3},
+        {"code": "EE3027E", "title": "Dynamic System Simulation",                        "credits": 3},
+        {"code": "EE3028E", "title": "Network Analysis",                                 "credits": 3},
+        {"code": "EE3029E", "title": "Optimization Techniques and Algorithms",           "credits": 3},
+        {"code": "EE3030E", "title": "Artificial Neural Networks and Fuzzy Logic Systems","credits": 3},
+        {"code": "EE3031E", "title": "Special Machines and Linear Machines",             "credits": 3},
+        {"code": "EE3032E", "title": "Electric Power Utilization",                       "credits": 3},
+        {"code": "EE3033E", "title": "Biomedical Engineering",                           "credits": 3},
+        {"code": "EE3034E", "title": "Illumination Engineering",                         "credits": 3},
+        {"code": "EE3035E", "title": "Linear System Theory",                             "credits": 3},
+        {"code": "EE3036E", "title": "Data Structures and Algorithms",                   "credits": 3, "DA": true},
+        {"code": "EE3037E", "title": "LT and HT Distribution Systems",                  "credits": 3},
+        {"code": "EE3038E", "title": "Digital System Design",                            "credits": 3},
+        {"code": "EE3039E", "title": "Advanced Processor Architecture and System Organisation","credits": 3},
+        {"code": "EE3040E", "title": "Electric Vehicle System Engineering",              "credits": 3},
+        {"code": "EE3041E", "title": "Heuristic Methods for Optimization",               "credits": 3},
+        {"code": "EE3042E", "title": "Computer Control of Industrial Processes",         "credits": 3},
+        {"code": "EE3043E", "title": "Bio-Signal Processing",                            "credits": 3},
+        {"code": "EE3044E", "title": "System Identification and Parameter Estimation",   "credits": 3},
+        {"code": "EE3045E", "title": "High Voltage Engineering",                         "credits": 3},
+        {"code": "EE3046E", "title": "Embedded Systems",                                 "credits": 3, "DA": true},
+        {"code": "EE3047E", "title": "Introduction to Data Science",                     "credits": 3, "DA": true},
+        {"code": "EE3048E", "title": "Machine Learning and Deep Learning – Fundamentals and Applications","credits": 3},
+        {"code": "EE3049E", "title": "Introduction to Data Analytics",                   "credits": 3},
+        {"code": "EE3050E", "title": "Grid Integration of Renewable Energy",             "credits": 3},
+        {"code": "EE3051E", "title": "Industrial Automation",                            "credits": 3, "DA": true},
+        {"code": "EE3052E", "title": "Fundamentals of Artificial Intelligence",          "credits": 3},
+        {"code": "EE3053E", "title": "Soft Computing",                                   "credits": 3, "DA": true},
+        {"code": "EE4030E", "title": "Power System Operation and Control",               "credits": 3, "fourth_level_only": true},
+        {"code": "EE4031E", "title": "Non-linear System Analysis",                       "credits": 3, "fourth_level_only": true},
+        {"code": "EE4032E", "title": "Analog MOS Circuits",                              "credits": 3, "fourth_level_only": true},
+        {"code": "EE4033E", "title": "Power Quality",                                    "credits": 3, "fourth_level_only": true},
+        {"code": "EE4034E", "title": "Static VAR Compensation and Harmonic Filtering",   "credits": 3, "fourth_level_only": true},
+        {"code": "EE4035E", "title": "Smart Grid Engineering",                           "credits": 3, "fourth_level_only": true},
+        {"code": "EE4036E", "title": "Advanced Digital Signal Processing",               "credits": 3, "fourth_level_only": true},
+        {"code": "EE4037E", "title": "Control and Guidance Engineering",                 "credits": 3, "fourth_level_only": true},
+        {"code": "EE4038E", "title": "Economic Evaluation of Power Projects",            "credits": 3, "HM": true, "fourth_level_only": true},
+        {"code": "EE4039E", "title": "Hydrogen Economy",                                 "credits": 3, "HM": true, "fourth_level_only": true}
+      ]
+    }
+  },
+  "activity_credits": {
+    "code": "EE4095E",
+    "credits": 4,
+    "points_required": 80,
+    "milestones": [
+      {"milestone": "Minimum 20 points by end of Semester 4"},
+      {"milestone": "Minimum 40 points by end of Semester 6"}
+    ]
+  },
+  "minor_programme": {
+    "description": "Optional Minor Programme (adds 12–16 credits above 153)",
+    "total_credits": "165–169",
+    "courses": [
+      {"slot": "Minor Course-I",   "semester": 4, "L": "3/4", "T": 0, "P": 0, "O": "6/8", "credits": "3/4"},
+      {"slot": "Minor Course-II",  "semester": 5, "L": "3/4", "T": 0, "P": 0, "O": "6/8", "credits": "3/4"},
+      {"slot": "Minor Course-III", "semester": 6, "L": "3/4", "T": 0, "P": 0, "O": "6/8", "credits": "3/4"},
+      {"slot": "Minor Course-IV",  "semester": 7, "L": "3/4", "T": 0, "P": 0, "O": "6/8", "credits": "3/4"}
+    ],
+    "minor_credits_total": "12/16"
+  }
+}
